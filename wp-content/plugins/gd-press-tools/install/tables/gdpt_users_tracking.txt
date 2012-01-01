@@ -1,0 +1,6 @@
+CREATE TABLE `%sgdpt_users_tracking` (
+  `user_id` bigint(20) unsigned NOT NULL default '0',
+  `post_id` bigint(20) unsigned NOT NULL default '0',
+  `day` varchar(10) default '',
+  `views` int(11) unsigned NOT NULL default '0',
+  UNIQUE KEY `user_post_day` (`user_id`, `post_id`, `day`))%COLLATE%;

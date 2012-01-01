@@ -1,0 +1,20 @@
+#BEGIN ReviewAZON
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^images/(.*)/(.*)$ http://ecx.images-amazon.com/images/I/$2 [R,L]
+RewriteRule ^review/(.*)/(.*)/(.*)  /reviewazon.php?asin=$2&link=$1 [R,L]
+</IfModule>
+
+#END ReviewAZON
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

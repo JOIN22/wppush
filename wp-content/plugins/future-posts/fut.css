@@ -1,0 +1,18 @@
+﻿#ucp_content {
+}
+#ucp_content ul{
+}
+#ucp_content ul li{
+}
+.ucp_showtitle {
+	font-weight: bold;
+}
+.ucp_showtime {
+	font-size: 10px;
+	line-height: 10px;
+	text-decoration: underline;
+}
+.ucp_showexcerpt {
+	font-size: 11px;
+	line-height: 10px;
+}

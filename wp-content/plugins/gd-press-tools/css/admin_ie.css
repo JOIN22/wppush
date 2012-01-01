@@ -1,0 +1,7 @@
+.gdptserver table { table-layout: fixed; }
+
+.gdptserver td.first { width: 170px; }
+
+.phpinfo { overflow: hidden; white-space: nowrap; }
+
+.phpinfo td.first { width: 300px; }

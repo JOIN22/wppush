@@ -1,0 +1,85 @@
+.selectors {
+	background-color:white;
+	padding: 10px 10px 10px 10px;
+	margin-right:15px;
+}
+
+.google-privacy-policy_description_text {
+	max-width:500px;
+	text-align:left;
+	display:none;
+	border:1px solid black;
+	float:right;
+}
+
+.google-privacy-policy_description {
+	cursor:pointer;
+}
+		#google_privacy_policy_main {
+			width:824px;
+			}
+			
+		#google_privacy_policy_left_wrap {
+			float:left;
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			margin-right:15px;
+			border: 1px solid #ddd;
+			}
+			
+		#google_privacy_policy_left_inside {
+			width:350px;
+			height:180px;
+			}
+			
+		#google_privacy_policy_right_wrap {
+			float:left;
+			background-color:white;
+			padding: 10px 10px 10px 10px;
+			border: 1px solid #ddd;
+			}
+			
+		#google_privacy_policy_right_inside {
+			width:415px;
+			height:180px;
+			}
+			
+		.wp-db-backup-updated {
+			margin-top: 1em;
+			}
+
+		fieldset.options {
+			border: 1px solid;
+			margin-top: 1em;
+			padding: 1em;
+			width:795px;
+			}
+			fieldset.options div.tables-list {
+				float: left;
+				padding: 1em;
+				}
+
+			fieldset.options input {
+				}
+
+			fieldset.options legend {
+				font-size: larger;
+				font-weight: bold;
+				margin-bottom: .5em;
+				padding: 1em;
+				}
+		
+			fieldset.options .instructions {
+				font-size: smaller;
+				}
+
+			fieldset.options ul {
+				list-style-type: none;
+				}
+				fieldset.options li {
+					text-align: left;
+					}
+
+			fieldset.options .submit {
+				border-top: none;
+				}

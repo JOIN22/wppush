@@ -1,0 +1,69 @@
+div.dashboard-left { margin-right: 15px; }
+
+div.dashboard-widget {
+	border-style: solid;
+	border-width: 1px;
+	font-size: 11px;
+	margin-top: 10px;
+	overflow: auto;
+	padding: 2px;
+	position: relative;
+}
+
+div.dashboard-widget-content { padding: 10px 15px; }
+
+div.dashboard-widget-holder { float: left; margin-top: 20px; width: 49%; }
+
+div.dashboard-widget-holder.full { width: 100%; }
+
+h3.dashboard-widget-title {
+	font-size: 14px;
+	line-height: 2;
+	margin: 0;
+	padding: 0 7px;
+}
+
+h3.dashboard-widget-title small {
+	display: block;
+	float: right;
+	font-size: 75%;
+	line-height: 2.67;
+	text-align: right;
+	color: #2583AD;
+}
+
+h3.dashboard-widget-title small a { color: #2583AD; }
+
+h3.dashboard-widget-title span { display: block; float: left; text-align: left; }
+
+textarea, input, select { border-color: #696969; }
+
+.form-table td, .form-table th { border-bottom: 6px solid #F9F9F9; }
+
+.form-table th { font-weight: bold; }
+
+.rss-date { padding-left: 5px; }
+
+.search-input { border-style: solid; border-width: 1px; padding: 2px; }
+
+.ui-datepicker.ui-widget { font-size: 0.9em; line-height: 1.1em; }
+
+.ui-tabs .ui-tabs-nav li a { padding: .2em .6em; }
+
+.ui-tabs .ui-tabs-panel { padding: .4em; }
+
+#dashboard-widgets { padding-top: 0px; }
+
+#gdptlogo { margin-top: 10px; }
+
+#post-search { float: right; margin: -5px 0 0; }
+
+.gdsr .widefat thead, .gdsr .previewtable thead {
+	background: #333333 url(../gfx/jquery-ui-1.7/ui-bg_diagonals-thick_8_333333_40x40.png) repeat scroll 50% 50%;
+}
+
+.gdrgrid h3 {
+	background: #333333 url(../gfx/jquery-ui-1.7/ui-bg_diagonals-thick_8_333333_40x40.png) repeat scroll 50% 50%;
+	color: white;
+	text-shadow: none;
+}

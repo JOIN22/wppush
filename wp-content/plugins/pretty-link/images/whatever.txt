@@ -1,0 +1,13 @@
+wget http://speckyboy.com/wp-content/plugins/sociable/images/delicious_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/stumbleupon_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/digg_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/twitter_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/mixx_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/technorati_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/facebook_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/newsvine_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/reddit_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/linkedin_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/co.mments.gif
+wget http://speckyboy.com/wp-content/plugins/sociable/images/yahoobuzz_32.png
+wget http://speckyboy.com/wp-content/plugins/sociable/images/email_32.png

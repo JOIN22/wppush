@@ -1,0 +1,1548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-14 13:23+0800\n"
+"Last-Translator: Awu <awuitcn@gmail.com>\n"
+"Language-Team:  <awuitcn@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+
+#: code/db.php:108
+msgid "None"
+msgstr "没有"
+
+#: code/db.php:109
+msgid "Index, Follow"
+msgstr "Index, Follow"
+
+#: code/db.php:110
+msgid "Index, No follow"
+msgstr "Index, No follow"
+
+#: code/db.php:111
+msgid "No index, Follow"
+msgstr "No index, Follow"
+
+#: code/db.php:112
+msgid "No index, No follow"
+msgstr "No index, No follow"
+
+#: code/db.php:218
+msgid "Username is invalid."
+msgstr "此用户名不可用."
+
+#: code/db.php:219
+msgid "Username is the same. Nothing is changed."
+msgstr "用户名是一样的,没有改变."
+
+#: code/db.php:220
+msgid "Choosen username already exists."
+msgstr "此用户名已经存在."
+
+#: code/functions.php:57
+msgid "RSS feed is not available. Instead, please visit our website: "
+msgstr "RSS订阅不可用.您可以查看:"
+
+#: code/js.php:2
+msgid "Are you sure? Operation is not reversible."
+msgstr "确定吗?操作是不可逆的."
+
+#: code/js.php:5
+msgid "Are you sure?"
+msgstr "确定吗?"
+
+#: code/meta.php:14
+#: gd-press-tools.php:665
+msgid "Front Page"
+msgstr "首选项"
+
+#: code/meta.php:15
+msgid "Single Post"
+msgstr "单个文章"
+
+#: code/meta.php:16
+msgid "Single Page"
+msgstr "单个页面"
+
+#: code/meta.php:17
+msgid "Search Results Page"
+msgstr "搜索结果页"
+
+#: code/meta.php:18
+msgid "Tag Archives"
+msgstr "标签存档"
+
+#: code/meta.php:19
+msgid "Category Archives"
+msgstr "分类存档"
+
+#: code/meta.php:20
+msgid "Date based Archives"
+msgstr "日期存档"
+
+#: code/meta.php:21
+msgid "Author Archives"
+msgstr "作者存档"
+
+#: code/meta.php:22
+msgid "Login Page"
+msgstr "登录页"
+
+#: code/meta.php:23
+msgid "Administration Pages"
+msgstr "管理页"
+
+#: modules/db/backup.php:2
+#: modules/widgets/dashboard.php:80
+#: modules/settings.php:6
+#: gd-press-tools.php:675
+#: gd-press-tools.php:956
+msgid "Settings"
+msgstr "综合设置"
+
+#: modules/db/backup.php:4
+msgid "Database backup file will be saved into this folder"
+msgstr "数据库备份文件保存在"
+
+#: modules/db/backup.php:7
+msgid "Save database backup as GZIP archive."
+msgstr "数据库备份为GZip压缩格式."
+
+#: modules/db/backup.php:9
+msgid "Add DROP IF NOT EXISTS query for each table."
+msgstr "查询数据表不存在时DROP操作."
+
+#: modules/db/backup.php:11
+msgid "Export only tables structure, no data."
+msgstr "仅导出表的结构,不导出数据."
+
+#: modules/db/backup.php:13
+#: modules/db.php:39
+msgid "Backup"
+msgstr "备份"
+
+#: modules/db/backup.php:16
+msgid "Backups"
+msgstr "备份文件"
+
+#: modules/db/backup.php:18
+msgid "This is the list of available backups for download"
+msgstr "这是可供下载的备份列表"
+
+#: modules/db/backup.php:22
+msgid "No backup files found in backup folder."
+msgstr "没有备份文件."
+
+#: modules/db/backup.php:5
+msgid "Plugin can't access the backup folder. Check the folder access rights before proceeding."
+msgstr "无法访问备份文件夹,请检查此文件夹的访问权限."
+
+#: modules/db/tables.php:4
+#: modules/db/tables.php:51
+msgid "Name"
+msgstr "名称"
+
+#: modules/db/tables.php:5
+#: modules/tagger.php:41
+msgid "Status"
+msgstr "状态"
+
+#: modules/db/tables.php:6
+msgid "Collation"
+msgstr "排序"
+
+#: modules/db/tables.php:7
+msgid "Records"
+msgstr "记录"
+
+#: modules/db/tables.php:8
+msgid "Size"
+msgstr "大小"
+
+#: modules/db/tables.php:9
+msgid "Overhead"
+msgstr "开销"
+
+#: modules/db/tables.php:10
+#: modules/cron.php:18
+#: gd-press-tools.php:1064
+msgid "Options"
+msgstr "操作"
+
+#: modules/db/tables.php:52
+msgid "Type"
+msgstr "类型"
+
+#: modules/db/tables.php:53
+msgid "Key"
+msgstr "关键字"
+
+#: modules/db/tables.php:54
+msgid "Default"
+msgstr "默认"
+
+#: modules/db/tables.php:55
+msgid "Extra"
+msgstr "额外"
+
+#: modules/db/tables.php:82
+msgid "Default WordPress tables can't be emptied or droped."
+msgstr "默认的WordPress表不能被清空."
+
+#: modules/db/tables.php:40
+msgid "drop"
+msgstr "drop"
+
+#: modules/db/tables.php:40
+msgid "empty"
+msgstr "empty"
+
+#: modules/db/tools.php:1
+msgid "Optimize Database"
+msgstr "优化数据库"
+
+#: modules/db/tools.php:4
+msgid "Optimize, remove overhead and repair all tables if needed."
+msgstr "优化,清理和修复数据库."
+
+#: modules/db/tools.php:5
+msgid "Clean"
+msgstr "优化"
+
+#: modules/db/tools.php:7
+msgid "Overhead can have negative impact to WordPress performance, and is best to have database optimized from time to time."
+msgstr "不定期的优化数据库,可以提高WordPress的性能."
+
+#: modules/db/tools.php:11
+msgid "Delete Backups"
+msgstr "删除备份"
+
+#: modules/db/tools.php:14
+msgid "Delete all database backup files from the backup folder."
+msgstr "删除所有的备份文件."
+
+#: modules/db/tools.php:15
+#: modules/admin.php:26
+#: modules/posts.php:30
+#: modules/posts.php:46
+msgid "Delete"
+msgstr "删除"
+
+#: modules/db/tools.php:17
+msgid "Currently available backup files"
+msgstr "当前可用备份文件数"
+
+#: modules/front/gdragon.php:4
+msgid "Info"
+msgstr "信息"
+
+#: modules/front/gdragon.php:8
+#: modules/front/infos.php:49
+#: modules/front/infos.php:96
+msgid "Version"
+msgstr "版本"
+
+#: modules/front/gdragon.php:9
+msgid "release date"
+msgstr "发布日期"
+
+#: modules/front/gdragon.php:14
+msgid "Change Log"
+msgstr "更新日志"
+
+#: modules/front/gdragon.php:15
+msgid "detailed list of changes"
+msgstr "详细的更新列表"
+
+#: modules/front/gdragon.php:16
+#: modules/front/gdragon.php:27
+#: modules/front/gdragon.php:32
+#: modules/front/gdragon.php:37
+#: modules/front/gdragon.php:42
+#: modules/front/gdragon.php:66
+#: modules/front/gdragon.php:71
+#: modules/front/gdragon.php:76
+#: modules/front/gdragon.php:81
+#: modules/front/gdragon.php:86
+#: modules/front/gdragon.php:100
+#: modules/front/gdragon.php:105
+#: modules/front/gdragon.php:110
+#: modules/front/gdragon.php:115
+#: modules/front/gdragon.php:120
+msgid "visit"
+msgstr "查看"
+
+#: modules/front/gdragon.php:21
+msgid "Links"
+msgstr "相关链接"
+
+#: modules/front/gdragon.php:26
+msgid "official plugin page"
+msgstr "插件官方页面"
+
+#: modules/front/gdragon.php:31
+msgid "discussions group"
+msgstr "Google讨论小组"
+
+#: modules/front/gdragon.php:36
+msgid "wordpress plugin page"
+msgstr "在wordpressr插件页面"
+
+#: modules/front/gdragon.php:40
+msgid "Donate"
+msgstr "捐助"
+
+#: modules/front/gdragon.php:41
+msgid "help further development"
+msgstr "帮助作者更好的开发"
+
+#: modules/front/gdragon.php:46
+msgid "Pro Edition"
+msgstr "专业版"
+
+#: modules/front/gdragon.php:50
+#: modules/front/gdragon.php:98
+msgid "Official Website"
+msgstr "Official Website"
+
+#: modules/front/gdragon.php:51
+msgid "extended premium version"
+msgstr "扩展的高级版本"
+
+#: modules/front/gdragon.php:52
+msgid "soon"
+msgstr "很快"
+
+#: modules/front/gdragon.php:59
+msgid "GD WordPress Plugins"
+msgstr "GD WordPress 插件"
+
+#: modules/front/gdragon.php:65
+msgid "wordpress ratings system"
+msgstr "wordpress星级评分"
+
+#: modules/front/gdragon.php:70
+#: gd-press-tools.php:761
+msgid "collection of widgets"
+msgstr "简单小工具集"
+
+#: modules/front/gdragon.php:75
+msgid "advanced pages widget"
+msgstr "高级页面小工具"
+
+#: modules/front/gdragon.php:80
+msgid "custom taxonomies managment"
+msgstr "自定义分类管理"
+
+#: modules/front/gdragon.php:85
+msgid "widget to add linkedin badge"
+msgstr "添加链接标志的小工具"
+
+#: modules/front/gdragon.php:99
+msgid "golden dragon official web portal"
+msgstr "golden dragon official web portal"
+
+#: modules/front/gdragon.php:104
+msgid "wordpress development"
+msgstr "wordpress development"
+
+#: modules/front/gdragon.php:109
+msgid "tv shows reviews and news"
+msgstr "tv shows reviews and news"
+
+#: modules/front/gdragon.php:113
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: modules/front/gdragon.php:114
+msgid "development discussion forum"
+msgstr "development discussion forum"
+
+#: modules/front/gdragon.php:119
+msgid "announcements and theme demo"
+msgstr "announcements and theme demo"
+
+#: modules/front/infos.php:2
+msgid "Plugin Quick Facts"
+msgstr "插件信息"
+
+#: modules/front/infos.php:7
+msgid "Deleted revisions"
+msgstr "已删除的修订"
+
+#: modules/front/infos.php:11
+msgid "Saved on database cleanup"
+msgstr "数据库清理"
+
+#: modules/front/infos.php:19
+msgid "Server Status"
+msgstr "服务器状态"
+
+#: modules/front/infos.php:24
+msgid "Server"
+msgstr "服务器"
+
+#: modules/front/infos.php:28
+msgid "Operating System"
+msgstr "操作系统"
+
+#: modules/front/infos.php:32
+msgid "Hostname"
+msgstr "主机名"
+
+#: modules/front/infos.php:36
+msgid "IP and Port"
+msgstr "IP地址和端口"
+
+#: modules/front/infos.php:44
+msgid "PHP Status"
+msgstr "PHP状态"
+
+#: modules/front/infos.php:54
+msgid "Used Memory"
+msgstr "已使用的内存"
+
+#: modules/front/infos.php:59
+msgid "Safe Mode"
+msgstr "安全模式"
+
+#: modules/front/infos.php:63
+msgid "Memory Limit"
+msgstr "内存限制"
+
+#: modules/front/infos.php:67
+msgid "Max POST Size"
+msgstr "最大文章大小"
+
+#: modules/front/infos.php:71
+msgid "Max Upload Size"
+msgstr "最大上传文件大小"
+
+#: modules/front/infos.php:75
+msgid "Max Execution Time"
+msgstr "最大执行时间"
+
+#: modules/front/infos.php:79
+msgid "Allow URL fopen"
+msgstr "允许包含远程文件"
+
+#: modules/front/infos.php:83
+msgid "GD Library"
+msgstr "GD库"
+
+#: modules/front/infos.php:91
+msgid "mySQL Status"
+msgstr "mySQL状态"
+
+#: modules/front/infos.php:100
+msgid "Full Database Size"
+msgstr "数据库大小"
+
+#: modules/front/infos.php:104
+msgid "WordPress Tables Size"
+msgstr "WordPress表大小"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "On"
+msgstr "On"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "Off"
+msgstr "Off"
+
+#: modules/integrate/postedit.php:5
+#: modules/settings.php:10
+msgid "Short URL"
+msgstr "缩短URL"
+
+#: modules/integrate/postedit.php:8
+msgid "Robots Meta Tag"
+msgstr "Meta Tag"
+
+#: modules/integrate/postedit.php:9
+msgid "Use global meta tag settings"
+msgstr "使用全局的标签设置"
+
+#: modules/integrate/postedit.php:15
+msgid "Standard"
+msgstr "标准:"
+
+#: modules/integrate/postedit.php:23
+msgid "No Yahoo"
+msgstr "No Yahoo"
+
+#: modules/integrate/postedit.php:26
+msgid "No Archive"
+msgstr "No Archive"
+
+#: modules/integrate/postedit.php:31
+msgid "No ODP"
+msgstr "No ODP"
+
+#: modules/integrate/postedit.php:34
+msgid "No Snippet"
+msgstr "No Snippet"
+
+#: modules/integrate/postedit.php:39
+msgid "No Image Index"
+msgstr "No Image Index"
+
+#: modules/integrate/postedit.php:42
+msgid "No Translate"
+msgstr "No Translate"
+
+#: modules/meta/general.php:2
+msgid "Default Robots Meta"
+msgstr "默认Meta"
+
+#: modules/meta/general.php:4
+msgid "Try to disable standard Noindex meta tag added by WordPress."
+msgstr "禁用由 WordPress提供的meta添加功能."
+
+#: modules/meta/general.php:6
+msgid "Enable this option if you want to use advanced robots meta tag generator."
+msgstr "如果您想使用高级的meta生成,请启用此选项."
+
+#: modules/meta/general.php:9
+msgid "Language Meta Tag"
+msgstr "Meta语言"
+
+#: modules/meta/general.php:11
+msgid "Add content language meta tag site wide. You can specify more than one language for this tag."
+msgstr "您可以添加其他的语言meta."
+
+#: modules/meta/general.php:15
+msgid "List of languages to add"
+msgstr "语言列表添加："
+
+#: modules/meta/general.php:20
+msgid "list comma separated 2 character codes"
+msgstr "2个字符的代码"
+
+#: modules/meta/general.php:25
+msgid "List of all supported 2 character language codes can be found here"
+msgstr "所有支持2字符的语言代码列表可以在这里找到"
+
+#: modules/meta/general.php:26
+msgid "Codes for the Representation of Names of Languages"
+msgstr "Codes for the Representation of Names of Languages"
+
+#: modules/meta/general.php:30
+#: modules/settings.php:49
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: modules/meta/robots.php:6
+msgid "active"
+msgstr "活动"
+
+#: modules/meta/robots.php:35
+msgid "Save"
+msgstr "保存"
+
+#: modules/meta/robots.php:38
+msgid "Load Defaults"
+msgstr "加载默认"
+
+#: modules/meta/robots.php:39
+msgid "Clear"
+msgstr "清理"
+
+#: modules/settings/administration.php:1
+#: modules/posts.php:25
+msgid "Revisions"
+msgstr "修订版"
+
+#: modules/settings/administration.php:5
+msgid "Number of revisions to save"
+msgstr "保存的修订数:"
+
+#: modules/settings/administration.php:10
+msgid "to store every revision"
+msgstr "存储每次修订"
+
+#: modules/settings/administration.php:11
+msgid "to store only one autosave revision"
+msgstr "仅仅自动存储一次修订"
+
+#: modules/settings/administration.php:14
+msgid "Updates"
+msgstr "更新"
+
+#: modules/settings/administration.php:16
+msgid "Disable WordPress core auto update check."
+msgstr "禁用WordPress自动更新检查."
+
+#: modules/settings/administration.php:18
+msgid "Disable plugins auto upgrade check."
+msgstr "禁用插件自动升级检查."
+
+#: modules/settings/administration.php:20
+msgid "Disable themes auto upgrade check."
+msgstr "禁用插件自动升级检查."
+
+#: modules/settings/administration.php:20
+#: modules/settings/integration.php:11
+#: modules/settings/integration.php:13
+#: modules/settings/integration.php:19
+#: modules/settings/integration.php:21
+#: modules/settings/integration.php:23
+msgid "WP 2.8 and higher."
+msgstr "WP 2.8 或者更高."
+
+#: modules/settings/administration.php:23
+msgid "Misc"
+msgstr "Misc"
+
+#: modules/settings/administration.php:25
+msgid "Disable Flash uploader."
+msgstr "禁用Flash上传."
+
+#: modules/settings/administration.php:27
+msgid "Disable post auto save."
+msgstr "禁用文章自动保存."
+
+#: modules/settings/administration.php:30
+msgid "Footer Stats"
+msgstr "页脚统计"
+
+#: modules/settings/administration.php:32
+msgid "Display page loading stats in the footer."
+msgstr "在页脚中显示页面加载的统计信息."
+
+#: modules/settings/administration.php:34
+msgid "This will show page loading statistics data (executed queries, load time and used memory) in the admin page footer."
+msgstr "这个将会在页脚显示一些数据(执行查询,加载时间,已用内存)."
+
+#: modules/settings/debug.php:1
+msgid "Log File"
+msgstr "日志文件"
+
+#: modules/settings/debug.php:3
+msgid "Log SQL queries executed by the plugin."
+msgstr "通过插件执行SQL查询日志."
+
+#: modules/settings/debug.php:9
+msgid "SQL Queries"
+msgstr "SQL查询"
+
+#: modules/settings/debug.php:11
+msgid "Enable logging of SQL queries. This option must be active to all options bellow to work."
+msgstr "启用SQL查询的记录.此选项必须激活才可以使所有选项有效."
+
+#: modules/settings/debug.php:15
+msgid "Add SQL queries at the end of the admin pages."
+msgstr "在管理页面底部添加SQL查询."
+
+#: modules/settings/debug.php:19
+msgid "Add SQL queries at the end of the blog pages."
+msgstr "在博客页面底部添加SQL查询."
+
+#: modules/settings/debug.php:24
+msgid "Set minimal user level to see all the executed queries by WordPress."
+msgstr "允许用户级别设置为最低可以看到所有WordPress执行的查询."
+
+#: modules/settings/debug.php:5
+msgid "For logging to work %s in file %s must be set to %s."
+msgstr "为了日志可以工作,%s在 %s中必须设为 %s."
+
+#: modules/settings/debug.php:6
+msgid "Debug data is saved into file set with %s variable in this config file. Default location is %s file in plugin folder, so this file needs to be writable."
+msgstr "调试数据被保存到配置文件中通过%s变量.默认是插件文件夹中的 %s文件,因此此文件必须具有可写权限."
+
+#: modules/settings/integration.php:1
+msgid "Grids Columns"
+msgstr "列设置"
+
+#: modules/settings/integration.php:3
+msgid "Add extra options for the post and page edit panel table."
+msgstr "在文章和页面编辑面板添加更多的选项."
+
+#: modules/settings/integration.php:5
+msgid "Add ID column on the post and page edit panel table."
+msgstr "在文章和页面编辑页添加ID列."
+
+#: modules/settings/integration.php:7
+msgid "Add sticky status column on the post and page edit panel table."
+msgstr "在文章和页面编辑面板添加置顶列."
+
+#: modules/settings/integration.php:9
+msgid "Add views column on the post and page edit panel table."
+msgstr "在文章和页面编辑面板添加意见列."
+
+#: modules/settings/integration.php:11
+msgid "Add ID column on the post categories edit panel table."
+msgstr "在分类编辑面板添加ID列."
+
+#: modules/settings/integration.php:13
+msgid "Add ID column on the post tags and custom taxonomies edit panels tables."
+msgstr "在文章标签和自定义分类编辑面板添加ID列."
+
+#: modules/settings/integration.php:15
+msgid "Add ID column on the media edit panel table."
+msgstr "在媒体编辑面板添加ID列."
+
+#: modules/settings/integration.php:17
+msgid "Add ID column on the links edit panel table."
+msgstr "在链接编辑面板添加ID列."
+
+#: modules/settings/integration.php:19
+msgid "Add ID column on the users edit panel table."
+msgstr "在用户编辑面板添加ID列."
+
+#: modules/settings/integration.php:21
+msgid "Add column with comments count on the users edit panel table."
+msgstr "在用户编辑面板添加用户评论数."
+
+#: modules/settings/integration.php:23
+msgid "Add display name column on the users edit panel table."
+msgstr "在用户编辑面板显示用户名列表."
+
+#: modules/settings/integration.php:26
+msgid "Grids Rows"
+msgstr "行设置"
+
+#: modules/settings/integration.php:30
+msgid "Number of posts in grid on edit posts panel"
+msgstr "在编辑文章面板要显示的文章数"
+
+#: modules/settings/integration.php:35
+msgid "Enter 0 or less to disable modification."
+msgstr "输入0或不修改."
+
+#: modules/settings/integration.php:38
+msgid "Descriptions"
+msgstr "说明"
+
+#: modules/settings/integration.php:40
+msgid "Allow saving HTML for tag, category and term descriptions, link description and notes and user description."
+msgstr "对于标签,分类,描述,链接,允许使用HTML代码."
+
+#: modules/settings/integration.php:41
+msgid "By default WordPress strips all HTML elements from these fields."
+msgstr "默认情况下WordPress剥离这些领域的所有HTML元素。"
+
+#: modules/settings/integration.php:43
+msgid "Allow HTML in description for category, tag or custom taxonomy term."
+msgstr "允许HTML在标签或分类."
+
+#: modules/settings/integration.php:45
+msgid "Allow HTML in description for links."
+msgstr "允许HTML在链接."
+
+#: modules/settings/integration.php:47
+msgid "Allow HTML in note for links."
+msgstr "允许HTML在链接描述."
+
+#: modules/settings/integration.php:49
+msgid "Allow HTML in biographical info for user."
+msgstr "允许HTML在用户描述."
+
+#: modules/settings/php.php:1
+msgid "Memory Limits"
+msgstr "内存限制"
+
+#: modules/settings/php.php:6
+msgid "Memory allocated by PHP"
+msgstr "启用内存分配"
+
+#: modules/settings/php.php:14
+msgid "Modifying these settings can have negative impact on your server and website performance. If you are not sure what you doing, don't change these values."
+msgstr "修改这些设置可能对您的服务器和网站的性能产生负面影响.如果你不知道这是什么,不建议更改这些值."
+
+#: modules/settings/rss.php:1
+msgid "RSS Feeds"
+msgstr "RSS Feeds"
+
+#: modules/settings/rss.php:3
+msgid "Disable all RSS feeds."
+msgstr "禁用所有的RSS"
+
+#: modules/settings/rss.php:6
+msgid "Deleyed Posting"
+msgstr "延迟更新"
+
+#: modules/settings/rss.php:11
+msgid "Delayed posting for RSS feeds"
+msgstr "延迟更新RSS"
+
+#: modules/settings/rss.php:14
+msgid "minutes"
+msgstr "分钟"
+
+#: modules/settings/rss.php:19
+msgid "With this option active, when you publish new post this post will be part of the RSS feed after number of minutes specified."
+msgstr "激活此选项,当您发布的新的文章后,RSS会在您指定的分钟后更新."
+
+#: modules/settings/rss.php:20
+msgid "This will give you enought time to discover potential errors in the post."
+msgstr "这将使您有足够的时间来发现和更改潜在的错误."
+
+#: modules/settings/rss.php:23
+msgid "Expand RSS Items"
+msgstr "扩展RSS"
+
+#: modules/settings/rss.php:25
+msgid "Insert content before RSS feed item"
+msgstr "在RRS前插入内容"
+
+#: modules/settings/rss.php:28
+msgid "Insert content after RSS feed item"
+msgstr "在RRS后插入内容"
+
+#: modules/settings/security.php:1
+#: gd-press-tools.php:749
+msgid "Header"
+msgstr "头部"
+
+#: modules/settings/security.php:3
+msgid "Remove WordPress version."
+msgstr "去掉WordPress的版本."
+
+#: modules/settings/security.php:5
+msgid "Remove Really Simple Discovery link from header."
+msgstr "移除 Really Simple Discovery link."
+
+#: modules/settings/security.php:7
+msgid "Remove Windows Live Writer link from header."
+msgstr "移除 Windows Live撰写."
+
+#: modules/settings/security.php:10
+msgid "Login"
+msgstr "登录"
+
+#: modules/settings/security.php:12
+msgid "Remove error messages from login screen."
+msgstr "在登录屏幕不显示错误信息."
+
+#: modules/settings/security.php:15
+msgid "Authorization"
+msgstr "授权"
+
+#: modules/settings/security.php:17
+msgid "Prevent website access if the user is not logged in."
+msgstr "如果没有登录禁止访问网站."
+
+#: modules/settings/security.php:20
+msgid "Plugin Update"
+msgstr "插件更新"
+
+#: modules/settings/security.php:22
+msgid "Report basic usage data that will be used for statistical purposes only."
+msgstr "仅仅报告的基本使用数据."
+
+#: modules/settings/security.php:24
+msgid "This report will include your WordPress version and website URL. Report will be sent only when plugin needs to be updated."
+msgstr "该报告将包括您的WordPress版本和网站的网址,报告将发送只有插件只有需要更新时."
+
+#: modules/settings/shorturl.php:2
+msgid "Shortening URL's"
+msgstr "缩短URL"
+
+#: modules/settings/shorturl.php:4
+msgid "Activate shortening URL's service."
+msgstr "激活缩短URL服务."
+
+#: modules/settings/shorturl.php:9
+msgid "URL format"
+msgstr "URL格式"
+
+#: modules/settings/shorturl.php:14
+msgid "Prefix for creating URL"
+msgstr "创建URL前缀"
+
+#: modules/settings/shorturl.php:18
+msgid "only letters are allowed."
+msgstr "只允许字母."
+
+#: modules/settings/shorturl.php:19
+msgid "URL will look like this"
+msgstr "URL将会这样展示"
+
+#: modules/settings/shorturl.php:6
+msgid "For this to work, you must use permalinks feature build in the Wordpress."
+msgstr "使用此服务,您必须开启使用WordPress的永久链接功能."
+
+#: modules/settings/tracking.php:1
+msgid "Posts &amp; Pages Views"
+msgstr "文章&amp;页面查看"
+
+#: modules/settings/tracking.php:3
+msgid "Posts and Pages view tracking active."
+msgstr "激活文章和页面查看跟踪."
+
+#: modules/settings/tracking.php:8
+#: modules/settings/tracking.php:47
+msgid "Track posts."
+msgstr "跟踪文章。"
+
+#: modules/settings/tracking.php:12
+#: modules/settings/tracking.php:51
+msgid "Track pages."
+msgstr "踊跃页面."
+
+#: modules/settings/tracking.php:17
+msgid "Track registered users."
+msgstr "踊跃已注册用户."
+
+#: modules/settings/tracking.php:21
+msgid "Track visitors."
+msgstr "跟踪游客."
+
+#: modules/settings/tracking.php:29
+#: modules/settings/tracking.php:59
+msgid "Ignore Users"
+msgstr "忽略用户"
+
+#: modules/settings/tracking.php:34
+#: modules/settings/tracking.php:64
+msgid "list comma separated users id's"
+msgstr "多个用户ID之间用逗号分隔"
+
+#: modules/settings/tracking.php:40
+msgid "Users Browsing"
+msgstr "正在浏览的用户"
+
+#: modules/settings/tracking.php:42
+msgid "Track posts and pages registered users are visiting."
+msgstr "跟踪注册用户正在访问的文章和页面."
+
+#: modules/settings/widgets.php:1
+msgid "Dashboard"
+msgstr "边栏"
+
+#: modules/settings/widgets.php:5
+msgid "Widget with some additional statistical info."
+msgstr "关于一些统计信息的小工具."
+
+#: modules/settings/widgets.php:10
+msgid "Set minimal user level to see the widget for each widget individually."
+msgstr "用户级别设置为最低以至可以看到每个小工具信息."
+
+#: modules/settings/widgets.php:13
+msgid "Post Editor"
+msgstr "文章编辑"
+
+#: modules/settings/widgets.php:15
+msgid "Add options widget to post and page edit panel."
+msgstr "添加文章和页面编辑面板的小工具选项."
+
+#: modules/widgets/dashboard.php:15
+msgid "Additional Statistics Info"
+msgstr "其他统计信息"
+
+#: modules/widgets/dashboard.php:26
+msgid "Revisions for all published posts"
+msgstr "所有文章的修订版"
+
+#: modules/widgets/dashboard.php:29
+#: modules/widgets/dashboard.php:38
+msgid "delete"
+msgstr "删除"
+
+#: modules/widgets/dashboard.php:35
+msgid "Spam comments"
+msgstr "垃圾评论"
+
+#: modules/widgets/dashboard.php:44
+msgid "Overhead for all database tables"
+msgstr "所有数据表的总开销"
+
+#: modules/widgets/dashboard.php:47
+msgid "cleanup"
+msgstr "清理"
+
+#: modules/widgets/dashboard.php:55
+msgid "Posts &amp; Pages Tracking"
+msgstr "文章 &amp;页面跟踪"
+
+#: modules/widgets/dashboard.php:60
+#: gd-press-tools.php:1066
+msgid "Views"
+msgstr "查看"
+
+#: modules/widgets/dashboard.php:61
+msgid "tracking posts and pages"
+msgstr "跟踪文章和页面"
+
+#: modules/widgets/dashboard.php:62
+#: modules/widgets/dashboard.php:68
+msgid "ON"
+msgstr "ON"
+
+#: modules/widgets/dashboard.php:63
+#: modules/widgets/dashboard.php:69
+msgid "OFF"
+msgstr "OFF"
+
+#: modules/widgets/dashboard.php:66
+msgid "Users"
+msgstr "用户"
+
+#: modules/widgets/dashboard.php:67
+msgid "tracking users website browsing"
+msgstr "跟踪正在访问的用户"
+
+#: modules/widgets/dashboard.php:75
+msgid "Press Tools Quick Access"
+msgstr "快速访问"
+
+#: modules/widgets/dashboard.php:81
+msgid "all additional WordPress settings"
+msgstr "所有其他的WordPress设置"
+
+#: modules/widgets/dashboard.php:82
+#: modules/widgets/dashboard.php:87
+#: modules/widgets/dashboard.php:92
+#: modules/widgets/dashboard.php:3
+msgid "show"
+msgstr "显示"
+
+#: modules/widgets/dashboard.php:85
+msgid "Enviroment"
+msgstr "环境"
+
+#: modules/widgets/dashboard.php:86
+msgid "panel with PHP and mySQL information"
+msgstr "PHP各mySQL信息面板"
+
+#: modules/widgets/dashboard.php:90
+msgid "Scheduler"
+msgstr "Scheduler"
+
+#: modules/widgets/dashboard.php:91
+msgid "all scheduled cron jobs"
+msgstr "all scheduled cron jobs"
+
+#: modules/widgets/dashboard.php:4
+msgid "hide"
+msgstr "隐藏"
+
+#: modules/admin.php:7
+#: modules/settings.php:13
+#: gd-press-tools.php:669
+msgid "Administration"
+msgstr "管理员"
+
+#: modules/admin.php:10
+msgid "Username"
+msgstr "用户名"
+
+#: modules/admin.php:13
+msgid "Change the username for your account. If the change is successful, you will be logged out and you need to login back using new username."
+msgstr "更改您的帐户的用户名.如果更改成功,您将被注销,并使用新的用户名登录."
+
+#: modules/admin.php:15
+msgid "Change"
+msgstr "更改"
+
+#: modules/admin.php:17
+msgid "Plugin will change username value in following tables"
+msgstr "改变用户名后会改变下面相应的值"
+
+#: modules/admin.php:18
+msgid "and"
+msgstr "和"
+
+#: modules/admin.php:22
+msgid "Cached RSS Feeds"
+msgstr "RSS订阅缓存"
+
+#: modules/admin.php:25
+msgid "Delete all RSS cached content."
+msgstr "删除所有的RSS缓存的内容."
+
+#: modules/admin.php:28
+msgid "RSS feeds are stored into options database table. Number of feeds and their data can grow out of control, so it's safe to clean it from time to time."
+msgstr "RSS订阅存储在数据库的表中,随着订阅的增长,请不定期的清理它."
+
+#: modules/admin.php:32
+msgid "Reset Widgets"
+msgstr "重置小工具"
+
+#: modules/admin.php:35
+msgid "Reset all sidebars, and remove all widgets from them."
+msgstr "重置边栏,并删除所有的小工具."
+
+#: modules/admin.php:36
+msgid "Reset"
+msgstr "重置"
+
+#: modules/admin.php:38
+msgid "Use this if you change themes with different number of sidebars and single instance widgets."
+msgstr "如果改变了主题,并重新设置边栏."
+
+#: modules/admin.php:42
+msgid "Folder Protection"
+msgstr "文件夹保护"
+
+#: modules/admin.php:47
+msgid "Protect"
+msgstr "保护"
+
+#: modules/admin.php:49
+msgid "For this to work all these folders must be writable so the plugin can create new files."
+msgstr "对于一些目录的文件夹必须设为可写,以保证插件可以创建新的文件."
+
+#: modules/admin.php:53
+msgid "Rescan Avatars"
+msgstr "重新加载头像"
+
+#: modules/admin.php:56
+msgid "Scan avatars folder to find new images."
+msgstr "扫描文件夹为了找到新的图像."
+
+#: modules/admin.php:57
+msgid "Avatars folder:"
+msgstr "文件夹:"
+
+#: modules/admin.php:58
+msgid "Rescan"
+msgstr "重新扫描"
+
+#: modules/admin.php:60
+msgid "Use this if you added new avatar images. Plugin is performing auto scan when new version is installed."
+msgstr "如果你添加了新的图片,当新版本安装时插件会自动扫描."
+
+#: modules/admin.php:45
+msgid "Add %s file with redirection to a home page as a mean of protection agains direct access to some folders. File will be added to following folders if needed:"
+msgstr "采用%s文件重定向可以保护文件夹.一般文件会被添加到下面的文件夹:"
+
+#: modules/cron.php:2
+msgid "Are you sure that you want to do this?"
+msgstr "您确定要这么做吗?"
+
+#: modules/cron.php:6
+#: gd-press-tools.php:674
+msgid "Cron Scheduler"
+msgstr "Cron Scheduler"
+
+#: modules/cron.php:9
+msgid "Jobs"
+msgstr "Jobs"
+
+#: modules/cron.php:14
+msgid "Time"
+msgstr "Time"
+
+#: modules/cron.php:15
+#: modules/wp_hooks.php:33
+msgid "Function"
+msgstr "Function"
+
+#: modules/cron.php:16
+msgid "Schedule"
+msgstr "Schedule"
+
+#: modules/cron.php:17
+msgid "Interval"
+msgstr "Interval"
+
+#: modules/cron.php:50
+msgid "Deleting cron jobs is not reccomended if you are not sure what exactly are these jobs used for. Usually, job removal is not reversible."
+msgstr "Deleting cron jobs is not reccomended if you are not sure what exactly are these jobs used for. Usually, job removal is not reversible."
+
+#: modules/cron.php:51
+msgid "In some cases plugins can leave cron jobs after plugin removal, and these jobs are safe to remove."
+msgstr "In some cases plugins can leave cron jobs after plugin removal, and these jobs are safe to remove."
+
+#: modules/cron.php:35
+msgid "unschedule"
+msgstr "unschedule"
+
+#: modules/cron.php:36
+msgid "run now"
+msgstr "run now"
+
+#: modules/db.php:26
+msgid "Are you sure that you want to DROP this table? Operation is not reversible."
+msgstr "你确定要DROP这个表吗?操作是不可逆的."
+
+#: modules/db.php:30
+msgid "Are you sure taht you want to EMPTY this table? Operation is not reversible."
+msgstr "你确定要EMPTY这个表吗?操作是不可逆的."
+
+#: modules/db.php:34
+#: gd-press-tools.php:673
+msgid "Database"
+msgstr "数据库"
+
+#: modules/db.php:38
+msgid "Tables"
+msgstr "表"
+
+#: modules/db.php:40
+msgid "Tools"
+msgstr "工具"
+
+#: modules/front.php:8
+msgid "a wordpress administration addon"
+msgstr "强大的WordPress管理插件"
+
+#: modules/meta.php:1
+msgid "Meta tags settings are saved."
+msgstr "Meta设置已保存."
+
+#: modules/meta.php:5
+#: gd-press-tools.php:672
+msgid "Meta Tags"
+msgstr "Meta标签"
+
+#: modules/meta.php:8
+msgid "General"
+msgstr "通常"
+
+#: modules/meta.php:9
+msgid "Robots"
+msgstr "生成"
+
+#: modules/posts.php:5
+#: gd-press-tools.php:670
+msgid "Posts"
+msgstr "文章设置"
+
+#: modules/posts.php:8
+#: gd-press-tools.php:1048
+msgid "Comments"
+msgstr "评论"
+
+#: modules/posts.php:11
+msgid "Close comments and/or pings on posts older than selected date."
+msgstr "关闭评论或 pings根据您选定的日期."
+
+#: modules/posts.php:12
+msgid "Close comments."
+msgstr "关闭评论."
+
+#: modules/posts.php:14
+msgid "Close pings."
+msgstr "关闭pings."
+
+#: modules/posts.php:17
+msgid "For posts published before"
+msgstr "设定日期"
+
+#: modules/posts.php:21
+msgid "Close"
+msgstr "关闭"
+
+#: modules/posts.php:28
+msgid "Remove all revision for published posts and pages."
+msgstr "删除已发布的文章和页面的所有修订版本."
+
+#: modules/posts.php:29
+msgid "Total number of revisions found"
+msgstr "修订版本数:"
+
+#: modules/posts.php:32
+msgid "Last revisions removal"
+msgstr "最后一次清除在"
+
+#: modules/posts.php:36
+msgid "Delete Posts"
+msgstr "删除文章"
+
+#: modules/posts.php:39
+msgid "Delete all posts older than selected date. This will delete posts, post terms relationships, post meta data, comments for those posts and revisions."
+msgstr "删除此日期前的所有文章,并会删除和此文章相关的信息."
+
+#: modules/posts.php:42
+msgid "Delete posts published before"
+msgstr "删除此日期前的文章"
+
+#: modules/posts.php:48
+msgid "Operation is not reversible. Backup your data before proceeding."
+msgstr "此操作是不可逆的,在删除之前请先备份您的数据库."
+
+#: modules/server.php:1
+msgid "Full Server Info"
+msgstr "完整的服务器信息"
+
+#: modules/server.php:5
+msgid "PHP Info"
+msgstr "PHP信息"
+
+#: modules/server.php:6
+msgid "PHP Constants"
+msgstr "PHP常量"
+
+#: modules/server.php:7
+msgid "mySQL Info"
+msgstr "mySQL信息"
+
+#: modules/settings.php:1
+msgid "Settings saved."
+msgstr "设置已保存."
+
+#: modules/settings.php:9
+msgid "Integration"
+msgstr "集成功能"
+
+#: modules/settings.php:11
+msgid "Widgets"
+msgstr "小工具"
+
+#: modules/settings.php:12
+msgid "Security"
+msgstr "安全"
+
+#: modules/settings.php:14
+msgid "Tracking"
+msgstr "跟踪"
+
+#: modules/settings.php:15
+msgid "Debug"
+msgstr "调试"
+
+#: modules/settings.php:16
+msgid "RSS"
+msgstr "RSS"
+
+#: modules/settings.php:17
+msgid "PHP"
+msgstr "PHP"
+
+#: modules/tagger.php:1
+#: gd-press-tools.php:671
+msgid "Auto Tagger"
+msgstr "自动标注"
+
+#: modules/tagger.php:4
+msgid "Tagger"
+msgstr "标签"
+
+#: modules/tagger.php:7
+msgid "Parse posts and/or pages and search for new tags using Yahoo Term Extraction API."
+msgstr "分析文章和页面并使用Yahoo字词提取API为了新的标签."
+
+#: modules/tagger.php:8
+msgid "Operation will run as a scheduled job in the background because it will take a lot of time depending on the number of posts."
+msgstr "此操作将会在后台运行一段时间,取决于您的文章和页面的数目."
+
+#: modules/tagger.php:12
+msgid "Search and tag posts."
+msgstr "搜索和标注文章."
+
+#: modules/tagger.php:13
+msgid "Search and tag pages."
+msgstr "搜索和标注页面."
+
+#: modules/tagger.php:16
+msgid "Maximum number of tags to add"
+msgstr "增加的最大标签数："
+
+#: modules/tagger.php:20
+msgid "Post ID range to process"
+msgstr "想要添加标签的文章ID"
+
+#: modules/tagger.php:23
+msgid "to"
+msgstr "至"
+
+#: modules/tagger.php:29
+msgid "Leave 0 to ignore range"
+msgstr "填写0为忽略范围"
+
+#: modules/tagger.php:34
+msgid "Run"
+msgstr "执行"
+
+#: modules/tagger.php:36
+msgid "Due to the complexity of the requests for results, this tool requires cURL."
+msgstr "由于此操作的复杂性,这个工具要求使用cURL."
+
+#: modules/tagger.php:45
+msgid "Auto tagger is currently inactive and not scheduled."
+msgstr "自动添加标签当前未激活."
+
+#: modules/tagger.php:48
+msgid "Last tagging started at"
+msgstr "最后标签开始"
+
+#: modules/tagger.php:50
+msgid "Last tagging ended at"
+msgstr "最后标签结束"
+
+#: modules/tagger.php:52
+#: modules/tagger.php:68
+msgid "Last post ID processed"
+msgstr "最后处理的文章ID"
+
+#: modules/tagger.php:56
+msgid "Auto tagger is scheduled to run."
+msgstr "预设自动添加标签."
+
+#: modules/tagger.php:58
+msgid "Auto tagger is running."
+msgstr "正在添加标签."
+
+#: modules/tagger.php:60
+msgid "Maximum tags to add per post"
+msgstr "每篇文章的最大标签"
+
+#: modules/tagger.php:62
+msgid "Operation started at"
+msgstr "操作开始"
+
+#: modules/tagger.php:64
+msgid "Total posts to process"
+msgstr "处理总文章数"
+
+#: modules/tagger.php:66
+msgid "Processed posts so far"
+msgstr "当前已处理的文章数"
+
+#: modules/tagger.php:70
+msgid "Number of tags retrieved"
+msgstr "检索标签数量"
+
+#: modules/tagger.php:74
+msgid "Abort"
+msgstr "中止"
+
+#: modules/wp_hooks.php:1
+msgid "WordPress Hooks"
+msgstr "WordPress Hooks"
+
+#: modules/wp_hooks.php:31
+msgid "Hook"
+msgstr "Hook"
+
+#: modules/wp_hooks.php:32
+msgid "Object"
+msgstr "Object"
+
+#: modules/wp_hooks.php:34
+msgid "Priority"
+msgstr "Priority"
+
+#: modules/wp_hooks.php:35
+msgid "Arguments"
+msgstr "参数"
+
+#: gd-press-tools.php:755
+#: gd-press-tools.php:813
+msgid "Thank you for using"
+msgstr "非常感谢您使用"
+
+#: gd-press-tools.php:757
+#: gd-press-tools.php:815
+msgid "administration addon plugin"
+msgstr "管理插件."
+
+#: gd-press-tools.php:303
+#: gd-press-tools.php:1109
+msgid "Duplicate"
+msgstr "副本"
+
+#: gd-press-tools.php:305
+#: gd-press-tools.php:1110
+msgid "Are you sure that you want to delete revisions for this post?"
+msgstr "您确定要删除这些修订吗?"
+
+#: gd-press-tools.php:305
+#: gd-press-tools.php:1110
+msgid "Delete Revisions"
+msgstr "删除修订"
+
+#: gd-press-tools.php:666
+msgid "Enviroment Info"
+msgstr "运行环境"
+
+#: gd-press-tools.php:668
+msgid "WP Hooks"
+msgstr "WP Hooks"
+
+#: gd-press-tools.php:744
+msgid "Executed Queries"
+msgstr "执行查询"
+
+#: gd-press-tools.php:746
+msgid "Used memory"
+msgstr "已使用内存"
+
+#: gd-press-tools.php:747
+msgid "Load"
+msgstr "加载"
+
+#: gd-press-tools.php:748
+msgid "Init"
+msgstr "初始化"
+
+#: gd-press-tools.php:750
+msgid "Footer"
+msgstr "底部"
+
+#: gd-press-tools.php:751
+#: gd-press-tools.php:818
+msgid "Page generated in"
+msgstr "页面生成"
+
+#: gd-press-tools.php:752
+#: gd-press-tools.php:818
+msgid "seconds."
+msgstr "秒."
+
+#: gd-press-tools.php:801
+msgid "Call originated from"
+msgstr "请求来自于:"
+
+#: gd-press-tools.php:802
+msgid "Execution time"
+msgstr "执行时间"
+
+#: gd-press-tools.php:819
+msgid "Total memory used"
+msgstr "查询的总数"
+
+#: gd-press-tools.php:820
+msgid "Total number of queries"
+msgstr "查询的总数"
+
+#: gd-press-tools.php:821
+msgid "Total execution time"
+msgstr "执行总时间"
+
+#: gd-press-tools.php:821
+msgid "seconds"
+msgstr "秒"
+
+#: gd-press-tools.php:835
+#: gd-press-tools.php:840
+msgid "Additional Options"
+msgstr "附加选项"
+
+#: gd-press-tools.php:1049
+msgid "Display Name"
+msgstr "显示名称"
+
+#: gd-press-tools.php:1065
+msgid "Sticky"
+msgstr "置顶"
+
+#: gd-press-tools.php:1092
+msgid "Yes"
+msgstr "是的"
+
+#: gd-press-tools.php:1102
+msgid "total"
+msgstr "总数"
+
+#: gd-press-tools.php:1103
+msgid "users"
+msgstr "用户"
+
+#: gd-press-tools.php:1104
+msgid "visitors"
+msgstr "游客"
+
+#: gd-press-tools.php:1419
+msgid "Deleted %s posts and %s comments."
+msgstr "删除%s文章和%s评论."
+

@@ -1,0 +1,1378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GD Press Tools\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: M.Comfi <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: BELARUS\n"
+
+#: code/db.php:108
+msgid "None"
+msgstr "Нет"
+
+#: code/db.php:109
+msgid "Index, Follow"
+msgstr "INDEX, FOLLOW"
+
+#: code/db.php:110
+msgid "Index, No follow"
+msgstr "Указатель, не следует"
+
+#: code/db.php:111
+msgid "No index, Follow"
+msgstr "Нет INDEX, FOLLOW"
+
+#: code/db.php:112
+msgid "No index, No follow"
+msgstr "Не индекса, не следует"
+
+#: code/db.php:218
+msgid "Username is invalid."
+msgstr "Имя пользователя не действительны."
+
+#: code/db.php:219
+msgid "Username is the same. Nothing is changed."
+msgstr "Имя пользователя то же самое. Ничего не изменилось."
+
+#: code/db.php:220
+msgid "Choosen username already exists."
+msgstr "Выбранный имя пользователя уже используется."
+
+#: code/functions.php:40
+msgid "RSS feed is not available. Instead, please visit our website: "
+msgstr "RSS недоступен. Вместо этого посетите наш сайт:"
+
+#: code/js.php:2
+msgid "Are you sure? Operation is not reversible."
+msgstr "Вы уверены? Операция не может быть возвращено."
+
+#: code/js.php:5
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: code/meta.php:14
+#: gd-press-tools.php:583
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: code/meta.php:15
+msgid "Single Post"
+msgstr "Одна статья"
+
+#: code/meta.php:16
+msgid "Single Page"
+msgstr "Page One"
+
+#: code/meta.php:17
+msgid "Search Results Page"
+msgstr "Результаты поиска"
+
+#: code/meta.php:18
+msgid "Tag Archives"
+msgstr "Архивы Tagova"
+
+#: code/meta.php:19
+msgid "Category Archives"
+msgstr "Категория Архивы"
+
+#: code/meta.php:20
+msgid "Date based Archives"
+msgstr "Архив дате"
+
+#: code/meta.php:21
+msgid "Author Archives"
+msgstr "Архивы авторов"
+
+#: code/meta.php:22
+msgid "Login Page"
+msgstr "Войти Страницы"
+
+#: code/meta.php:23
+msgid "Administration Pages"
+msgstr "Администрация Страницы"
+
+#: modules/front/gdragon.php:4
+msgid "Info"
+msgstr "Информация"
+
+#: modules/front/gdragon.php:8
+#: modules/front/infos.php:49
+#: modules/front/infos.php:96
+msgid "Version"
+msgstr "Версии"
+
+#: modules/front/gdragon.php:9
+msgid "release date"
+msgstr "Darum публикацию"
+
+#: modules/front/gdragon.php:14
+msgid "Change Log"
+msgstr "Изменение"
+
+#: modules/front/gdragon.php:15
+msgid "detailed list of changes"
+msgstr "Подробный список изменений"
+
+#: modules/front/gdragon.php:16
+#: modules/front/gdragon.php:27
+#: modules/front/gdragon.php:32
+#: modules/front/gdragon.php:37
+#: modules/front/gdragon.php:42
+#: modules/front/gdragon.php:66
+#: modules/front/gdragon.php:71
+#: modules/front/gdragon.php:76
+#: modules/front/gdragon.php:81
+#: modules/front/gdragon.php:86
+#: modules/front/gdragon.php:100
+#: modules/front/gdragon.php:105
+#: modules/front/gdragon.php:110
+#: modules/front/gdragon.php:115
+#: modules/front/gdragon.php:120
+msgid "visit"
+msgstr "Визит"
+
+#: modules/front/gdragon.php:21
+msgid "Links"
+msgstr "Ссылки"
+
+#: modules/front/gdragon.php:26
+msgid "official plugin page"
+msgstr "официальных страницах плагин"
+
+#: modules/front/gdragon.php:31
+msgid "discussions group"
+msgstr "дискуссионную группу"
+
+#: modules/front/gdragon.php:36
+msgid "wordpress plugin page"
+msgstr "Страницы WordPress плагин"
+
+#: modules/front/gdragon.php:40
+msgid "Donate"
+msgstr "Donate"
+
+#: modules/front/gdragon.php:41
+msgid "help further development"
+msgstr "Помощь развитию"
+
+#: modules/front/gdragon.php:46
+msgid "Pro Edition"
+msgstr "Pro Version"
+
+#: modules/front/gdragon.php:50
+#: modules/front/gdragon.php:98
+msgid "Official Website"
+msgstr "Официальный сайт"
+
+#: modules/front/gdragon.php:51
+msgid "extended premium version"
+msgstr "расширенную версию Premium"
+
+#: modules/front/gdragon.php:52
+msgid "soon"
+msgstr "скоро"
+
+#: modules/front/gdragon.php:59
+msgid "GD WordPress Plugins"
+msgstr "Д. WordPress Plaginovi"
+
+#: modules/front/gdragon.php:65
+msgid "wordpress ratings system"
+msgstr "WordPress рейтинговая система"
+
+#: modules/front/gdragon.php:70
+#: gd-press-tools.php:679
+msgid "collection of widgets"
+msgstr "Коллекции Widget"
+
+#: modules/front/gdragon.php:75
+msgid "advanced pages widget"
+msgstr "расширенный виджет для"
+
+#: modules/front/gdragon.php:80
+msgid "custom taxonomies managment"
+msgstr "custom taxonomies managment"
+
+#: modules/front/gdragon.php:85
+msgid "widget to add linkedin badge"
+msgstr "виджет для MySpace Добавить ссылку"
+
+#: modules/front/gdragon.php:99
+msgid "golden dragon official web portal"
+msgstr "официальный веб-портал"
+
+#: modules/front/gdragon.php:104
+msgid "wordpress development"
+msgstr "WordPress развития"
+
+#: modules/front/gdragon.php:109
+msgid "tv shows reviews and news"
+msgstr "ТВ-шоу обзоры и новости"
+
+#: modules/front/gdragon.php:113
+msgid "Support Forum"
+msgstr "Форумы поддержки"
+
+#: modules/front/gdragon.php:114
+msgid "development discussion forum"
+msgstr "Дискуссионный форум"
+
+#: modules/front/gdragon.php:119
+msgid "announcements and theme demo"
+msgstr "Объявления и демо темам"
+
+#: modules/front/infos.php:2
+msgid "Plugin Quick Facts"
+msgstr "Plugin Quick Facts"
+
+#: modules/front/infos.php:7
+msgid "Deleted revisions"
+msgstr "Удаленный Редакция"
+
+#: modules/front/infos.php:11
+msgid "Saved on database cleanup"
+msgstr "База данных, сохраненных на очистку"
+
+#: modules/front/infos.php:19
+msgid "Server Status"
+msgstr "Статус Сервера"
+
+#: modules/front/infos.php:24
+msgid "Server"
+msgstr "Сервер"
+
+#: modules/front/infos.php:28
+msgid "Operating System"
+msgstr "Операционная система"
+
+#: modules/front/infos.php:32
+msgid "Hostname"
+msgstr "Хост име"
+
+#: modules/front/infos.php:36
+msgid "IP and Port"
+msgstr "ИП и Порт"
+
+#: modules/front/infos.php:44
+msgid "PHP Status"
+msgstr "Статус PHP-а"
+
+#: modules/front/infos.php:54
+msgid "Used Memory"
+msgstr "Используемой памяти"
+
+#: modules/front/infos.php:59
+msgid "Safe Mode"
+msgstr "Безопасный режим"
+
+#: modules/front/infos.php:63
+msgid "Memory Limit"
+msgstr "Memory Limit"
+
+#: modules/front/infos.php:67
+msgid "Max POST Size"
+msgstr "Maкс POST Величина"
+
+#: modules/front/infos.php:71
+msgid "Max Upload Size"
+msgstr "Макс Величина Уплоада"
+
+#: modules/front/infos.php:75
+msgid "Max Execution Time"
+msgstr "Максимальное время работы"
+
+#: modules/front/infos.php:79
+msgid "Allow URL fopen"
+msgstr "Номера URL FOPEN"
+
+#: modules/front/infos.php:83
+msgid "GD Library"
+msgstr "ГД Библиотека"
+
+#: modules/front/infos.php:91
+msgid "mySQL Status"
+msgstr "Статус mySQL-а"
+
+#: modules/front/infos.php:100
+msgid "Full Database Size"
+msgstr "Размер базы данных Cele"
+
+#: modules/front/infos.php:104
+msgid "WordPress Tables Size"
+msgstr "Размер VordPress таблице"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "On"
+msgstr "Да"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "Off"
+msgstr "Не"
+
+#: modules/integrate/postedit.php:5
+#: modules/settings.php:10
+msgid "Short URL"
+msgstr "Сокращенный URL"
+
+#: modules/integrate/postedit.php:8
+msgid "Robots Meta Tag"
+msgstr "Робот Метатеги"
+
+#: modules/integrate/postedit.php:9
+msgid "Use global meta tag settings"
+msgstr "Использовать глобальные настройки цели"
+
+#: modules/integrate/postedit.php:15
+msgid "Standard"
+msgstr "Стандартный"
+
+#: modules/integrate/postedit.php:23
+msgid "No Yahoo"
+msgstr "Не Јаху"
+
+#: modules/integrate/postedit.php:26
+msgid "No Archive"
+msgstr "Не Архив"
+
+#: modules/integrate/postedit.php:31
+msgid "No ODP"
+msgstr "Нет тонны"
+
+#: modules/integrate/postedit.php:34
+msgid "No Snippet"
+msgstr "Нет Snipet"
+
+#: modules/integrate/postedit.php:39
+msgid "No Image Index"
+msgstr "Нет изображений"
+
+#: modules/integrate/postedit.php:42
+msgid "No Translate"
+msgstr "No Subtitles"
+
+#: modules/meta/robots.php:6
+msgid "active"
+msgstr "активно"
+
+#: modules/meta/robots.php:35
+msgid "Save"
+msgstr "Сними"
+
+#: modules/meta/robots.php:38
+msgid "Load Defaults"
+msgstr "Нагрузка первоначальный"
+
+#: modules/meta/robots.php:39
+msgid "Clear"
+msgstr "Удалить"
+
+#: modules/settings/administration.php:1
+#: modules/posts.php:25
+msgid "Revisions"
+msgstr "Пересмотры"
+
+#: modules/settings/administration.php:5
+msgid "Number of revisions to save"
+msgstr "Количество проверок, которые должны быть"
+
+#: modules/settings/administration.php:10
+msgid "to store every revision"
+msgstr "для записи каждой ревизии"
+
+#: modules/settings/administration.php:11
+msgid "to store only one autosave revision"
+msgstr "для записи только автосохранения обзор"
+
+#: modules/settings/administration.php:14
+msgid "Updates"
+msgstr "Улучшений"
+
+#: modules/settings/administration.php:16
+msgid "Disable WordPress core auto update check."
+msgstr "Искључи аутоматску проверу за ВордПресс језгроВыключить автоматическую проверку для ядра VordPress"
+
+#: modules/settings/administration.php:18
+msgid "Disable plugins auto upgrade check."
+msgstr "Выключить автоматическую проверку для плагинов"
+
+#: modules/settings/administration.php:21
+msgid "Misc"
+msgstr "Разное"
+
+#: modules/settings/administration.php:23
+msgid "Disable Flash uploader."
+msgstr "Off aploader бутылки."
+
+#: modules/settings/administration.php:25
+msgid "Disable post auto save."
+msgstr "Отключить автоматическое сохранение поста."
+
+#: modules/settings/debug.php:1
+msgid "Log File"
+msgstr "Файл журнала"
+
+#: modules/settings/debug.php:3
+msgid "Log SQL queries executed by the plugin."
+msgstr "Вход запросы, сделанные плагина."
+
+#: modules/settings/debug.php:9
+msgid "SQL Queries"
+msgstr "SQL запросы"
+
+#: modules/settings/debug.php:11
+msgid "Enable logging of SQL queries. This option must be active to all options bellow to work."
+msgstr "Включение протоколирования SQL запросов. Этот параметр должен быть активным, чтобы все параметры ниже работали."
+
+#: modules/settings/debug.php:15
+msgid "Add SQL queries at the end of the admin pages."
+msgstr "Добавить SQL запросы в конце администратора страниц."
+
+#: modules/settings/debug.php:19
+msgid "Add SQL queries at the end of the blog pages."
+msgstr "Добавить SQL запросы в конце страницах блога."
+
+#: modules/settings/debug.php:24
+msgid "Set minimal user level to see all the executed queries by WordPress."
+msgstr "Минимальный уровень, что пользователь видит dašbord Widget"
+
+#: modules/settings/debug.php:5
+msgid "For logging to work %s in file %s must be set to %s."
+msgstr "Чтобы Логин работу %s должна быть установлена на %s."
+
+#: modules/settings/debug.php:6
+msgid "Debug data is saved into file set with %s variable in this config file. Default location is %s file in plugin folder, so this file needs to be writable."
+msgstr "Debag данные записываются в папку %s набор файлов с в файле конфигурации. Основной сайт %s  плагин в папку, этот файл должен позволить писать."
+
+#: modules/settings/integration.php:1
+msgid "Grids Columns"
+msgstr "Столбцов таблицы"
+
+#: modules/settings/integration.php:3
+msgid "Add extra options for the post and page edit panel table."
+msgstr "Добавить колонку ID на странице со списком статей."
+
+#: modules/settings/integration.php:5
+msgid "Add ID column on the post and page edit panel table."
+msgstr "Добавить колонку ID на странице со списком статей."
+
+#: modules/settings/integration.php:7
+msgid "Add sticky status column on the post and page edit panel table."
+msgstr "Добавить столбец в сторону палку с перечнем статей."
+
+#: modules/settings/integration.php:9
+msgid "Add views column on the post and page edit panel table."
+msgstr "Добавить колонку с визитами на странице со списком статей."
+
+#: modules/settings/integration.php:11
+msgid "Add ID column on the post categories edit panel table."
+msgstr "Добавить колонку ID на странице со списком категорий."
+
+#: modules/settings/integration.php:11
+#: modules/settings/integration.php:13
+#: modules/settings/integration.php:19
+#: modules/settings/integration.php:21
+#: modules/settings/integration.php:23
+msgid "WP 2.8 and higher."
+msgstr "П. 2.8 и выше."
+
+#: modules/settings/integration.php:13
+msgid "Add ID column on the post tags and custom taxonomies edit panels tables."
+msgstr "Добавить колонку ID на странице со списком статей."
+
+#: modules/settings/integration.php:15
+msgid "Add ID column on the media edit panel table."
+msgstr "Добавить колонку ID на странице со списком файлов."
+
+#: modules/settings/integration.php:17
+msgid "Add ID column on the links edit panel table."
+msgstr "Добавить колонку ID на странице со списком ссылок."
+
+#: modules/settings/integration.php:19
+msgid "Add ID column on the users edit panel table."
+msgstr "Добавить колонку ID на странице со списком пользователей."
+
+#: modules/settings/integration.php:21
+msgid "Add column with comments count on the users edit panel table."
+msgstr "Добавить колонку ID на странице со списком пользователей."
+
+#: modules/settings/integration.php:23
+msgid "Add display name column on the users edit panel table."
+msgstr "Додај колону са именом за приказ на страну са листом кориника."
+
+#: modules/settings/integration.php:26
+msgid "Grids Rows"
+msgstr "Строки таблицы"
+
+#: modules/settings/integration.php:30
+msgid "Number of posts in grid on edit posts panel"
+msgstr "Количество объявлений в таблице на странице редактирования"
+
+#: modules/settings/integration.php:35
+msgid "Enter 0 or less to disable modification."
+msgstr "Введите 0 или менее исключают изменения."
+
+#: modules/settings/integration.php:38
+msgid "Footer Stats"
+msgstr "Статистические данные о нижней части страницы"
+
+#: modules/settings/integration.php:40
+msgid "Display page loading stats in the footer."
+msgstr "Показать statisktiku в нижней части страницы"
+
+#: modules/settings/integration.php:42
+msgid "This will show page loading statistics data (executed queries, load time and used memory) in the admin page footer."
+msgstr "Это покажет статистику нагрузки (выполненных запросов, время загрузки и использование памяти) в нижней части страницы администратора."
+
+#: modules/settings/php.php:1
+msgid "Memory Limits"
+msgstr "Ограничения памяти"
+
+#: modules/settings/php.php:6
+msgid "Memory allocated by PHP"
+msgstr "Памяти, используемой PHP"
+
+#: modules/settings/php.php:14
+msgid "Modifying these settings can have negative impact on your server and website performance. If you are not sure what you doing, don't change these values."
+msgstr "Измените эти элементы могут иметь негативное влияние на работу сайта или сервера. Если вы не уверены, не изменяйте это значение."
+
+#: modules/settings/rss.php:1
+msgid "RSS Feeds"
+msgstr "RSS-каналы"
+
+#: modules/settings/rss.php:3
+msgid "Disable all RSS feeds."
+msgstr "Выключите все RSS-каналы."
+
+#: modules/settings/rss.php:6
+msgid "Deleyed Posting"
+msgstr "Отложенный проводки"
+
+#: modules/settings/rss.php:11
+msgid "Delayed posting for RSS feeds"
+msgstr "Последние проводки на RSS-канал"
+
+#: modules/settings/rss.php:14
+msgid "minutes"
+msgstr "минута"
+
+#: modules/settings/rss.php:19
+msgid "With this option active, when you publish new post this post will be part of the RSS feed after number of minutes specified."
+msgstr "С этой опцией при активном publišujete пост станет частью RSS Feed только через указанное количество минут."
+
+#: modules/settings/rss.php:20
+msgid "This will give you enought time to discover potential errors in the post."
+msgstr "Это даст вам достаточно времени, чтобы обнаружить возможные ошибки в статье."
+
+#: modules/settings/rss.php:23
+msgid "Expand RSS Items"
+msgstr "Развернуть RSS Элементы"
+
+#: modules/settings/rss.php:25
+msgid "Insert content before RSS feed item"
+msgstr "Добавить RSS содержимое перед элементом"
+
+#: modules/settings/rss.php:28
+msgid "Insert content after RSS feed item"
+msgstr "Добавить RSS содержимое после элемента"
+
+#: modules/settings/security.php:1
+#: gd-press-tools.php:667
+msgid "Header"
+msgstr "Заголовок"
+
+#: modules/settings/security.php:3
+msgid "Remove WordPress version."
+msgstr "Удалить версии WordPress."
+
+#: modules/settings/security.php:5
+msgid "Remove Really Simple Discovery link from header."
+msgstr "Удалить Really Simple Discovery ссылку в Хадере."
+
+#: modules/settings/security.php:7
+msgid "Remove Windows Live Writer link from header."
+msgstr "Remove Windows Live Writer ссылку Плющ."
+
+#: modules/settings/security.php:10
+msgid "Login"
+msgstr "Логин"
+
+#: modules/settings/security.php:12
+msgid "Remove error messages from login screen."
+msgstr "Удалить сообщение ошибки Логин страница"
+
+#: modules/settings/security.php:15
+msgid "Authorization"
+msgstr "Авторизация"
+
+#: modules/settings/security.php:17
+msgid "Prevent website access if the user is not logged in."
+msgstr "Запретить доступ к сайту пользователь не вошел."
+
+#: modules/settings/shorturl.php:2
+msgid "Shortening URL's"
+msgstr "Сокращенные УРЛы"
+
+#: modules/settings/shorturl.php:4
+msgid "Activate shortening URL's service."
+msgstr "Активировать услугу сокращения URL."
+
+#: modules/settings/shorturl.php:9
+msgid "URL format"
+msgstr "УРЛ формат"
+
+#: modules/settings/shorturl.php:14
+msgid "Prefix for creating URL"
+msgstr "Префикс для сокращенных УРЛов"
+
+#: modules/settings/shorturl.php:18
+msgid "only letters are allowed."
+msgstr "долько буквы разрешены."
+
+#: modules/settings/shorturl.php:19
+msgid "URL will look like this"
+msgstr "URL будет выглядеть следующим образом"
+
+#: modules/settings/shorturl.php:6
+msgid "For this to work, you must use permalinks feature build in the Wordpress."
+msgstr "Для работы этого, вы должны использовать постоянные функции, встроенные в WordPress."
+
+#: modules/settings/tracking.php:1
+msgid "Posts &amp; Pages Views"
+msgstr "Посещения и статей страницу"
+
+#: modules/settings/tracking.php:3
+msgid "Posts and Pages view tracking active."
+msgstr "Мониторинг статей и страниц являются активными"
+
+#: modules/settings/tracking.php:8
+#: modules/settings/tracking.php:47
+msgid "Track posts."
+msgstr "Следуйте статей."
+
+#: modules/settings/tracking.php:12
+#: modules/settings/tracking.php:51
+msgid "Track pages."
+msgstr "Следуйте."
+
+#: modules/settings/tracking.php:17
+msgid "Track registered users."
+msgstr "Последующей зарегистрированных пользователей."
+
+#: modules/settings/tracking.php:21
+msgid "Track visitors."
+msgstr "Отслеживания посетителей."
+
+#: modules/settings/tracking.php:29
+#: modules/settings/tracking.php:59
+msgid "Ignore Users"
+msgstr "Игнорировать пользователя"
+
+#: modules/settings/tracking.php:34
+#: modules/settings/tracking.php:64
+msgid "list comma separated users id's"
+msgstr "запятыми список пользователей idjeva"
+
+#: modules/settings/tracking.php:40
+msgid "Users Browsing"
+msgstr "Перемещение пользователей"
+
+#: modules/settings/tracking.php:42
+msgid "Track posts and pages registered users are visiting."
+msgstr "Следуйте статей и зарегистрирован визита пользователей."
+
+#: modules/settings/widgets.php:1
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: modules/settings/widgets.php:5
+msgid "Widget with some additional statistical info."
+msgstr "Добавить dašbord виджет с дополнительным статистики."
+
+#: modules/settings/widgets.php:10
+msgid "Set minimal user level to see the widget for each widget individually."
+msgstr "Минимальный уровень, что пользователь видит dašbord Widget"
+
+#: modules/settings/widgets.php:13
+msgid "Post Editor"
+msgstr "Редактор"
+
+#: modules/settings/widgets.php:15
+msgid "Add options widget to post and page edit panel."
+msgstr "Добавить виджет с ссылок на странице со списком статей."
+
+#: modules/widgets/dashboard.php:15
+msgid "Additional Statistics Info"
+msgstr "Дополнительной статистической информации"
+
+#: modules/widgets/dashboard.php:26
+msgid "Revisions for all published posts"
+msgstr "Проверки всех опубликованных статей"
+
+#: modules/widgets/dashboard.php:29
+#: modules/widgets/dashboard.php:38
+msgid "delete"
+msgstr "Удалить"
+
+#: modules/widgets/dashboard.php:35
+msgid "Spam comments"
+msgstr "Спам комментариев"
+
+#: modules/widgets/dashboard.php:44
+msgid "Overhead for all database tables"
+msgstr "Излишки для всех таблиц в базе данных"
+
+#: modules/widgets/dashboard.php:47
+msgid "cleanup"
+msgstr "очистить"
+
+#: modules/widgets/dashboard.php:55
+msgid "Posts &amp; Pages Tracking"
+msgstr "Мониторинг статей и страниц"
+
+#: modules/widgets/dashboard.php:60
+#: gd-press-tools.php:971
+msgid "Views"
+msgstr "Посещения"
+
+#: modules/widgets/dashboard.php:61
+msgid "tracking posts and pages"
+msgstr "После статей и"
+
+#: modules/widgets/dashboard.php:62
+#: modules/widgets/dashboard.php:68
+msgid "ON"
+msgstr "ON"
+
+#: modules/widgets/dashboard.php:63
+#: modules/widgets/dashboard.php:69
+msgid "OFF"
+msgstr "OFF"
+
+#: modules/widgets/dashboard.php:66
+msgid "Users"
+msgstr "Корисници"
+
+#: modules/widgets/dashboard.php:67
+msgid "tracking users website browsing"
+msgstr "прати регистроване кориснике"
+
+#: modules/widgets/dashboard.php:75
+msgid "Press Tools Quick Access"
+msgstr "Press Tools Брзи Линкови"
+
+#: modules/widgets/dashboard.php:80
+#: modules/settings.php:6
+#: gd-press-tools.php:593
+#: gd-press-tools.php:861
+msgid "Settings"
+msgstr "Настройка"
+
+#: modules/widgets/dashboard.php:81
+msgid "all additional WordPress settings"
+msgstr "сва додатна ВордПрес подешавања"
+
+#: modules/widgets/dashboard.php:82
+#: modules/widgets/dashboard.php:87
+#: modules/widgets/dashboard.php:92
+#: modules/widgets/dashboard.php:3
+msgid "show"
+msgstr "прикажи"
+
+#: modules/widgets/dashboard.php:85
+msgid "Enviroment"
+msgstr "Окружење"
+
+#: modules/widgets/dashboard.php:86
+msgid "panel with PHP and mySQL information"
+msgstr "панел са PHP и mySQL информацијама"
+
+#: modules/widgets/dashboard.php:90
+msgid "Scheduler"
+msgstr "Запланированные задания"
+
+#: modules/widgets/dashboard.php:91
+msgid "all scheduled cron jobs"
+msgstr "сви заказани послови"
+
+#: modules/widgets/dashboard.php:4
+msgid "hide"
+msgstr "сакриј"
+
+#: modules/admin.php:7
+#: modules/settings.php:13
+#: gd-press-tools.php:587
+msgid "Administration"
+msgstr "Администрација"
+
+#: modules/admin.php:10
+msgid "Username"
+msgstr "Username"
+
+#: modules/admin.php:13
+msgid "Change the username for your account. If the change is successful, you will be logged out and you need to login back using new username."
+msgstr "Промените корисничко име вашег налога. Ако је промена успешна, бићете излоговани и мораћете да се улогујете користећи ново корисничко име."
+
+#: modules/admin.php:15
+msgid "Change"
+msgstr "Измени"
+
+#: modules/admin.php:17
+msgid "Plugin will change username value in following tables"
+msgstr "Плагин ће променити корисничко име у следећим табелама"
+
+#: modules/admin.php:18
+msgid "and"
+msgstr "и"
+
+#: modules/admin.php:22
+msgid "Cached RSS Feeds"
+msgstr "Кеширани РСС Фидови"
+
+#: modules/admin.php:25
+msgid "Delete all RSS cached content."
+msgstr "Обришите кеширани РСС садржај."
+
+#: modules/admin.php:26
+#: modules/posts.php:30
+#: modules/posts.php:46
+msgid "Delete"
+msgstr "Обриши"
+
+#: modules/admin.php:28
+msgid "RSS feeds are stored into options database table. Number of feeds and their data can grow out of control, so it's safe to clean it from time to time."
+msgstr "РСС фидови се чувају у бази. Број фидова и количина податак може да нарасте, и добро је обрисати их повремено."
+
+#: modules/admin.php:32
+msgid "Reset Widgets"
+msgstr "Ресетуј Виџете"
+
+#: modules/admin.php:35
+msgid "Reset all sidebars, and remove all widgets from them."
+msgstr "Ресетуј све сајдбарове, и уклони све виџете из њих."
+
+#: modules/admin.php:36
+msgid "Reset"
+msgstr "Ресетуј"
+
+#: modules/admin.php:38
+msgid "Use this if you change themes with different number of sidebars and single instance widgets."
+msgstr "Корисите ако мењате теме са различитим бројем сајдбарова и нормалних виџета."
+
+#: modules/admin.php:42
+msgid "Folder Protection"
+msgstr "Заштита Фолдера"
+
+#: modules/admin.php:47
+msgid "Protect"
+msgstr "Заштити"
+
+#: modules/admin.php:49
+msgid "For this to work all these folders must be writable so the plugin can create new files."
+msgstr "Да би ово радило, ови фолдери морају бити отворени за писање да би плагин креирао фајлове."
+
+#: modules/admin.php:45
+msgid "Add %s file with redirection to a home page as a mean of protection agains direct access to some folders. File will be added to following folders if needed:"
+msgstr "Додај %s фајл са редирекцијом на главну страну као начин заштите против директног приступа неким фолдерима. Фајл ће бити додат у следеће фолдере ако је потребно:"
+
+#: modules/cron.php:2
+msgid "Are you sure that you want to do this?"
+msgstr "Да ли сте сигурни да ли то желите?"
+
+#: modules/cron.php:6
+#: gd-press-tools.php:592
+msgid "Cron Scheduler"
+msgstr "Заказани Послови"
+
+#: modules/cron.php:9
+msgid "Jobs"
+msgstr "Послови"
+
+#: modules/cron.php:14
+msgid "Time"
+msgstr "Време"
+
+#: modules/cron.php:15
+#: modules/wp_hooks.php:33
+msgid "Function"
+msgstr "Функција"
+
+#: modules/cron.php:16
+msgid "Schedule"
+msgstr "Заказано"
+
+#: modules/cron.php:17
+msgid "Interval"
+msgstr "Интервал"
+
+#: modules/cron.php:18
+#: modules/db.php:43
+#: gd-press-tools.php:969
+msgid "Options"
+msgstr "Опције"
+
+#: modules/cron.php:50
+msgid "Deleting cron jobs is not reccomended if you are not sure what exactly are these jobs used for. Usually, job removal is not reversible."
+msgstr "Брисање ових послова није препоручено ако нисте сигурни за шта се ови послови користе. Најчешће, брисање је неповратно."
+
+#: modules/cron.php:51
+msgid "In some cases plugins can leave cron jobs after plugin removal, and these jobs are safe to remove."
+msgstr "У неким случајевима плугинови могу да оставе свој послове после укланања плагина, и ови се послови могу обрисати."
+
+#: modules/cron.php:35
+msgid "unschedule"
+msgstr "уклони"
+
+#: modules/cron.php:36
+msgid "run now"
+msgstr "покрени"
+
+#: modules/db.php:11
+msgid "Are you sure that you want to DROP this table? Operation is not reversible."
+msgstr "Да ли сте сигурни да желите обрисати ову табелу? Операција се не може вратити."
+
+#: modules/db.php:15
+msgid "Are you sure taht you want to EMPTY this table? Operation is not reversible."
+msgstr "Да ли сте сигурни да желите испразнити табелу? Операција се не може вратити."
+
+#: modules/db.php:19
+#: gd-press-tools.php:591
+msgid "Database"
+msgstr "Баѕа Података"
+
+#: modules/db.php:21
+msgid "Tools"
+msgstr "Алати"
+
+#: modules/db.php:24
+msgid "Optimize, remove overhead and repair all tables if needed."
+msgstr "Оптмизуј, уколни вишкове и поправи табеле уколико је потребно."
+
+#: modules/db.php:25
+msgid "Clean"
+msgstr "Очисти"
+
+#: modules/db.php:27
+msgid "Overhead can have negative impact to WordPress performance, and is best to have database optimized from time to time."
+msgstr "Вишкови могу да имају негативан утицај на перформансе WordPress-а, и најбоље је да се база оптимизује с времена на време."
+
+#: modules/db.php:31
+msgid "Tables"
+msgstr "Табеле"
+
+#: modules/db.php:38
+#: modules/db.php:84
+msgid "Name"
+msgstr "Име"
+
+#: modules/db.php:39
+msgid "Records"
+msgstr "Рекорди"
+
+#: modules/db.php:40
+msgid "Size"
+msgstr "Величина"
+
+#: modules/db.php:41
+msgid "Overhead"
+msgstr "Вишак"
+
+#: modules/db.php:42
+#: modules/tagger.php:41
+msgid "Status"
+msgstr "Status"
+
+#: modules/db.php:85
+msgid "Type"
+msgstr "Тип"
+
+#: modules/db.php:86
+msgid "Key"
+msgstr "Кључ"
+
+#: modules/db.php:87
+msgid "Default"
+msgstr "Стандардно"
+
+#: modules/db.php:88
+msgid "Extra"
+msgstr "Остало"
+
+#: modules/db.php:118
+msgid "Default WordPress tables can't be emptied or droped."
+msgstr "Основне ВордПрес табеле се немогу празнити или обрисати."
+
+#: modules/db.php:73
+msgid "drop"
+msgstr "обриши"
+
+#: modules/db.php:73
+msgid "empty"
+msgstr "испразни"
+
+#: modules/front.php:8
+msgid "a wordpress administration addon"
+msgstr "вордпрес администраторски додаци"
+
+#: modules/meta.php:1
+msgid "Meta tags settings are saved."
+msgstr "Мета таг подешавања снимљена."
+
+#: modules/meta.php:5
+#: gd-press-tools.php:590
+msgid "Meta Tags"
+msgstr "Мета Тагови"
+
+#: modules/meta.php:8
+msgid "Robots"
+msgstr "Роботи"
+
+#: modules/posts.php:5
+#: gd-press-tools.php:588
+msgid "Posts"
+msgstr "Чланци"
+
+#: modules/posts.php:8
+#: gd-press-tools.php:953
+msgid "Comments"
+msgstr "Коментари"
+
+#: modules/posts.php:11
+msgid "Close comments and/or pings on posts older than selected date."
+msgstr "Затвори коментате и/или пинкове за постове старије од задатог датума."
+
+#: modules/posts.php:12
+msgid "Close comments."
+msgstr "Затвори коментаре."
+
+#: modules/posts.php:14
+msgid "Close pings."
+msgstr "Затвори пингове."
+
+#: modules/posts.php:17
+msgid "For posts published before"
+msgstr "За чланке објављене пре"
+
+#: modules/posts.php:21
+msgid "Close"
+msgstr "Затвори"
+
+#: modules/posts.php:28
+msgid "Remove all revision for published posts and pages."
+msgstr "Обриши све ревизије за публиковане чланке"
+
+#: modules/posts.php:29
+msgid "Total number of revisions found"
+msgstr "Укупно пронађено ревизија"
+
+#: modules/posts.php:32
+msgid "Last revisions removal"
+msgstr "Последње уклањање ревизија"
+
+#: modules/posts.php:36
+msgid "Delete Posts"
+msgstr "Обриши Чланке"
+
+#: modules/posts.php:39
+msgid "Delete all posts older than selected date. This will delete posts, post terms relationships, post meta data, comments for those posts and revisions."
+msgstr "Обриши све чланке старије од селектованог датума. Ово ће обрисати чланке, односе чланака, мета податке, коментаре и ревизије."
+
+#: modules/posts.php:42
+msgid "Delete posts published before"
+msgstr "Обриши чланке објављене пре"
+
+#: modules/posts.php:48
+msgid "Operation is not reversible. Backup your data before proceeding."
+msgstr "Операција је неповратна. Сачувајте своје податке пре наставка."
+
+#: modules/server.php:1
+msgid "Full Server Info"
+msgstr "Подаци О Серверу"
+
+#: modules/server.php:5
+msgid "PHP Info"
+msgstr "PHP Информације"
+
+#: modules/server.php:6
+msgid "PHP Constants"
+msgstr "PHP Константе"
+
+#: modules/server.php:7
+msgid "mySQL Info"
+msgstr "mySQL Информације"
+
+#: modules/settings.php:1
+msgid "Settings saved."
+msgstr "Подешавања снимљена."
+
+#: modules/settings.php:9
+msgid "Integration"
+msgstr "Интеграција"
+
+#: modules/settings.php:11
+msgid "Widgets"
+msgstr "Виџети"
+
+#: modules/settings.php:12
+msgid "Security"
+msgstr "Сигурност"
+
+#: modules/settings.php:14
+msgid "Tracking"
+msgstr "Праћење"
+
+#: modules/settings.php:15
+msgid "Debug"
+msgstr "Дебаг"
+
+#: modules/settings.php:16
+msgid "RSS"
+msgstr "RSS"
+
+#: modules/settings.php:17
+msgid "PHP"
+msgstr "PHP"
+
+#: modules/settings.php:49
+msgid "Save Settings"
+msgstr "Сними Подешњавања"
+
+#: modules/tagger.php:1
+#: gd-press-tools.php:589
+msgid "Auto Tagger"
+msgstr "Авто-теггер"
+
+#: modules/tagger.php:4
+msgid "Tagger"
+msgstr "Теггер"
+
+#: modules/tagger.php:7
+msgid "Parse posts and/or pages and search for new tags using Yahoo Term Extraction API."
+msgstr "Парсинг постов и/или страниц и поиск новых теги с помощью Yahoo Term Extraction API."
+
+#: modules/tagger.php:8
+msgid "Operation will run as a scheduled job in the background because it will take a lot of time depending on the number of posts."
+msgstr "Операция будет выполняться, как запланированная работа в фоновом режиме, так как это займет много времени, в зависимости от числа постов."
+
+#: modules/tagger.php:12
+msgid "Search and tag posts."
+msgstr "Поиск и теги сообщений."
+
+#: modules/tagger.php:13
+msgid "Search and tag pages."
+msgstr "Результаты поиска"
+
+#: modules/tagger.php:16
+msgid "Maximum number of tags to add"
+msgstr "Максимальное количество тегов для добавления"
+
+#: modules/tagger.php:20
+msgid "Post ID range to process"
+msgstr "ID постов - диапазон для процесса"
+
+#: modules/tagger.php:23
+msgid "to"
+msgstr "к"
+
+#: modules/tagger.php:29
+msgid "Leave 0 to ignore range"
+msgstr "Остваьте 0 для игнорирования"
+
+#: modules/tagger.php:34
+msgid "Run"
+msgstr "Запуск"
+
+#: modules/tagger.php:36
+msgid "Due to the complexity of the requests for results, this tool requires cURL."
+msgstr "Из-за сложности просьб о результатах, этот инструмент требует CURL."
+
+#: modules/tagger.php:45
+msgid "Auto tagger is currently inactive and not scheduled."
+msgstr "Auto Tagger в настоящее время бездействует и не планируется."
+
+#: modules/tagger.php:48
+msgid "Last tagging started at"
+msgstr "Последнее начало было"
+
+#: modules/tagger.php:50
+msgid "Last tagging ended at"
+msgstr "Последнее окончание было"
+
+#: modules/tagger.php:52
+#: modules/tagger.php:68
+msgid "Last post ID processed"
+msgstr "ID последних сообщений обработаны"
+
+#: modules/tagger.php:56
+msgid "Auto tagger is scheduled to run."
+msgstr "Auto Tagger планируется к запуску."
+
+#: modules/tagger.php:58
+msgid "Auto tagger is running."
+msgstr "Auto Tagger запущен."
+
+#: modules/tagger.php:60
+msgid "Maximum tags to add per post"
+msgstr "Максимум тегов на пост"
+
+#: modules/tagger.php:62
+msgid "Operation started at"
+msgstr "Операционная система"
+
+#: modules/tagger.php:64
+msgid "Total posts to process"
+msgstr "Всего сообщений в процессе"
+
+#: modules/tagger.php:66
+msgid "Processed posts so far"
+msgstr "Обрабатываемые до сих пор посты "
+
+#: modules/tagger.php:70
+msgid "Number of tags retrieved"
+msgstr "Количество тегов получено"
+
+#: modules/tagger.php:74
+msgid "Abort"
+msgstr "Прервать"
+
+#: modules/wp_hooks.php:1
+msgid "WordPress Hooks"
+msgstr "WordPress функции"
+
+#: modules/wp_hooks.php:31
+msgid "Hook"
+msgstr "Особенность"
+
+#: modules/wp_hooks.php:32
+msgid "Object"
+msgstr "Недвижимость"
+
+#: modules/wp_hooks.php:34
+msgid "Priority"
+msgstr "Приоритет"
+
+#: modules/wp_hooks.php:35
+msgid "Arguments"
+msgstr "Аргументы"
+
+#: gd-press-tools.php:673
+#: gd-press-tools.php:725
+msgid "Thank you for using"
+msgstr "Благодарим вас за использование"
+
+#: gd-press-tools.php:675
+#: gd-press-tools.php:727
+msgid "administration addon plugin"
+msgstr "administorski dodataci"
+
+#: gd-press-tools.php:270
+#: gd-press-tools.php:1014
+msgid "Duplicate"
+msgstr "Dupliciraj"
+
+#: gd-press-tools.php:272
+#: gd-press-tools.php:1015
+msgid "Are you sure that you want to delete revisions for this post?"
+msgstr "Вы уверены, что хотите удалить все изменения к статье?"
+
+#: gd-press-tools.php:272
+#: gd-press-tools.php:1015
+msgid "Delete Revisions"
+msgstr "Удалить ревизии"
+
+#: gd-press-tools.php:584
+msgid "Enviroment Info"
+msgstr "Данных об окружающей среде"
+
+#: gd-press-tools.php:586
+msgid "WP Hooks"
+msgstr "В. П. функции"
+
+#: gd-press-tools.php:662
+msgid "Executed Queries"
+msgstr "Выполнено запросов"
+
+#: gd-press-tools.php:664
+msgid "Used memory"
+msgstr "Используемой памяти"
+
+#: gd-press-tools.php:665
+msgid "Load"
+msgstr "Учитавање"
+
+#: gd-press-tools.php:666
+msgid "Init"
+msgstr "Иницијализација"
+
+#: gd-press-tools.php:668
+msgid "Footer"
+msgstr "Дно"
+
+#: gd-press-tools.php:669
+msgid "Page generated in"
+msgstr "Страна генерисана у"
+
+#: gd-press-tools.php:670
+msgid "seconds."
+msgstr "секунди."
+
+#: gd-press-tools.php:713
+msgid "Call originated from"
+msgstr "Создан"
+
+#: gd-press-tools.php:714
+msgid "Execution time"
+msgstr "Време извршавања"
+
+#: gd-press-tools.php:730
+msgid "Total number of queries"
+msgstr "Укупан број упита"
+
+#: gd-press-tools.php:731
+msgid "Total execution time"
+msgstr "Укупно време извршавања"
+
+#: gd-press-tools.php:731
+msgid "seconds"
+msgstr "секунди"
+
+#: gd-press-tools.php:745
+#: gd-press-tools.php:750
+msgid "Additional Options"
+msgstr "Додатн Опције"
+
+#: gd-press-tools.php:954
+msgid "Display Name"
+msgstr "Име за Приказ"
+
+#: gd-press-tools.php:970
+msgid "Sticky"
+msgstr "Стики"
+
+#: gd-press-tools.php:997
+msgid "Yes"
+msgstr "Да"
+
+#: gd-press-tools.php:1007
+msgid "total"
+msgstr "укупно"
+
+#: gd-press-tools.php:1008
+msgid "users"
+msgstr "kорисници"
+
+#: gd-press-tools.php:1009
+msgid "visitors"
+msgstr "посетиоци"
+
+#: gd-press-tools.php:1278
+msgid "Deleted %s posts and %s comments."
+msgstr "Обрисано %s чланака и %s коментара."
+

@@ -1,0 +1,238 @@
+
+
+/*
+=====================================================================================================================
+Begin Rating Stars Template Styles
+*/
+.outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+/*
+End Rating Stars Template Styles
+======================================================================================================================
+*/
+
+
+/*
+=====================================================================================================================
+Begin Main Template Styles
+*/
+.RZProductPage * {text-align:left;border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+.RZProductPage .RZTitle{font-size:1.5em;font-weight:bold;color:black;}
+.RZProductPage .RZProductDetails li{list-style-image: url(../images/star_x_orange.gif);margin-left:20px;}
+.RZProductPage .RZSectionSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZProductPage .RZSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZProductPage .RZSpacer:last-child{border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZProductPage h3{padding-top:5px;padding-bottom:5px;}
+.RZProductPage .RZMainImage{margin-right:10px;border:0px !important;background-color:transparent !important;}
+.RZProductPage .iconAnchorEmail{background:transparent url(../images/email.gif) no-repeat scroll left center;font-size:1.0em;height:30px;padding-left:20px;margin-left:5px;}
+.RZProductPage .iconAnchorEnlarge{background:transparent url(../images/enlargeimage.gif) no-repeat scroll left center;font-size:0.9em;height:30px;padding-left:20px;margin-left:5px;padding-top:5px;}
+.RZProductPage .RZIcon{margin:3px;vertical-align:middle;border:0px !important;background-color:transparent !important;}
+.RZProductPage a.readmore{background:transparent url(../images/read-review.gif) no-repeat scroll 0 0;display:block;float:left;height:26px;margin-right:10px;text-indent:-999999px;width:148px;}
+.RZProductPage a.buynow {background:transparent url(../images/buynow.png) no-repeat scroll 0 0;display:block;float:left;height:48px;margin-right:10px;text-indent:-999999px;width:175px;}
+.RZProductPage .RZFreeShipping{font-size:1.3em;font-weight:bold;padding-right:3px;color:red;}
+.RZProductPage .iconAnchorReviews {background:transparent url(../images/comments.gif) no-repeat scroll left center;font-size:1.0em;height:30px;padding-left:20px;margin-left:5px;padding-top:2px;}
+.RZProductPage .info{background:transparent url(../images/dot.gif) repeat-x scroll 0 0;margin-top:10px;padding-top:10px;}
+.RZProductPage .product_pop{display:block;float:right;padding:0;text-align:left;width:70%;}
+.RZProductPage .product_image{display:block;float:left;padding:0;}
+.RZProductPage .browsetitle{margin-bottom:3px;}
+.RZProductPage .rating{Float:left;Font-weight:bold;}
+.RZProductPage .list_price_number{color:#000000;text-decoration:line-through;}
+.RZProductPage .salePrice{color:green;font-weight:bold;font-size:1.3em;}
+.RZProductPage p {margin:0px;padding:0px;}
+.RZProductPage .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZProductPage .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+.RZProductPage .RZSectionSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZProductPage .RZSectionSpacer:last-child{border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+/*
+End Main Template Styles
+======================================================================================================================
+*/
+
+/*
+=====================================================================================================================
+Begin Excerpt Template Styles
+*/
+.RZPostBox * {text-transform:none;border:0px;background-color:transparent;margin:0px;padding:0px;float:none;background-image:none;}
+.RZPostBox{padding:0px;margin:10px;vertical-align:top;}
+.RZPostBox .RZDescription{padding:5px;color:#000000;}
+.RZPostBox .RZRating{margin-top:3px;height:20px;border:0px solid gray;display:block;}
+.RZImage{float:left;padding:0px;border:0px !important;background-color:transparent !important;}
+.RZImage .RZThumbnail{border:0px !important;padding-left:0px;background-color:none;margin:10px;background-color:transparent !important;}
+.RZPostBox .RZIcon{border:0px !important;vertical-align:middle;background-color:transparent !important;}
+.RZPostBox .RZReadMoreReview{margin-top:5px;}
+.RZPostBox .RZTitle{padding-top:5px;padding-bottom:10px;}
+.RZPostBox .RZTitle .RZTitleLink{font-size:1.3em;font-weight:bold;padding-bottom:5px;}
+.RZPostBox .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZPostBox .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+.RZPostBox a.readmore{background:transparent url(../images/read-review.gif) no-repeat scroll 0 0;Display:block;float:left;height:26px;margin-right:10px;text-indent:-999999px;width:148px;}
+.RZPostBox a.RZcomments{background:transparent url(../images/comments.gif) no-repeat scroll left center;font-size:1.2em;height:30px;padding-left:20px;margin-left:5px;padding-top:5px;font-weight:bold;text-decoration:underline !important;color:#52634b !important;}
+.RZPostBox a.viewwebsite{background:transparent url(../images/view-website.gif) no-repeat scroll 0 0;display:block;float:left;height:26px;margin-right:10px;text-indent:-999999px;width:148px;}
+
+/*
+End Excerpt Template Styles
+======================================================================================================================
+*/
+
+/*
+=====================================================================================================================
+Begin Excerpt Flow Template Styles
+*/
+.RZPostBoxFlow * {text-transform:none;border:0px;background-color:transparent;margin:0px;padding:0px;float:none;background-image:none;}
+.RZPostBoxFlow{padding:0px;margin:10px;vertical-align:top;float:left;}
+.RZPostBoxFlow .RZDescription{padding:5px;}
+.RZPostBoxFlow .RZRating{margin-top:3px;height:20px;border:0px solid gray;display:block;}
+.RZImage{float:left;padding:0px;border:0px !important;background-color:transparent !important;}
+.RZImage .RZThumbnail{border:0px !important;padding-left:0px;background-color:none;margin:10px;background-color:transparent !important;}
+.RZPostBoxFlow .RZIcon{border:0px !important;vertical-align:middle;background-color:transparent !important;}
+.RZPostBoxFlow .RZReadMoreReview{margin-top:5px;}
+.RZPostBoxFlow .RZTitle{padding-top:5px;padding-bottom:10px;}
+.RZPostBoxFlow .RZTitle .RZTitleLink{font-size:1.3em;font-weight:bold;padding-bottom:5px;}
+.RZPostBoxFlow .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZPostBoxFlow .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+.RZPostBoxFlow a.readmore{background:transparent url(../images/read-review.gif) no-repeat scroll 0 0;Display:block;float:left;height:26px;margin-right:10px;text-indent:-999999px;width:148px;}
+.RZPostBoxFlow a.RZcomments{background:transparent url(../images/comments.gif) no-repeat scroll left center;font-size:1.2em;height:30px;padding-left:20px;margin-left:5px;padding-top:5px;font-weight:bold;text-decoration:underline !important;color:#52634b !important;}
+.RZPostBoxFlow a.viewwebsite{background:transparent url(../images/view-website.gif) no-repeat scroll 0 0;display:block;float:left;height:26px;margin-right:10px;text-indent:-999999px;width:148px;}
+/*
+End Excerpt Template Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Customer Review Template Styles
+*/
+
+/*
+End Customer Review Template Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Single-Inline Post Styles
+*/
+.RZSingleInline * {text-transform:none;border:0px;background-color:transparent;margin:0px;padding:0px;float:none;background-image:none;}
+.RZSingleInline {width:200px;margin-right:10px;border:2px solid gainsboro;padding:5px;float:left;}
+.RZSingleInline .RZSectionSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZSingleInline .RZSectionSpacer:last-child{border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZSingleInline .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZSingleInline .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+
+/*
+End Single-Inline Post Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Multi-Inline Post Styles
+*/
+.RZMultiInlinePost * {text-transform:none;border:0px;background-color:transparent;margin:0px;padding:0px;float:none;background-image:none;}
+.RZMultiInlinePost {width:175px;float:left;border:1px solid gainsboro;padding:5px;margin:5px;}
+.RZMultiInlinePost .RZSectionSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZMultiInlinePost .RZSectionSpacer:last-child{border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+
+/*
+End Multi-Inline Post Styles
+======================================================================================================================
+*/
+
+
+
+
+
+
+/*
+======================================================================================================================
+Begin Similar Products Template Styles
+*/
+.RZSimilarProducts * {border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+
+.RZSimilarProducts{margin-bottom:10px;}
+.RZSimilarProducts .RZSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZSimilarProducts .RZTitleLink{font-size:1em;font-weight:bold;text-decoration:underline !important;}
+.RZSimilarProducts .RZImage{margin:5px;float:left;background-color:transparent !important;}
+.RZSimilarProducts .RZListPrice{text-decoration: line-through;}
+.RZSimilarProducts .RZSalePriceLabel{font-size:1em;font-weight:bold;padding-right:3px;color:green;}
+.RZSimilarProducts .RZListPriceLabel{font-weight:bold;padding-right:3px;}
+.RZSimilarProducts .RZSalesLink{font-size:1.2em;font-weight:bold;text-decoration:underline !important;color:green !important;}
+.RZSimilarProducts .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZSimilarProducts .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+/*
+End Similar Products Template Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Product Accessories Template Styles
+*/
+
+.RZProductAccessories * {border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+
+.RZProductAccessories{margin-bottom:10px;}
+.RZProductAccessories .RZSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZProductAccessories .RZTitleLink{font-size:1em;font-weight:bold;text-decoration:underline !important;}
+.RZProductAccessories .RZImage{margin:5px;float:left;background-color:transparent !important;}
+.RZProductAccessories .RZListPrice{text-decoration: line-through;}
+.RZProductAccessories .RZSalePriceLabel{font-size:1em;font-weight:bold;padding-right:3px;color:green;}
+.RZProductAccessories .RZListPriceLabel{font-weight:bold;padding-right:3px;}
+.RZProductAccessories .RZSalesLink{font-size:1.2em;font-weight:bold;text-decoration:underline !important;color:green !important;}
+
+/*
+End Product Accessories Template Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Product Accessories Template Styles
+*/
+.RZVideoReviews * {border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+
+.RZVideoReviews{margin-bottom:10px;}
+.RZVideoReviews .RZSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZVideoReviews .RZTitleLabel{font-size:1em;font-weight:bold;text-decoration:underline !important;}
+.RZVideoReviews .RZTitleLink{font-size:1em;font-weight:bold;text-decoration:underline !important;}
+.RZVideoReviews .RZVideo{padding:10px;}
+/*
+End Product Accessories Template Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Product Accessories Widget Styles
+*/
+.RZAmazonProductAccessories * {border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+.RZAmazonProductAccessories{background-color:#FFFFFF;border:solid 1px gainsboro;padding:5px;}
+.RZAmazonProductAccessories .RZIcon{margin:3px;vertical-align:middle;border:0px !important;background-color:transparent !important;}
+.RZAmazonProductAccessories .RZSalesLink{font-size:1.2em;font-weight:bold;text-decoration:underline !important;color:green !important;}
+.RZAmazonProductAccessories .RZSectionSpacer {border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZAmazonProductAccessories .RZSectionSpacer:last-child {border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZAmazonProductAccessories .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZAmazonProductAccessories .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+
+/*
+End Product Accessories Widget Styles
+======================================================================================================================
+*/
+
+/*
+======================================================================================================================
+Begin Similiar Products Widget Styles
+*/
+.RZAmazonSimilarProducts * {border:0px;background-color:transparent;margin:0px;padding:0px;float:none;}
+
+.RZAmazonSimilarProducts{background-color:#FFFFFF;border:solid 1px gainsboro;padding:5px;}
+.RZAmazonSimilarProducts .RZIcon{margin:3px;vertical-align:middle;border:0px !important;background-color:transparent !important;}
+.RZAmazonSimilarProducts .RZSalesLink{font-size:1.2em;font-weight:bold;text-decoration:underline !important;color:green !important;}
+.RZAmazonSimilarProducts .RZSectionSpacer{border-bottom:1px dotted #2255AA; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZAmazonSimilarProducts .RZSectionSpacer:last-child{border-bottom:0px; margin-bottom:10px; padding:0px 0px 10px 0px; clear:both;}
+.RZAmazonSimilarProducts .outerStar{float:left;display:block;width:60px;background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;margin-left:5px;}
+.RZAmazonSimilarProducts .innerStar{display:block;height:12px;background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;}
+
+/*
+End Similiar Products Widget Styles
+======================================================================================================================
+*/

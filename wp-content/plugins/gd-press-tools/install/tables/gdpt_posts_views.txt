@@ -1,0 +1,6 @@
+CREATE TABLE `%sgdpt_posts_views` (
+  `post_id` bigint(20) unsigned NOT NULL default '0',
+  `day` varchar(10) default '',
+  `usr_views` int(11) unsigned NOT NULL default '0',
+  `vst_views` int(11) unsigned NOT NULL default '0',
+  UNIQUE KEY `post_day` (`post_id`, `day`))%COLLATE%;

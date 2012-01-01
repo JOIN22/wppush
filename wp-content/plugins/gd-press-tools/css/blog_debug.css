@@ -1,0 +1,7 @@
+.gdptdebugq { font-size: 12px !important; border-top: 1px solid white; padding: 10px; background-color: #1D507D; color: #B6D1E4; text-align: left; clear: both; }
+.gdptdebugq em { color: white !important; padding: 15px !important; }
+.gdptdebugq ol { margin-left: 20px !important; }
+.gdptdebugq ol li { padding-bottom: 7px; }
+.gdptdebugq ol, .gdptdebugq ol li { list-style: decimal outside !important; }
+.gdptdebugq strong, .gdptdebugq a { color: white !important; }
+.gdptinfoq { margin-bottom: 15px; }

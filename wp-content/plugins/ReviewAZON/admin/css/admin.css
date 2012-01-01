@@ -1,0 +1,14 @@
+ .outerStar
+ {
+ 	float:left;
+ 	display:block;
+ 	width:60px;
+ 	background:transparent url(../images/star_x_grey.gif) 0 0 repeat-x;
+ 	margin-left:5px; 
+ }
+ .innerStar
+ {
+ 	display:block;
+ 	height:12px;
+ 	background:transparent url(../images/star_x_orange.gif) 0 0 repeat-x;
+ }

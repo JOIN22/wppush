@@ -1,0 +1,1786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GD Press Tools 2.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-28 07:40+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;_nc:4c,1,2;_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2;_x:1,2c;_c;esc_html__;esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\gd-press-tools\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\gd-press-tools\n"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:322
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1266
+msgid "Duplicate"
+msgstr "Dublér"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:324
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1267
+msgid "Are you sure that you want to delete revisions for this post?"
+msgstr "Er du sikker på, du vil slette revisionerne for dette indlæg?"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:324
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1267
+msgid "Delete Revisions"
+msgstr "Slet revisioner"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:401
+msgid "Thank you for using this plugin. Please, take a few minutes and check out the Pro version of this plugin and many new and improved features, including premium support."
+msgstr "Tak, fordi du bruger dette plugin. Vær venlig og brug et par minutter på at se på Pro-udgaven af dette plugin. Det har mange nye og forbedrede funktioner, inkl. betalingssupport."
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:402
+msgid "GD Press Tools Pro plugin Editions"
+msgstr "Udgaver af GD Press Tools Pro plugin"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:403
+msgid "Don't display this message anymore"
+msgstr "Vis ikke denne besked mere"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:720
+msgid "You do not have permission to access this page."
+msgstr "Du har ikke rettigheder til at se denne side."
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:774
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:15
+msgid "Front Page"
+msgstr "Forside"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:777
+msgid "Global Settings"
+msgstr "Globale indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:780
+msgid "Environment Info"
+msgstr "Environment-info"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:783
+msgid "WP Hooks"
+msgstr "WP-hooks"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:785
+msgid "Administration"
+msgstr "Administration"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:786
+msgid "Posts"
+msgstr "Indlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:787
+msgid "Auto Tagger"
+msgstr "Auto-tagger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:788
+msgid "Meta Tags"
+msgstr "Meta-tags"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:790
+msgid "Database"
+msgstr "Database"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:793
+msgid "Cron Scheduler"
+msgstr "Cron-jobplanlægger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:795
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1079
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:869
+msgid "Executed Queries"
+msgstr "Udførte forespørgsler"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:871
+msgid "Used memory"
+msgstr "Brugt hukommelse"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:872
+msgid "Init"
+msgstr "Init"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:873
+msgid "Header"
+msgstr "Header"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:874
+msgid "Footer"
+msgstr "Footer"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:875
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:941
+msgid "Page generated in"
+msgstr "Side genereret på"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:876
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:941
+msgid "seconds."
+msgstr "sekunder."
+
+# should be argument swapping enabled
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:879
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:936
+msgid "Thank you for using"
+msgstr "Tak, fordi du bruger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:881
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:938
+msgid "administration addon plugin"
+msgstr "Plugin til udvidet administration"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:885
+msgid "collection of widgets"
+msgstr "samling af widgets"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:924
+msgid "Call originated from"
+msgstr "Kald kom fra"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:925
+msgid "Execution time"
+msgstr "Kørselstid"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:942
+msgid "Total memory used"
+msgstr "Hukommelsesforbrug i alt"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:943
+msgid "Total number of queries"
+msgstr "Det samlede antal forespørgsler"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:944
+msgid "Total execution time"
+msgstr "Samlet kørselstid"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:944
+msgid "seconds"
+msgstr "sekunder"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:958
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:963
+msgid "Additional Options"
+msgstr "Yderligere indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1089
+msgid "Database Tools"
+msgstr "Databaseværktøjer"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1090
+msgid "FAQ"
+msgstr "<span title=\"Ofte stillede spørgsmål\">FAQ</span>"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1091
+msgid "Upgrade to PRO"
+msgstr "Opgradér til PRO"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1205
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1206
+msgid "Display Name"
+msgstr "Visningsnavn"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1221
+msgid "Options"
+msgstr "Indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1222
+msgid "Sticky"
+msgstr "Opslag"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1223
+msgid "Views"
+msgstr "Visninger"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1249
+msgid "Yes"
+msgstr "Ja"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1259
+msgid "total"
+msgstr "i alt"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1260
+msgid "users"
+msgstr "Brugere"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1261
+msgid "visitors"
+msgstr "besøgende"
+
+#: d:\wordpress\plugins\gd-press-tools/gd-press-tools.php:1638
+#, php-format
+msgid "Deleted %s posts and %s comments."
+msgstr "Slettede %s indlæg og %s kommentarer."
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:130
+msgid "None"
+msgstr "Ingen"
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:131
+msgid "Index, Follow"
+msgstr "Index, Follow"
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:132
+msgid "Index, No follow"
+msgstr "Index, No follow"
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:133
+msgid "No index, Follow"
+msgstr "No index, Follow"
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:134
+msgid "No index, No follow"
+msgstr "No index, No follow"
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:240
+msgid "Username is invalid."
+msgstr "Brugernavn er ugyldigt."
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:241
+msgid "Username is the same. Nothing is changed."
+msgstr "Brugernavn er det samme. Intet blev ændret."
+
+#: d:\wordpress\plugins\gd-press-tools/code/db.php:242
+msgid "Choosen username already exists."
+msgstr "Det valgte brugernavn findes allerede."
+
+#: d:\wordpress\plugins\gd-press-tools/code/functions.php:40
+msgid "Given user ID is invalid."
+msgstr "Det givne bruger-id er ugyldigt."
+
+#: d:\wordpress\plugins\gd-press-tools/code/functions.php:55
+#: d:\wordpress\plugins\gd-press-tools/code/functions.php:90
+msgid "Given post ID is invalid."
+msgstr "Det givne indlægs-id er ugyldigt."
+
+#: d:\wordpress\plugins\gd-press-tools/code/functions.php:147
+msgid "RSS feed is not available. Instead, please visit our website: "
+msgstr "RSS-feed er ikke tilgængeligt. Besøg i stedet vores websted: "
+
+#: d:\wordpress\plugins\gd-press-tools/code/js.php:3
+msgid "Are you sure? Operation is not reversible."
+msgstr "Er du sikker? Handlingen kan ikke fortrydes."
+
+#: d:\wordpress\plugins\gd-press-tools/code/js.php:6
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:16
+msgid "Single Post"
+msgstr "Enkelt-indlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:17
+msgid "Single Page"
+msgstr "Enkel-side"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:18
+msgid "Search Results Page"
+msgstr "Søgeresultatsside"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:19
+msgid "Tag Archives"
+msgstr "Tag-arkiver"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:20
+msgid "Category Archives"
+msgstr "Kategoriarkiver"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:21
+msgid "Date based Archives"
+msgstr "Datobaserede arkiver"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:22
+msgid "Author Archives"
+msgstr "Forfatterarkiver"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:23
+msgid "Login Page"
+msgstr "Log-in-side"
+
+#: d:\wordpress\plugins\gd-press-tools/code/meta.php:24
+msgid "Administration Pages"
+msgstr "Administrationssider"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:11
+msgid "Username"
+msgstr "Brugernavn"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:14
+msgid "Change the username for your account. If the change is successful, you will be logged out and you need to login back using new username."
+msgstr "Ændr brugernavnet for din konto. Hvis ændringen bliver gennemført, vil du blive logget ud. Du skal da logge ind igen med det nye brugernavn."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:16
+msgid "Change"
+msgstr "Ændr"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:18
+msgid "Plugin will change username value in following tables"
+msgstr "Pluginnet vil ændre brugernavnet i følgende tabeller"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:19
+msgid "and"
+msgstr "og"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:23
+msgid "Cached RSS Feeds"
+msgstr "Cachede RSS-feeds"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:26
+msgid "Delete all RSS cached content."
+msgstr "Slet al cachet RSS-indhold."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:27
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:31
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:47
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:16
+msgid "Delete"
+msgstr "Slet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:29
+msgid "RSS feeds are stored into options database table. Number of feeds and their data can grow out of control, so it's safe to clean it from time to time."
+msgstr "RSS-feeds er gemt i databasetabellen for indstillinger. Antal feeds og deres data kan komme ud af kontrol. Det er sikkert nok at rydde op fra tid til anden."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:33
+msgid "Reset Widgets"
+msgstr "Nulstil widgets"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:36
+msgid "Reset all sidebars, and remove all widgets from them."
+msgstr "Nulstil alle sidepaneler og fjern alle widgets fra dem."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:37
+msgid "Reset"
+msgstr "Nulstil"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:39
+msgid "Use this if you change themes with different number of sidebars and single instance widgets."
+msgstr "Brug dette, hvis du skifter til temaer med forskelligt antal sidepaneler og widgets, der kun kan bruges én gang."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:43
+msgid "Folder Protection"
+msgstr "Mappebeskyttelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:46
+#, php-format
+msgid "Add %s file with redirection to a home page as a mean of protection agains direct access to some folders. File will be added to following folders if needed:"
+msgstr "Tilføj en %s-fil med viderestilling til en hjemmeside som beskyttelse mod direkte adgang til udvalgte mapper. En fil vil om nødvendigt blive tilføjet til følgende mapper:"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:48
+msgid "Protect"
+msgstr "Beskyt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:50
+msgid "For this to work all these folders must be writable so the plugin can create new files."
+msgstr "Dette kræver, at der skal være skriveadgang til alle disse mapper, så pluginnet kan oprette nye filer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:54
+msgid "Rescan Avatars"
+msgstr "Skan avatars igen"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:57
+msgid "Scan avatars folder to find new images."
+msgstr "Skan avatars-mappen for at finde nye billeder."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:58
+msgid "Avatars folder:"
+msgstr "Avatars-mappe:"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:59
+msgid "Rescan"
+msgstr "Skan igen"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/admin.php:61
+msgid "Use this if you added new avatar images. Plugin is performing auto scan when new version is installed."
+msgstr "Brug denne funktion, hvis du har tilføjet nye avatar-billeder. Pluginnet foretager automatisk en skanning, når en ny version installeres."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:3
+msgid "Are you sure that you want to do this?"
+msgstr "Er du sikker på, du vil gøre dette?"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:10
+msgid "Jobs"
+msgstr "Jobs"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:15
+msgid "Time"
+msgstr "Tidspunkt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:16
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:34
+msgid "Function"
+msgstr "Funktion"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:17
+msgid "Schedule"
+msgstr "Planlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:18
+msgid "Interval"
+msgstr "Interval"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:36
+msgid "unschedule"
+msgstr "slet planlagt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:37
+msgid "run now"
+msgstr "kør nu"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:51
+msgid "Deleting cron jobs is not reccomended if you are not sure what exactly are these jobs used for. Usually, job removal is not reversible."
+msgstr "Det anbefales ikke at slette cron-jobs, hvis du ikke er sikker på, nøjagtigt hvad disse jobs udfører. Sædvanligvis kan man ikke fortryde, hvis man fjerner et job."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/cron.php:52
+msgid "In some cases plugins can leave cron jobs after plugin removal, and these jobs are safe to remove."
+msgstr "I nogle tilfælde sker det, at plugins efter at være fjernet efterlader cron-jobs. Disse jobs kan man roligt slette."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:18
+msgid "Are you sure that you want to DROP this table? Operation is not reversible."
+msgstr "Er du sikker på, du vil <em>slette</em> denne tabel? Handlingen kan ikke fortrydes."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:22
+msgid "Are you sure taht you want to EMPTY this table? Operation is not reversible."
+msgstr "Er du sikker på, du vil <em>tømme</em> denne tabel? Handlingen kan ikke fortrydes."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:43
+msgid "For backup to work, plugin must be able to access backup folder. Plugin has tried to create folders needed and failed. Until you resolved this issue backup will not work."
+msgstr "Dette plugin skal have adgang til mappen til sikerhedskopier for at kunne fungere. Det har prøvet at oprette de nødvendige mapper, men det mislykkedes. Indtil du har løst dette problem, tages der ikke sikkerhedskopier."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:44
+msgid "Either make <strong>wp-content</strong> folder writeable or create <strong>gdbackup</strong> folder in <strong>wp-content</strong> and make it writeable. Use 0755 chmod setting."
+msgstr "Du skal enten gøre <strong>wp-content</strong>-mappen skrivbar eller opret <strong>gdbackup</strong>-mappen i <strong>wp-content</strong> og gør den skrivbar. Sæt CHMOD til 0755."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:54
+msgid "Tables"
+msgstr "Tabeller"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:55
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:14
+msgid "Backup"
+msgstr "Backup"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db.php:56
+msgid "Tools"
+msgstr "Værktøjer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front.php:9
+msgid "a wordpress administration addon"
+msgstr "udvidelse af WordPress-administrationen"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/global.php:2
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:2
+msgid "Settings saved."
+msgstr "Indstillingerne gemt."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/global.php:11
+msgid "Plugin Panels"
+msgstr "Pluginpaneler"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/global.php:18
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:63
+msgid "Save Settings"
+msgstr "Gem indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta.php:2
+msgid "Meta tags settings are saved."
+msgstr "Indstillinger for meta-tags er gemt."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta.php:10
+msgid "General"
+msgstr "Generelt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta.php:11
+msgid "Robots"
+msgstr "Robotter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:12
+msgid "Close comments and/or pings on posts older than selected date."
+msgstr "Luk kommentarer og/eller pings til indlæg ældre end valgte dato."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:13
+msgid "Close comments."
+msgstr "Luk kommentarer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:15
+msgid "Close pings."
+msgstr "Luk pings."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:18
+msgid "For posts published before"
+msgstr "For indlæg udgivet før"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:22
+msgid "Close"
+msgstr "Luk"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:26
+msgid "Revisions"
+msgstr "Revisioner"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:29
+msgid "Remove all revision for published posts and pages."
+msgstr "Fjern alle revisioner af udgivne indlæg og sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:30
+msgid "Total number of revisions found"
+msgstr "Det samlede antal revisioner fundet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:33
+msgid "Last revisions removal"
+msgstr "Fjernelse af seneste revisioner"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:37
+msgid "Delete Posts"
+msgstr "Slet indlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:40
+msgid "Delete all posts older than selected date. This will delete posts, post terms relationships, post meta data, comments for those posts and revisions."
+msgstr "Slet alle indlæg ældre end valgte dato. Dette vil slette indlæg, indlæggenes term-relationer, meta-data, kommentarerne til disse indlæg og revisionerne."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:43
+msgid "Delete posts published before"
+msgstr "Slet indlæg udgivet før"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/posts.php:49
+msgid "Operation is not reversible. Backup your data before proceeding."
+msgstr "Handlingen kan ikke fortrydes. Tag en sikkerhedskopi, før du fortsætter."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/server.php:2
+msgid "Full Server Info"
+msgstr "Fuld information om server"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/server.php:6
+msgid "PHP Info"
+msgstr "PHP-info"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/server.php:7
+msgid "PHP Constants"
+msgstr "PHP-konstanter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/server.php:8
+msgid "mySQL Info"
+msgstr "MySQL-info"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:11
+msgid "Integration"
+msgstr "Integration"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:12
+msgid "Content"
+msgstr "Indhold"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:14
+msgid "Security"
+msgstr "Sikkerhed"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:15
+msgid "Tracking"
+msgstr "Sporing"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:16
+msgid "Debug"
+msgstr "Debugging"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:17
+msgid "Widgets"
+msgstr "Widgets"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:18
+msgid "RSS"
+msgstr "RSS"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:19
+msgid "PHP"
+msgstr "PHP"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:20
+msgid "Short URL"
+msgstr "Korte URL&#39;er"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings.php:22
+msgid "Access"
+msgstr "Adgang"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:5
+msgid "Tagger"
+msgstr "Tagger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:8
+msgid "Parse posts and/or pages and search for new tags using Yahoo Term Extraction API."
+msgstr "Pars indlæg og/eller sider og søg efter nye tags ved hjælp af Yahoo Term Extraction API."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:9
+msgid "Operation will run as a scheduled job in the background because it will take a lot of time depending on the number of posts."
+msgstr "Handlingen vil køre som et planlagt job i baggrunden, fordi det vil tage meget lang tid afhængigt af antal indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:10
+msgid "After you start the process you don't need to be on this page, you can check back from time to time for the status."
+msgstr "Når du først har igangsat denne proces, behøver du ikke at blive på denne side. Du kan vende tilbage og tjekke status fra tid til anden."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:14
+msgid "Search and tag posts."
+msgstr "Søg og tag indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:15
+msgid "Search and tag pages."
+msgstr "Søg og tag sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:18
+msgid "Maximum number of tags to add"
+msgstr "Maks. antal tags, der må tilføjes"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:22
+msgid "Post ID range to process"
+msgstr "Interval af indlægs-id&#39;er, der skal behandles"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:25
+msgid "to"
+msgstr "til"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:31
+msgid "Leave 0 to ignore range"
+msgstr "Indtast 0 for intet interval"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:36
+msgid "Running..."
+msgstr "Kører …"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:36
+msgid "Run"
+msgstr "Udfør"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:38
+msgid "Due to the complexity of the requests for results, this tool requires cURL."
+msgstr "Fordi resultatanmodningerne er meget komplekse, kræver denne proces cURL."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:43
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:6
+msgid "Status"
+msgstr "Status"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:47
+msgid "Auto tagger is currently inactive and not scheduled."
+msgstr "Auto-tagger er for øjeblikket inaktiv, og der er ingen planlagte kørsler."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:50
+msgid "Last tagging started at"
+msgstr "Sidste tagging påbegyndt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:52
+msgid "Last tagging ended at"
+msgstr "Sidste tagging endt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:54
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:76
+msgid "Last post ID processed"
+msgstr "Sidst behandlede indlægs-id"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:59
+msgid "Auto tagger is scheduled to run. Process will start in 30 seconds."
+msgstr "Auto-tagger er planlagt til udførelse. Processen starter om 30 sekunder."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:61
+msgid "You can safely leave this page, process will run in the background. If you want to check the status later, open this page again."
+msgstr "Du kan uden problemer forlade eller lukke denne side. Processen vil køre i baggrunden. Hvis du ønsker at tjekke status senere, skal du blot åbne denne side igen."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:64
+msgid "Auto tagger is currently running in the background."
+msgstr "Auto-tagger kører i øjeblikket i baggrunden."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:66
+msgid "Data displayed bellow are not current. To get latest status of the process, refresh this page."
+msgstr "De data, der vises nedenfor, er forældede. For at få den seneste status for processe skal du genindlæse denne side."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:68
+msgid "Maximum tags to add per post"
+msgstr "Maks. tags, der må tilføjes per indlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:70
+msgid "Operation started at"
+msgstr "Handling påbegyndt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:72
+msgid "Total posts to process"
+msgstr "Indlæg i alt, der skal behandles"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:74
+msgid "Processed posts so far"
+msgstr "Behandlede indlæg til nu"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:78
+msgid "Last post processed at"
+msgstr "Sidste indlæg behandlet den"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:80
+msgid "Number of tags retrieved"
+msgstr "Antal tags hentet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:84
+msgid "Abort"
+msgstr "Afbryd"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:92
+msgid "Maintenance"
+msgstr "Vedligeholdelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:94
+msgid "In some rare cases, tagger cron job can be stuck during execution, preventing you to run another one."
+msgstr "I sjældne tilfælde kan tagger-cronjobbet gå i stå under udførelsen og forhindre dig i at køre en ny."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:95
+msgid "In that case you can use this forced cleanup option, but only if the current process is stuck for longer than few hours."
+msgstr "I sådanne tilfælde kan du bruge denne funktion, der gennemtvinger en oprydning. Det må du dog kun gøre, hvis processen har været i stå i flere end nogle få timer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/tagger.php:98
+msgid "Force Cleanup"
+msgstr "Gennemtving oprydning"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:2
+msgid "WordPress Hooks"
+msgstr "WordPress-hooks"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:32
+msgid "Hook"
+msgstr "Hook"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:33
+msgid "Object"
+msgstr "Objekt"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:35
+msgid "Priority"
+msgstr "Prioritet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/wp_hooks.php:36
+msgid "Arguments"
+msgstr "Argumenter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:5
+msgid "Database backup file will be saved into this folder"
+msgstr "Filen med sikkerhedskopien af databasen gemmes i denne mappe"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:6
+msgid "Plugin can't access the backup folder. Check the folder access rights before proceeding."
+msgstr "Pluginnet kan ikke få adgang til mappen til sikkerhedskopier. Tjek adgangsrettighederne til mappen, inden du fortsætter."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:8
+msgid "Save database backup as GZIP archive."
+msgstr "Gem databasesikkerhedskopien som GZIP-fil."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:10
+msgid "Add DROP IF EXISTS query for each table."
+msgstr "Tilføj DROP IF EXISTS-forespørgsel for hver tabel."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:12
+msgid "Export only tables structure, no data."
+msgstr "Eksportér kun tabelstruktur, ikke data."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:17
+msgid "Backups"
+msgstr "Sikkerhedskopier"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:19
+msgid "This is the list of available backups for download"
+msgstr "Dette er listen med sikkerhedskopier, der kan downloades"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/backup.php:23
+msgid "No backup files found in backup folder."
+msgstr "Ingen filer med sikkerhedskopier i mappen til sikkerhedskopier."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:5
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:52
+msgid "Name"
+msgstr "Navn"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:7
+msgid "Collation"
+msgstr "<span title=\"Hvilken standard skal styre sorteringen\">Collation</span>"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:8
+msgid "Records"
+msgstr "Poster"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:9
+msgid "Size"
+msgstr "Størrelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:10
+msgid "Overhead"
+msgstr "Spild"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:41
+msgid "drop"
+msgstr "slet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:41
+msgid "empty"
+msgstr "tøm"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:53
+msgid "Type"
+msgstr "Type"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:54
+msgid "Key"
+msgstr "Nøgle"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:55
+msgid "Default"
+msgstr "Standard"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:56
+msgid "Extra"
+msgstr "Ekstra"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tables.php:83
+msgid "Default WordPress tables can't be emptied or droped."
+msgstr "Standardtabeller i WordPress kan ikke tømmes eller slettes."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:2
+msgid "Optimize Database"
+msgstr "Optimér database"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:5
+msgid "Optimize, remove overhead and repair all tables if needed."
+msgstr "Optimér, fjern spild og reparér alle tabeller, om nødvendigt."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:6
+msgid "Clean"
+msgstr "Rens"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:8
+msgid "Overhead can have negative impact to WordPress performance, and is best to have database optimized from time to time."
+msgstr "Spild kan påvirke WordPress-ydelsen negativt, og det er bedst at optimere databasen fra tid til anden."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:12
+msgid "Delete Backups"
+msgstr "Slet sikkerhedskopier"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:15
+msgid "Delete all database backup files from the backup folder."
+msgstr "Slet alle filer med databasesikkerhedskopier fra mappen til sikkerhedskopier."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/db/tools.php:18
+msgid "Currently available backup files"
+msgstr "Filer med sikkerhedskopier, der pt. er tilgængelige"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:5
+msgid "Info"
+msgstr "Info"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:9
+msgid "Version"
+msgstr "Version"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:10
+msgid "release date"
+msgstr "udgivelsesdato"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:15
+msgid "Change Log"
+msgstr "Log over ændringer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:16
+msgid "detailed list of changes"
+msgstr "detaljeret liste over ændringer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:17
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:28
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:33
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:43
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:57
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:62
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:67
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:72
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:77
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:91
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:96
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:101
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:106
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:111
+msgid "visit"
+msgstr "besøg"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:22
+msgid "Links"
+msgstr "Links"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:27
+msgid "discussions group"
+msgstr "Diskussionsgruppe"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:32
+msgid "wordpress plugin page"
+msgstr "WordPress-plugin-side"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:37
+msgid "Pro Edition"
+msgstr "Pro-udgave"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:41
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:89
+msgid "Official Website"
+msgstr "Officiel hjemmeside"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:42
+msgid "extended premium version"
+msgstr "Udvidet betalingsudgave"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:50
+msgid "GD WordPress Plugins"
+msgstr "GD-plugins til WordPress"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:56
+msgid "wordpress ratings system"
+msgstr "WordPress' vurderingssystem"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:66
+msgid "advanced pages widget"
+msgstr "Avanceret sidewidget"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:71
+msgid "custom taxonomies managment"
+msgstr "Håndtering af egne taksonomier"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:76
+msgid "widget to add linkedin badge"
+msgstr "Widget til at tilføje LinkedIn-emblem"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:90
+msgid "golden dragon official web portal"
+msgstr "Golden Dragons officielle webportal"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:95
+msgid "wordpress development"
+msgstr "WordPress-udvikling"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:100
+msgid "tv shows reviews and news"
+msgstr "TV med anmeldelser og nyheder"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:104
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:105
+msgid "development discussion forum"
+msgstr "Diskussionsforum for udvikling"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/gdragon.php:110
+msgid "announcements and theme demo"
+msgstr "Annonceringer og tema-demo"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:3
+msgid "Plugin Quick Facts"
+msgstr "Korte fakta om pluginnet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:8
+msgid "Deleted revisions"
+msgstr "Slettede revisioner"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:12
+msgid "Saved on database cleanup"
+msgstr "Gemt i forbindelse med databaseoprydning"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:20
+msgid "Server Status"
+msgstr "Serverstatus"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:25
+msgid "Server"
+msgstr "Server"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:29
+msgid "Operating System"
+msgstr "Operativsystem"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:33
+msgid "Hostname"
+msgstr "Værtsnavn"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:37
+msgid "IP and Port"
+msgstr "IP og port"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:45
+msgid "PHP Status"
+msgstr "PHP-status"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:55
+msgid "Used Memory"
+msgstr "Brugt hukommelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:60
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:61
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:81
+msgid "On"
+msgstr "Til"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:61
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:81
+msgid "Off"
+msgstr "Fra"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:64
+msgid "Memory Limit"
+msgstr "Hukommelsesbegrænsning"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:68
+msgid "Max POST Size"
+msgstr "Maks. størrelse for POST"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:72
+msgid "Max Upload Size"
+msgstr "Maks. uploadstørrelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:76
+msgid "Max Execution Time"
+msgstr "Maks. tid til kørsel"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:80
+msgid "Allow URL fopen"
+msgstr "Tillad URL-fopen"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:84
+msgid "GD Library"
+msgstr "GD Library"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:92
+msgid "mySQL Status"
+msgstr "MySQL-status"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:101
+msgid "Full Database Size"
+msgstr "Databasens totale størrelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/front/infos.php:105
+msgid "WordPress Tables Size"
+msgstr "Størrelse på WordPress-tabellerne"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/global/panels.php:4
+msgid "Control what panels will be accessable by the individual blog users."
+msgstr "Kontrollér, hvilke paneler de forskellige brugere på bloggen har adgang til."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:9
+msgid "Robots Meta Tag"
+msgstr "Metatags for robotter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:10
+msgid "Use global meta tag settings"
+msgstr "Brug globale indstillinger for metatags"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:16
+msgid "Standard"
+msgstr "Standard"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:24
+msgid "No Yahoo"
+msgstr "Ingen Yahoo"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:27
+msgid "No Archive"
+msgstr "Ingen arkivering"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:32
+msgid "No ODP"
+msgstr "Ingen ODP"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:35
+msgid "No Snippet"
+msgstr "Ingen snippets"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:40
+msgid "No Image Index"
+msgstr "Ingen billedindekser"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/integrate/postedit.php:43
+msgid "No Translate"
+msgstr "Ingen oversættelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:3
+msgid "Default Robots Meta"
+msgstr "Standardmetatags for robotter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:5
+msgid "Try to disable standard Noindex meta tag added by WordPress."
+msgstr "Forsøg at deaktivere Noindex-metatagget, som WordPress tilføjer som standard."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:7
+msgid "Enable this option if you want to use advanced robots meta tag generator."
+msgstr "Aktivér denne indstilling, hvis du ønsker at bruge den avancerede robotmetatags-generator."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:10
+msgid "Language Meta Tag"
+msgstr "Sprogmetatags"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:12
+msgid "Add content language meta tag site wide. You can specify more than one language for this tag."
+msgstr "Tilføj sprogmetatag for indhold på hele sitet. Du kan angive mere end et sprog for dette tag."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:16
+msgid "List of languages to add"
+msgstr "Liste med sprog, der skal tilføjes"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:21
+msgid "list comma separated 2 character codes"
+msgstr "anfør to-tegns-sprogkoder som liste adskilt af kommaer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:26
+msgid "List of all supported 2 character language codes can be found here"
+msgstr "Liste med alle understøttede sprogkoder (på to tegn) kan findes her"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/general.php:27
+msgid "Codes for the Representation of Names of Languages"
+msgstr "Koder, der repræsenterer sprogenes navne"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/robots.php:7
+msgid "active"
+msgstr "aktiv"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/robots.php:36
+msgid "Save"
+msgstr "Gem"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/robots.php:39
+msgid "Load Defaults"
+msgstr "Indlæs standardværdier"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/meta/robots.php:40
+msgid "Clear"
+msgstr "Ryd"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/access.php:2
+msgid "User Levels"
+msgstr "Brugerniveauer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/access.php:6
+msgid "Main access level to plugin panels"
+msgstr "Generelt adgangsniveau for plugins-paneler"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/access.php:10
+msgid "Access level for environment info panel"
+msgstr "Adgangsniveau for panelet med environment-info"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/access.php:14
+msgid "Access level for plugin front panel"
+msgstr "Adgangsniveau for pluginnets forsidepanel"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/access.php:19
+msgid "Level must be between 1 and 10. Subscribers level 0 is not allowed."
+msgstr "Niveau skal være mellem 1 og 10. Niveau 0 – abonnenters – er ikke tilladt."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:6
+msgid "Number of revisions to save"
+msgstr "Antal revisioner, der skal gemmes"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:11
+msgid "to store every revision"
+msgstr "lagrer alle revisioner"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:12
+msgid "to store only one autosave revision"
+msgstr "lagrer kun en auto-gem-revision"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:15
+msgid "Updates"
+msgstr "Opdateringer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:17
+msgid "Disable WordPress core auto update check."
+msgstr "Deaktivér automatisk tjek af opdateringer til WordPress-kernen."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:19
+msgid "Disable plugins auto upgrade check."
+msgstr "Deaktivér automatisk tjek af plugins-opdateringer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:21
+msgid "Disable themes auto upgrade check."
+msgstr "Deaktivér automatisk tjek af temaopdateringer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:21
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:12
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:14
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:22
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:24
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:26
+msgid "WP 2.8 and higher."
+msgstr "WP 2.8 eller nyere."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:24
+msgid "Footer Stats"
+msgstr "Footer-statistik"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:26
+msgid "Display page loading stats in the footer."
+msgstr "Vis statistik for sideindlæsning i footeren."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:28
+msgid "This will show page loading statistics data (executed queries, load time and used memory) in the admin page footer."
+msgstr "Dette vil vise statistisk data for indlæsning af side (udførte forespørgsler, indlæsningstid og hukommelsesbrug) i footeren på admin-sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:31
+msgid "Various Tweaks"
+msgstr "Diverse indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:33
+msgid "Hide the Help tab on the top of each page."
+msgstr "Skjul Hjælp-fanen øverst på hver side."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:35
+msgid "Hide the favorites dropdown in the header."
+msgstr "Skjul Favorit-dropdown-menuen i headeren."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:37
+msgid "Hide the WordPress logo found beside the website name in header."
+msgstr "Skjul WordPress-logoet ved siden af hjemmesidens navn i headeren."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:39
+msgid "Hide the turbo link from the header."
+msgstr "Fjern turbolinket fra headeren."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:41
+msgid "Disable Flash uploader."
+msgstr "Deaktivér Flash-uploader."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:43
+msgid "Disable post auto save."
+msgstr "Deaktivér automatisk gemning af indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:45
+msgid "Enable database auto repair feature."
+msgstr "Aktivér autoreparation af database."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/administration.php:45
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:16
+msgid "WP 2.9 and higher."
+msgstr "WP 2.9 eller nyere."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:2
+msgid "REAL Capital P"
+msgstr "Rigtigt Stort P"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:4
+msgid "Add filter for proper correction of word `WordPress` in post subject and post and comment content."
+msgstr "Tilføj filter, der retter ordet `WordPress` til den rigtige stavemøde i indlægsemner og i indholdet i indlæg og kommentarer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:6
+msgid "This new filter uses regular expressions to match only `WordPress` that will not break URL's. It also matches any case of the word to get valid `WordPress`."
+msgstr "Dette nye filter bruger <i>regular expressions</i>, der kun matcher `WordPress`, når det ikke ødelægger URL&#39;er. Det matcher endvidere en hvilken som helst brug af små og store bogstaver for at få stavet `WordPress`korrekt."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:9
+msgid "Broken Capital P"
+msgstr "Forkert Stort P"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:11
+msgid "Disable default filters used to capitalize letter `p` in `WordPress`."
+msgstr "Deaktivér standardfiltrene, som ændrer lille `p` til stort `P` i `WordPress`."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:11
+msgid "WP 3.0."
+msgstr "WP 3.0."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/content.php:13
+msgid "Matt Mullenweg added a filter that capitalizes letter `p` in word `WordPress` in post and comment content and post subject. But this filter tends to break URL's and enforces editorial control over what you write."
+msgstr "Matt Mullenweg tilføjede et filter, som ændrer et lille `p` i `WordPress` i indholdet i indlæg og kommentarer og i indlægsemnerne. Men dette filter har en tendens til at ødelægge URL&39;er og tiltvinger sig ret til at redigere i, hvad du skriver."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:2
+msgid "Log File"
+msgstr "Logfil"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:4
+msgid "Log SQL queries executed by the plugin."
+msgstr "Log SQL-forespørgsler, som pluginnet har udført."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:6
+#, php-format
+msgid "For logging to work %s in file %s must be set to %s."
+msgstr "For at logging skal kunne fungere, skal %s i filen %s sættes til %s."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:7
+#, php-format
+msgid "Debug data is saved into file set with %s variable in this config file. Default location is %s file in plugin folder, so this file needs to be writable."
+msgstr "Debug-data er gem i en fil, som angives med %s-variablen i denne opsætningsfil. Standardplacering er %s-fil i plugin-mappen, så denne fil må ikke være skrivebeskyttet."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:10
+msgid "SQL Queries"
+msgstr "SQL-forespørgsler"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:12
+msgid "Enable logging of SQL queries. This option must be active to all options bellow to work."
+msgstr "Aktivér logning af SQL-forespørgsler. Denne indstilling skal være valgt, hvis alle indstillingerne nedenfor skal kunne vælges."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:16
+msgid "Add SQL queries at the end of the admin pages."
+msgstr "Tilføj SQL-forespørgsler i bunden af admin-sider"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:20
+msgid "Add SQL queries at the end of the blog pages."
+msgstr "Tilføj SQL-forespørgsler i bunden af blogsider"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/debug.php:25
+msgid "Set minimal user level to see all the executed queries by WordPress."
+msgstr "Sæt mindste brugerniveau, der skal til for at kunne se alle forespørgslerne, WordPress har udført."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:2
+msgid "Grids Columns"
+msgstr "Oversigtskolonner"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:4
+msgid "Add extra options for the post and page edit panel table."
+msgstr "Tilføj ekstra indstillinger på oversigten i Rediger indlæg og Rediger sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:6
+msgid "Add ID column on the post and page edit panel table."
+msgstr "Tilføj id-kolonne på oversigten i Rediger indlæg og Rediger sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:8
+msgid "Add sticky status column on the post and page edit panel table."
+msgstr "Tilføj opslagsstatus-kolonne i oversigten på Rediger indlæg og Rediger sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:10
+msgid "Add views column on the post and page edit panel table."
+msgstr "Tilføj kolonne med antal visninger i oversigten på Rediger indlæg og Rediger sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:12
+msgid "Add ID column on the post categories edit panel table."
+msgstr "Tilføj id-kolonne oversigten på Rediger indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:14
+msgid "Add ID column on the post tags edit panels tables."
+msgstr "Tilføj id-kolonne til indlægstags i oversigten på Rediger indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:16
+msgid "Add ID column on the comments panel table."
+msgstr "Tilføj id-kolonne i oversigten kommentarer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:18
+msgid "Add ID column on the media edit panel table."
+msgstr "Tilføj id-kolonne i oversigten i Mediebibliotek"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:20
+msgid "Add ID column on the links edit panel table."
+msgstr "Tilføj id-kolonne i oversigten i Rediger links."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:22
+msgid "Add ID column on the users edit panel table."
+msgstr "Tilføj id-kolonne i oversigten i Brugere"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:24
+msgid "Add column with comments count on the users edit panel table."
+msgstr "Tilføj kolonne med antal kommentarer i oversigten i Brugere"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:26
+msgid "Add display name column on the users edit panel table."
+msgstr "Tilføj kolonne med visningsnavn i oversigten i Brugere."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:29
+msgid "Grids Rows"
+msgstr "Rækker i indlægs-/sideoversigterne"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:33
+msgid "Number of posts in grid on edit posts panel"
+msgstr "Antal indlæg i oversigten på Redigér indlæg-siden"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:38
+msgid "Enter 0 or less to disable modification."
+msgstr "Indtast 0 eller mindre for at deaktivere modificering."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:38
+msgid "WP 2.8"
+msgstr "WP 2.8"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:41
+msgid "Descriptions"
+msgstr "Beskrivelser"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:43
+msgid "Allow saving HTML for tag, category and term descriptions, link description and notes and user description."
+msgstr "Tillad at gemme HTML i beskrivelser af tags, kategorier og termer, i beskrivelser af og noter til links og i beskrivelse af brugere."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:44
+msgid "By default WordPress strips all HTML elements from these fields."
+msgstr "Som standard fjerner WordPress alle HTML-elementer fra disse felter."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:46
+msgid "Allow HTML in description for category, tag or custom taxonomy term."
+msgstr "Tillad HTML i beskrivelserne af kategorier, tags eller egne taksonomitermer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:48
+msgid "Allow HTML in description for links."
+msgstr "Tillad HTML i beskrivelser af links."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:50
+msgid "Allow HTML in note for links."
+msgstr "Tillad HTML i noter til links."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/integration.php:52
+msgid "Allow HTML in biographical info for user."
+msgstr "Tillad HTML i brugernes biografiske oplysninger."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/php.php:2
+msgid "Memory Limits"
+msgstr "Memory Limits (hukommelsesbegrænsning)"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/php.php:7
+msgid "Memory allocated by PHP"
+msgstr "Memory allocated by PHP (hukommelse tildelt af PHP)"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/php.php:15
+msgid "Modifying these settings can have negative impact on your server and website performance. If you are not sure what you doing, don't change these values."
+msgstr "Hvis du ændrer på disse indstillinger, kan det have negativ indflydelse på din servers og websteds ydelse. Hvis du ikke er sikker på, hvad du gør, så lad være at ændre disse værdier."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:2
+msgid "RSS Feeds"
+msgstr "RSS-feeds"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:4
+msgid "Disable all RSS feeds."
+msgstr "Deaktivér alle RSS-feeds."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:7
+msgid "Delayed Posting"
+msgstr "Udskudt udgivelse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:12
+msgid "Delayed posting for RSS feeds"
+msgstr "Udskudt udgivelse af RSS-feeds"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:15
+msgid "minutes"
+msgstr "minutter"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:20
+msgid "With this option active, when you publish new post this post will be part of the RSS feed after number of minutes specified."
+msgstr "Når du udgiver et nyt indlæg, vil indlægget blive en del af RSS-feedet, når det angivne antal minutter er gået, hvis denne indstilling er aktiveret."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:21
+msgid "This will give you enought time to discover potential errors in the post."
+msgstr "Det vil give dig nok tid til at opdage eventuelle fejl i indlægget."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:24
+msgid "Expand RSS Items"
+msgstr "Udvid RSS-nyheder"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:26
+msgid "Insert content before RSS feed item"
+msgstr "Indsæt indholdet (nedenfor) i feedet før RSS-nyheden"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/rss.php:29
+msgid "Insert content after RSS feed item"
+msgstr "Indsæt indholdet (nedenfor) i feedet efter RSS-nyheden"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:4
+msgid "Remove WordPress version."
+msgstr "Fjern WordPress-version."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:6
+msgid "Remove Really Simple Discovery link from header."
+msgstr "Fjern Really Simple Discovery-link fra header."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:8
+msgid "Remove Windows Live Writer link from header."
+msgstr "Fjern Windows Live Writer-link fra header."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:11
+msgid "URL Request"
+msgstr "<span title=\"URL request\">URL-anmodning</span>"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:16
+msgid "Use settings bellow to limit access to admin backend also."
+msgstr "Brug indstillingerne nedenfor til også at begrænse adgangen til kontrolpanelet."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:25
+msgid "Limit access to website for URL requests containing SQL injection code."
+msgstr "Begræns adgang til hjemmesiden for URL-anmodninger, der indeholder \"SQL injection code\"."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:31
+msgid "Limit access to website for URL requests longer than"
+msgstr "Begræns adgang til hjemmesiden for URL-anmodninger, der er længere end"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:34
+msgid "characters"
+msgstr "tegn"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:39
+msgid "Setting low value for request length can cause problems if your website has long URL due to post names and other factors. Experiment until you find best value. Filter is not used for administrators."
+msgstr "Sætter du et minimumsniveau for længden på anmodninger, kan det skabe problemer, hvis din hjemmeside har lange URL#39;er, eller hvis andre faktorer spiller ind. Filteret anvendes ikke på administratorer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:42
+msgid "Various"
+msgstr "Diverse"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:44
+msgid "Remove error messages from login screen."
+msgstr "Fjern fejlmeddelelser fra logind-skærmen."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:46
+msgid "Prevent website access if the user is not logged in."
+msgstr "Nægt adgang til webstedet, hvis brugeren ikke er logget ind."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:49
+msgid "Plugin Update"
+msgstr "Pluginopdatering"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:51
+msgid "Report basic usage data that will be used for statistical purposes only."
+msgstr "Rapportér grundlæggende anvendelsesdata, som kun vil blive brugt til statistik."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/security.php:53
+msgid "This report will include your WordPress version and website URL. Report will be sent only when plugin needs to be updated."
+msgstr "Rapporten inkluderer WordPress-version og website-URL'en. Rapporten sendes kun, når pluginnet bør opdateres."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:3
+msgid "Shortening URL's"
+msgstr "Forkortelse af URL'er"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:5
+msgid "Activate shortening URL's service."
+msgstr "Aktivér service, der forkorter URL'er"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:7
+msgid "For this to work, you must use permalinks feature build in the Wordpress."
+msgstr "For at virke kræver denne funktion, at du bruger WordPress' indbyggede permalinks."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:10
+msgid "URL format"
+msgstr "URL-format"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:15
+msgid "Prefix for creating URL"
+msgstr "Præfiks for oprettelse af URL"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:19
+msgid "only letters are allowed."
+msgstr "kun bogstaver er tilladte."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/shorturl.php:20
+msgid "URL will look like this"
+msgstr "URL'en vil se ca. sådan ud"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:2
+msgid "Posts &amp; Pages Views"
+msgstr "Indlægs- og sidevisninger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:4
+msgid "Posts and Pages view tracking active."
+msgstr "Sporing af indlægs- og sidevisninger aktiv."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:9
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:48
+msgid "Track posts."
+msgstr "Sporing af indlæg."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:13
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:52
+msgid "Track pages."
+msgstr "Sporing af sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:18
+msgid "Track registered users."
+msgstr "Sporing af registrerede brugere."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:22
+msgid "Track visitors."
+msgstr "Sporing af besøgende."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:30
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:60
+msgid "Ignore Users"
+msgstr "Ignorér brugere"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:35
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:65
+msgid "list comma separated users id's"
+msgstr "anfør brugerid'er som liste adskilt af kommaer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:41
+msgid "Users Browsing"
+msgstr "Brugernes besøg på bloggen"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/tracking.php:43
+msgid "Track posts and pages registered users are visiting."
+msgstr "Spor indlæg og sider, som registrerede bruger får vist."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/widgets.php:2
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/widgets.php:6
+msgid "Widget with some additional statistical info."
+msgstr "Widget med nogle yderligere statistiske informationer."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/widgets.php:11
+msgid "Set minimal user level to see the widget for each widget individually."
+msgstr "Sæt minimumsbrugerniveau, der skal til for at kunne se widgetten for hver enkelt widget hver for sig."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/widgets.php:14
+msgid "Post Editor"
+msgstr "Indlægseditor"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/settings/widgets.php:16
+msgid "Add options widget to post and page edit panel."
+msgstr "Tilføj indstillingswidget på oversigten i Rediger indlæg og Rediger sider."
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:4
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:63
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:68
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:73
+msgid "show"
+msgstr "vis"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:5
+msgid "hide"
+msgstr "skjul"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:16
+msgid "Additional Statistics Info"
+msgstr "Yderligere statistisk information"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:27
+msgid "Revisions for all published posts"
+msgstr "Revisioner af alle udgivne indlæg"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:30
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:39
+msgid "delete"
+msgstr "slet"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:36
+msgid "Spam comments"
+msgstr "Spamkommentarer"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:45
+msgid "Overhead for all database tables"
+msgstr "Spild i alle databasetabellerne"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:48
+msgid "cleanup"
+msgstr "ryd op"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:56
+msgid "Press Tools Quick Access"
+msgstr "Press Tools&#39; Kvikadgang"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:62
+msgid "all additional WordPress settings"
+msgstr "alle yderligere WordPress-indstillinger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:66
+msgid "Enviroment"
+msgstr "Environment"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:67
+msgid "panel with PHP and mySQL information"
+msgstr "panel med PHP- og MySQL-information"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:71
+msgid "Scheduler"
+msgstr "Planlægger"
+
+#: d:\wordpress\plugins\gd-press-tools/modules/widgets/dashboard.php:72
+msgid "all scheduled cron jobs"
+msgstr "alle planlagte cron-jobs"
+
+#~ msgid "Load"
+#~ msgstr "Indlæs"
+
+#~ msgid "Auto tagger is running."
+#~ msgstr "Autotagger kører i øjeblikket."
+
+#~ msgid "official plugin page"
+#~ msgstr "Officiel plugin-side"
+
+#~ msgid "Donate"
+#~ msgstr "Donér"
+
+#~ msgid "help further development"
+#~ msgstr "Understøt videreudvikling"
+
+#~ msgid "soon"
+#~ msgstr "snart"
+
+#~ msgid "Misc"
+#~ msgstr "Diverse"
+
+#~ msgid ""
+#~ "Add ID column on the post tags and custom taxonomies edit panels tables."
+#~ msgstr ""
+#~ "Tilføj id-kolonne på indlægstag og egne taksonomier i Rediger indlæg og "
+#~ "Rediger sider."
+
+#~ msgid "Login"
+#~ msgstr "Logind"
+
+#~ msgid "Authorization"
+#~ msgstr "Adgangstilladelse"
+
+#~ msgid "Posts &amp; Pages Tracking"
+#~ msgstr "Sporing af indlæg &amp; sider"
+
+#~ msgid "tracking posts and pages"
+#~ msgstr "sporing af indlæg og sider"
+
+#~ msgid "ON"
+#~ msgstr "TIL"
+
+#~ msgid "OFF"
+#~ msgstr "FRA"
+
+#~ msgid "tracking users website browsing"
+#~ msgstr "sporing af de besøgendes brug af sitet"
+
+#~ msgid "Post Custom Fields"
+#~ msgstr "Egne indlægsfelter"
+
+#~ msgid "User Custom Fields"
+#~ msgstr "Egne bruger-felter"
+
+#~ msgid "development home with svn"
+#~ msgstr "Hjemmeside for udvikling, med svn"
+
+#~ msgid "Extras"
+#~ msgstr "Andet"
+
+#~ msgid "PHP Settings"
+#~ msgstr "PHP-indstillinger"
+
+#~ msgid "Press Tools"
+#~ msgstr "Press Tools"
+
+#~ msgid "Add revisions column on the post and page edit panel table."
+#~ msgstr ""
+#~ "Tilføj revisioner-kolonne på redigeringspanel-tabellen for indlæg og "
+#~ "sider."
+
+#~ msgid "basic plugin class and wizard"
+#~ msgstr "Basal plugin class og guide"
+
+#~ msgid "Number of posts in grid on edit posts/pages"
+#~ msgstr "Antal indlæg i artikeloversigten på Redigér indlæg/sider"
+
+#~ msgid "cleanup database"
+#~ msgstr "ryd op i databasen"
+
+#~ msgid "open panel"
+#~ msgstr "åbn panel"
+
+#~ msgid "Plugin Info"
+#~ msgstr "Plugin-info"
+
+#~ msgid "GD Press Tools"
+#~ msgstr "GD Press Tools"
+
+#~ msgid "Editor Grids"
+#~ msgstr "Editor-artikeloversigt"

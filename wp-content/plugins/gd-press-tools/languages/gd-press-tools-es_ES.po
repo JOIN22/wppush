@@ -1,0 +1,1738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GD Press Tools 2.5.1 (LITE version)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ángel Guzmán Maeso <shakaran@gmail.com>\n"
+"Language-Team: Shakaran <shakaran@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: code/db.php:129
+msgid "None"
+msgstr "Ninguno"
+
+#: code/db.php:130
+msgid "Index, Follow"
+msgstr "Indexar, Seguir"
+
+#: code/db.php:131
+msgid "Index, No follow"
+msgstr "Indexar, No seguir"
+
+#: code/db.php:132
+msgid "No index, Follow"
+msgstr "No indexar, Seguir"
+
+#: code/db.php:133
+msgid "No index, No follow"
+msgstr "No indexar, No seguir"
+
+#: code/db.php:239
+msgid "Username is invalid."
+msgstr "El nombre de usuario es inválido."
+
+#: code/db.php:240
+msgid "Username is the same. Nothing is changed."
+msgstr "El nombre de usuario es el mismo. No se ha cambiado nada."
+
+#: code/db.php:241
+msgid "Choosen username already exists."
+msgstr "El nombre de usuario elegido ya existe."
+
+#: code/functions.php:14
+msgid "Given user ID is invalid."
+msgstr "El ID de usuario es inválido."
+
+#: code/functions.php:29
+#: code/functions.php:64
+msgid "Given post ID is invalid."
+msgstr "El Id de entrada es inválido."
+
+#: code/functions.php:121
+msgid "RSS feed is not available. Instead, please visit our website: "
+msgstr "El feed RSS no esta disponible. En su lugar, por favor visita nuestro sitio web."
+
+#: code/js.php:2
+msgid "Are you sure? Operation is not reversible."
+msgstr "¿Estás seguro? La operación no es reversible."
+
+#: code/js.php:5
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: code/meta.php:14
+#: gd-press-tools.php:752
+msgid "Front Page"
+msgstr "Portada"
+
+#: code/meta.php:15
+msgid "Single Post"
+msgstr "Entrada única"
+
+#: code/meta.php:16
+msgid "Single Page"
+msgstr "Página única"
+
+#: code/meta.php:17
+msgid "Search Results Page"
+msgstr "Página de resultados de búsqueda"
+
+#: code/meta.php:18
+msgid "Tag Archives"
+msgstr "Etiquetar archivos"
+
+#: code/meta.php:19
+msgid "Category Archives"
+msgstr "Archivos de categoría"
+
+#: code/meta.php:20
+msgid "Date based Archives"
+msgstr "Archivos basados en fecha"
+
+#: code/meta.php:21
+msgid "Author Archives"
+msgstr "Archivos de autor"
+
+#: code/meta.php:22
+msgid "Login Page"
+msgstr "Pagina de entrada"
+
+#: code/meta.php:23
+msgid "Administration Pages"
+msgstr "Páginas de administración"
+
+#: modules/db/backup.php:2
+#: modules/widgets/dashboard.php:60
+#: modules/settings.php:6
+#: gd-press-tools.php:773
+#: gd-press-tools.php:1052
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: modules/db/backup.php:4
+msgid "Database backup file will be saved into this folder"
+msgstr "Archivos de respaldo de base de datos serán guardados en este directorio"
+
+#: modules/db/backup.php:7
+msgid "Save database backup as GZIP archive."
+msgstr "Guardar respaldos de base de datos como archivo GZIP."
+
+#: modules/db/backup.php:9
+msgid "Add DROP IF EXISTS query for each table."
+msgstr "Añadir consulta DROP IF EXISTS para cada tabla."
+
+#: modules/db/backup.php:11
+msgid "Export only tables structure, no data."
+msgstr "Exportar solo estructura de tablas, no datos."
+
+#: modules/db/backup.php:13
+#: modules/db.php:54
+msgid "Backup"
+msgstr "Respaldo"
+
+#: modules/db/backup.php:16
+msgid "Backups"
+msgstr "Respaldos"
+
+#: modules/db/backup.php:18
+msgid "This is the list of available backups for download"
+msgstr "Esta es la lista de respaldos disponibles para descargar"
+
+#: modules/db/backup.php:22
+msgid "No backup files found in backup folder."
+msgstr "No se encontraron archivos de respaldo en el directorio de respaldo."
+
+#: modules/db/backup.php:5
+msgid "Plugin can't access the backup folder. Check the folder access rights before proceeding."
+msgstr "El plugin no puede acceder al directorio de respaldo. Comprueba que el directorio tiene los permisos de acceso antes de proceder."
+
+#: modules/db/tables.php:4
+#: modules/db/tables.php:51
+msgid "Name"
+msgstr "Nombre"
+
+#: modules/db/tables.php:5
+#: modules/tagger.php:42
+msgid "Status"
+msgstr "Estado"
+
+#: modules/db/tables.php:6
+msgid "Collation"
+msgstr "Cotejamiento"
+
+#: modules/db/tables.php:7
+msgid "Records"
+msgstr "Registros"
+
+#: modules/db/tables.php:8
+msgid "Size"
+msgstr "Tamaño"
+
+#: modules/db/tables.php:9
+msgid "Overhead"
+msgstr "Residuo"
+
+#: modules/db/tables.php:10
+#: modules/cron.php:18
+#: gd-press-tools.php:1193
+msgid "Options"
+msgstr "Opciones"
+
+#: modules/db/tables.php:52
+msgid "Type"
+msgstr "Tipo"
+
+#: modules/db/tables.php:53
+msgid "Key"
+msgstr "Clave"
+
+#: modules/db/tables.php:54
+msgid "Default"
+msgstr "Por defecto"
+
+#: modules/db/tables.php:55
+msgid "Extra"
+msgstr "Extra"
+
+#: modules/db/tables.php:82
+msgid "Default WordPress tables can't be emptied or droped."
+msgstr "Las tablas por defectos de WordPress no pueden ser vaciadas o retiradas."
+
+#: modules/db/tables.php:40
+msgid "drop"
+msgstr "retirar"
+
+#: modules/db/tables.php:40
+msgid "empty"
+msgstr "Vacio"
+
+#: modules/db/tools.php:1
+msgid "Optimize Database"
+msgstr "Optimizar base de datos"
+
+#: modules/db/tools.php:4
+msgid "Optimize, remove overhead and repair all tables if needed."
+msgstr "Optimizar, eliminar residuo y reparar todas las tablas si es necesario."
+
+#: modules/db/tools.php:5
+msgid "Clean"
+msgstr "Limpiar"
+
+#: modules/db/tools.php:7
+msgid "Overhead can have negative impact to WordPress performance, and is best to have database optimized from time to time."
+msgstr "Los residuos puede tener un impacto negativo en el rendimiento de Wordpress y es mejor tener una base optimizada de vez en cuando."
+
+#: modules/db/tools.php:11
+msgid "Delete Backups"
+msgstr "Borrar respaldos"
+
+#: modules/db/tools.php:14
+msgid "Delete all database backup files from the backup folder."
+msgstr "Borrar todos los archivos de respaldo de base de datos del directorio de respaldo."
+
+#: modules/db/tools.php:15
+#: modules/admin.php:26
+#: modules/posts.php:30
+#: modules/posts.php:46
+msgid "Delete"
+msgstr "Borrar"
+
+#: modules/db/tools.php:17
+msgid "Currently available backup files"
+msgstr "Archivos de respaldo disponibles actualmente"
+
+#: modules/front/gdragon.php:4
+msgid "Info"
+msgstr "Información"
+
+#: modules/front/gdragon.php:8
+#: modules/front/infos.php:49
+#: modules/front/infos.php:96
+msgid "Version"
+msgstr "Versión"
+
+#: modules/front/gdragon.php:9
+msgid "release date"
+msgstr "fecha de liberación"
+
+#: modules/front/gdragon.php:14
+msgid "Change Log"
+msgstr "Registro de cambios"
+
+#: modules/front/gdragon.php:15
+msgid "detailed list of changes"
+msgstr "Lista detallada de cambios"
+
+#: modules/front/gdragon.php:16
+#: modules/front/gdragon.php:27
+#: modules/front/gdragon.php:32
+#: modules/front/gdragon.php:42
+#: modules/front/gdragon.php:56
+#: modules/front/gdragon.php:61
+#: modules/front/gdragon.php:66
+#: modules/front/gdragon.php:71
+#: modules/front/gdragon.php:76
+#: modules/front/gdragon.php:90
+#: modules/front/gdragon.php:95
+#: modules/front/gdragon.php:100
+#: modules/front/gdragon.php:105
+#: modules/front/gdragon.php:110
+msgid "visit"
+msgstr "visitar"
+
+#: modules/front/gdragon.php:21
+msgid "Links"
+msgstr "Enlaces"
+
+#: modules/front/gdragon.php:26
+msgid "discussions group"
+msgstr "grupo de discusión"
+
+#: modules/front/gdragon.php:31
+msgid "wordpress plugin page"
+msgstr "página del plugin wordpress"
+
+#: modules/front/gdragon.php:36
+msgid "Pro Edition"
+msgstr "Edición Pro"
+
+#: modules/front/gdragon.php:40
+#: modules/front/gdragon.php:88
+msgid "Official Website"
+msgstr "Sitio web oficial"
+
+#: modules/front/gdragon.php:41
+msgid "extended premium version"
+msgstr "version premium extendida"
+
+#: modules/front/gdragon.php:49
+msgid "GD WordPress Plugins"
+msgstr "GD WordPress Plugins"
+
+#: modules/front/gdragon.php:55
+msgid "wordpress ratings system"
+msgstr "sistema de votación de wordpress"
+
+#: modules/front/gdragon.php:60
+#: gd-press-tools.php:858
+msgid "collection of widgets"
+msgstr "colección de widgets"
+
+#: modules/front/gdragon.php:65
+msgid "advanced pages widget"
+msgstr "widget para páginas avanzadas"
+
+#: modules/front/gdragon.php:70
+msgid "custom taxonomies managment"
+msgstr "administración de taxonomías personalizada"
+
+#: modules/front/gdragon.php:75
+msgid "widget to add linkedin badge"
+msgstr "widget para añadir la pegatina de linkedin"
+
+#: modules/front/gdragon.php:89
+msgid "golden dragon official web portal"
+msgstr "portal web oficial de golden dragon"
+
+#: modules/front/gdragon.php:94
+msgid "wordpress development"
+msgstr "desarrollo wordpress"
+
+#: modules/front/gdragon.php:99
+msgid "tv shows reviews and news"
+msgstr "resúmenes y noticias de programas de televisión"
+
+#: modules/front/gdragon.php:103
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: modules/front/gdragon.php:104
+msgid "development discussion forum"
+msgstr "foro de discusión de desarrollo"
+
+#: modules/front/gdragon.php:109
+msgid "announcements and theme demo"
+msgstr "anunciamientos y demostraciones de temas"
+
+#: modules/front/infos.php:2
+msgid "Plugin Quick Facts"
+msgstr "Hechos rápidos del plugin"
+
+#: modules/front/infos.php:7
+msgid "Deleted revisions"
+msgstr "Revisiones borradas"
+
+#: modules/front/infos.php:11
+msgid "Saved on database cleanup"
+msgstr "Guardado en la base de datos de limpieza"
+
+#: modules/front/infos.php:19
+msgid "Server Status"
+msgstr "Estado del servidor"
+
+#: modules/front/infos.php:24
+msgid "Server"
+msgstr "Servidor"
+
+#: modules/front/infos.php:28
+msgid "Operating System"
+msgstr "Sistema operativo"
+
+#: modules/front/infos.php:32
+msgid "Hostname"
+msgstr "Nombre de servidor"
+
+#: modules/front/infos.php:36
+msgid "IP and Port"
+msgstr "IP y puerto"
+
+#: modules/front/infos.php:44
+msgid "PHP Status"
+msgstr "Estado PHP"
+
+#: modules/front/infos.php:54
+msgid "Used Memory"
+msgstr "Memoria usada"
+
+#: modules/front/infos.php:59
+msgid "Safe Mode"
+msgstr "Modo seguro"
+
+#: modules/front/infos.php:63
+msgid "Memory Limit"
+msgstr "Límite de memoria"
+
+#: modules/front/infos.php:67
+msgid "Max POST Size"
+msgstr "Tamaño máximo de POST"
+
+#: modules/front/infos.php:71
+msgid "Max Upload Size"
+msgstr "Tamaño máximo de subida"
+
+#: modules/front/infos.php:75
+msgid "Max Execution Time"
+msgstr "Tiempo de ejecución máximo"
+
+#: modules/front/infos.php:79
+msgid "Allow URL fopen"
+msgstr "Permitir URL fopen"
+
+#: modules/front/infos.php:83
+msgid "GD Library"
+msgstr "Biblioteca GD"
+
+#: modules/front/infos.php:91
+msgid "mySQL Status"
+msgstr "Estado mySQL"
+
+#: modules/front/infos.php:100
+msgid "Full Database Size"
+msgstr "Tamaño completo de la base de datos"
+
+#: modules/front/infos.php:104
+msgid "WordPress Tables Size"
+msgstr "Tamaño de las tablas de WordPress"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "On"
+msgstr "Encendido"
+
+#: modules/front/infos.php:60
+#: modules/front/infos.php:80
+msgid "Off"
+msgstr "Apagado"
+
+#: modules/global/panels.php:1
+#: modules/settings.php:20
+msgid "Access"
+msgstr "Acceso"
+
+#: modules/global/panels.php:3
+msgid "Control what panels will be accessable by the individual blog users."
+msgstr "Controla que paneles serán accesibles por los usuarios individuales del blog."
+
+#: modules/global/panels.php:5
+#: gd-press-tools.php:758
+msgid "Environment Info"
+msgstr "Información de entorno"
+
+#: modules/global/panels.php:7
+#: gd-press-tools.php:761
+msgid "WP Hooks"
+msgstr "Enganches WP"
+
+#: modules/global/panels.php:9
+#: modules/db.php:25
+#: gd-press-tools.php:768
+msgid "Database"
+msgstr "Base de datos"
+
+#: modules/global/panels.php:11
+#: modules/cron.php:6
+#: gd-press-tools.php:771
+msgid "Cron Scheduler"
+msgstr "Planificador Cron"
+
+#: modules/integrate/postedit.php:5
+#: modules/settings.php:18
+msgid "Short URL"
+msgstr "URL abreviada"
+
+#: modules/integrate/postedit.php:8
+msgid "Robots Meta Tag"
+msgstr "Etiquetar meta Robots"
+
+#: modules/integrate/postedit.php:9
+msgid "Use global meta tag settings"
+msgstr "Usar configuraciones de meta etiquetas globales"
+
+#: modules/integrate/postedit.php:15
+msgid "Standard"
+msgstr "Estándar"
+
+#: modules/integrate/postedit.php:23
+msgid "No Yahoo"
+msgstr "No Yahoo"
+
+#: modules/integrate/postedit.php:26
+msgid "No Archive"
+msgstr "No archivar"
+
+#: modules/integrate/postedit.php:31
+msgid "No ODP"
+msgstr "No ODP"
+
+#: modules/integrate/postedit.php:34
+msgid "No Snippet"
+msgstr "No recortar"
+
+#: modules/integrate/postedit.php:39
+msgid "No Image Index"
+msgstr "No índice de imagen"
+
+#: modules/integrate/postedit.php:42
+msgid "No Translate"
+msgstr "No traducir"
+
+#: modules/meta/general.php:2
+msgid "Default Robots Meta"
+msgstr "Meta robots por defecto"
+
+#: modules/meta/general.php:4
+msgid "Try to disable standard Noindex meta tag added by WordPress."
+msgstr "Intentar deshabilitar la meta etiqueta estándar Noindex añadida por WordPress."
+
+#: modules/meta/general.php:6
+msgid "Enable this option if you want to use advanced robots meta tag generator."
+msgstr "Activar esta opción si quiere usar el generador de meta etiquetas avanzadas de robots."
+
+#: modules/meta/general.php:9
+msgid "Language Meta Tag"
+msgstr "Meta etiqueta de idioma"
+
+#: modules/meta/general.php:11
+msgid "Add content language meta tag site wide. You can specify more than one language for this tag."
+msgstr "Añadir meta etiqueta de contenido de idioma para el sitio amplia. Puedes especificar más de una por idioma para esta etiqueta."
+
+#: modules/meta/general.php:15
+msgid "List of languages to add"
+msgstr "Listar todos los idiomas para añadir"
+
+#: modules/meta/general.php:20
+msgid "list comma separated 2 character codes"
+msgstr "Listar coma separado por 2 códigos de carácter"
+
+#: modules/meta/general.php:25
+msgid "List of all supported 2 character language codes can be found here"
+msgstr "La lista de todos los códigos de dos caracteres para idioma puede encontrarse aquí"
+
+#: modules/meta/general.php:26
+msgid "Codes for the Representation of Names of Languages"
+msgstr "Códigos para la representación de nombres de idioma"
+
+#: modules/meta/general.php:30
+#: modules/global.php:17
+#: modules/settings.php:58
+msgid "Save Settings"
+msgstr "Guardar configuraciones"
+
+#: modules/meta/robots.php:6
+msgid "active"
+msgstr "activo"
+
+#: modules/meta/robots.php:35
+msgid "Save"
+msgstr "Guardar"
+
+#: modules/meta/robots.php:38
+msgid "Load Defaults"
+msgstr "Cargar predefinidos"
+
+#: modules/meta/robots.php:39
+msgid "Clear"
+msgstr "Limpiar"
+
+#: modules/settings/access.php:1
+msgid "User Levels"
+msgstr "Niveles de usuarios"
+
+#: modules/settings/access.php:5
+msgid "Main access level to plugin panels"
+msgstr "Nivel de acceso principal para paneles del plugin"
+
+#: modules/settings/access.php:9
+msgid "Access level for environment info panel"
+msgstr "Nivel de acceso para panel de información del entorno"
+
+#: modules/settings/access.php:13
+msgid "Access level for plugin front panel"
+msgstr "Nivel de acceso para el plugin desde el panel frontal"
+
+#: modules/settings/access.php:18
+msgid "Level must be between 1 and 10. Subscribers level 0 is not allowed."
+msgstr "El nivel debe estar entre 1 y 10. Suscriptores con nivel 0 no esta permitidos."
+
+#: modules/settings/administration.php:1
+#: modules/posts.php:25
+msgid "Revisions"
+msgstr "Revisiones"
+
+#: modules/settings/administration.php:5
+msgid "Number of revisions to save"
+msgstr "Número de revisiones para guardar"
+
+#: modules/settings/administration.php:10
+msgid "to store every revision"
+msgstr "para almacenar cada revisión"
+
+#: modules/settings/administration.php:11
+msgid "to store only one autosave revision"
+msgstr "para almacenar solo una revisión de autoguardado"
+
+#: modules/settings/administration.php:14
+msgid "Updates"
+msgstr "Actualizaciones"
+
+#: modules/settings/administration.php:16
+msgid "Disable WordPress core auto update check."
+msgstr "Deshabilitar la comprobación de auto actualizaciones del núcleo de Wordpress."
+
+#: modules/settings/administration.php:18
+msgid "Disable plugins auto upgrade check."
+msgstr "Deshabilitar auto comprobación de actualización de plugins."
+
+#: modules/settings/administration.php:20
+msgid "Disable themes auto upgrade check."
+msgstr "Deshabilitar auto comprobación de actualización de temas."
+
+#: modules/settings/administration.php:20
+#: modules/settings/integration.php:11
+#: modules/settings/integration.php:13
+#: modules/settings/integration.php:21
+#: modules/settings/integration.php:23
+#: modules/settings/integration.php:25
+msgid "WP 2.8 and higher."
+msgstr "WP 2.8 y superior."
+
+#: modules/settings/administration.php:23
+msgid "Footer Stats"
+msgstr "Estadísticas de pie de página"
+
+#: modules/settings/administration.php:25
+msgid "Display page loading stats in the footer."
+msgstr "Mostrar las estadísticas de carga de página en el píe de página."
+
+#: modules/settings/administration.php:27
+msgid "This will show page loading statistics data (executed queries, load time and used memory) in the admin page footer."
+msgstr "Esto mostrará las estadísticas de carga de página (consultas ejecutadas, tiempo de carga y memoria usada) en el pie de página de la administración."
+
+#: modules/settings/administration.php:30
+msgid "Various Tweaks"
+msgstr "Varias modificaciones"
+
+#: modules/settings/administration.php:32
+msgid "Hide the Help tab on the top of each page."
+msgstr "Esconder la pestaña de ayuda arriba de cada página."
+
+#: modules/settings/administration.php:34
+msgid "Hide the favorites dropdown in the header."
+msgstr "Esconder el despegable de favoritos en el encabezado."
+
+#: modules/settings/administration.php:36
+msgid "Hide the WordPress logo found beside the website name in header."
+msgstr "Esconder el logo de WordPress que se encuentra al lado del nombre del sitio web en el encabezado."
+
+#: modules/settings/administration.php:38
+msgid "Hide the turbo link from the header."
+msgstr "Eliminar el enlace de Turbo del encabezado."
+
+#: modules/settings/administration.php:40
+msgid "Disable Flash uploader."
+msgstr "Deshabilitar cargador de Flash"
+
+#: modules/settings/administration.php:42
+msgid "Disable post auto save."
+msgstr "Deshabilitar auto guardado de entradas."
+
+#: modules/settings/administration.php:44
+msgid "Enable database auto repair feature."
+msgstr "Activar característica de auto reparación de base de datos."
+
+#: modules/settings/administration.php:44
+#: modules/settings/integration.php:15
+msgid "WP 2.9 and higher."
+msgstr "WP 2.9 y superior."
+
+#: modules/settings/debug.php:1
+msgid "Log File"
+msgstr "Archivo de registro"
+
+#: modules/settings/debug.php:3
+msgid "Log SQL queries executed by the plugin."
+msgstr "Registrar consultas SQL ejecutadas por el plugin."
+
+#: modules/settings/debug.php:9
+msgid "SQL Queries"
+msgstr "Consultas SQL"
+
+#: modules/settings/debug.php:11
+msgid "Enable logging of SQL queries. This option must be active to all options bellow to work."
+msgstr "Activar registro de consultas SQL. Esta opción debe estar activa para todas las opciones de abajo para trabajar."
+
+#: modules/settings/debug.php:15
+msgid "Add SQL queries at the end of the admin pages."
+msgstr "Añadir consultas SQL al final de las páginas de administración."
+
+#: modules/settings/debug.php:19
+msgid "Add SQL queries at the end of the blog pages."
+msgstr "Añadir consultas SQL al final de las páginas del blog."
+
+#: modules/settings/debug.php:24
+msgid "Set minimal user level to see all the executed queries by WordPress."
+msgstr "Establecer el mínimo nivel de usuario para ver todas las consultas ejecutadas por Wordpress"
+
+#: modules/settings/debug.php:5
+msgid "For logging to work %s in file %s must be set to %s."
+msgstr "Para registrar el trabajo en %s en un archivo %s debes ser un conjunto para %s."
+
+#: modules/settings/debug.php:6
+msgid "Debug data is saved into file set with %s variable in this config file. Default location is %s file in plugin folder, so this file needs to be writable."
+msgstr "Los datos de depurado son guardados en el archivo conjunto con la variable %s en este archivo de configuración. La ubicación por defecto es el archivo %s en el directorio del plugin, por eso este archivo necesita ser regrabable."
+
+#: modules/settings/integration.php:1
+msgid "Grids Columns"
+msgstr "Columnas de rejillas"
+
+#: modules/settings/integration.php:3
+msgid "Add extra options for the post and page edit panel table."
+msgstr "Añadir opciones extra para la entrada y página de la tabla del panel de edición."
+
+#: modules/settings/integration.php:5
+msgid "Add ID column on the post and page edit panel table."
+msgstr "Añadir ID de columna en la entrada y página de edición en la tabla del panel."
+
+#: modules/settings/integration.php:7
+msgid "Add sticky status column on the post and page edit panel table."
+msgstr "Añadir una columna de estado adhesiva a la entrada y página de la tabla de panel de edición"
+
+#: modules/settings/integration.php:9
+msgid "Add views column on the post and page edit panel table."
+msgstr "Añadir columna de vistas de entrada y página en la tabla del panel de edición de página."
+
+#: modules/settings/integration.php:11
+msgid "Add ID column on the post categories edit panel table."
+msgstr "Añadir columna de ID en la entrada de categorías de la tabla del panel de edición."
+
+#: modules/settings/integration.php:13
+msgid "Add ID column on the post tags and custom taxonomies edit panels tables."
+msgstr "Añadir ID de columna en las etiquetas de entrada y taxonomías personalizadas en la tabla de paneles de edición."
+
+#: modules/settings/integration.php:15
+msgid "Add ID column on the comments panel table."
+msgstr "Añadir la columna ID en la tabla del panel de comentarios."
+
+#: modules/settings/integration.php:17
+msgid "Add ID column on the media edit panel table."
+msgstr "Añadir la columna ID en la tabla del panel de edición multimedia."
+
+#: modules/settings/integration.php:19
+msgid "Add ID column on the links edit panel table."
+msgstr "Añadir la columna ID en la tabla del panel de edición de enlaces"
+
+#: modules/settings/integration.php:21
+msgid "Add ID column on the users edit panel table."
+msgstr "Añadir la columna ID de los usuarios en la tabla del panel de edición."
+
+#: modules/settings/integration.php:23
+msgid "Add column with comments count on the users edit panel table."
+msgstr "Añadir  columna con contador de comentarios en la tabla del panel de edición de usuarios."
+
+#: modules/settings/integration.php:25
+msgid "Add display name column on the users edit panel table."
+msgstr "Añadir la columna de mostrar nombre de los usuarios en la tabla del panel de edición."
+
+#: modules/settings/integration.php:28
+msgid "Grids Rows"
+msgstr "Filas de rejillas"
+
+#: modules/settings/integration.php:32
+msgid "Number of posts in grid on edit posts panel"
+msgstr "Numero de entradas en el recuadro de edición del panel de entradas"
+
+#: modules/settings/integration.php:37
+msgid "Enter 0 or less to disable modification."
+msgstr "Introduce 0 o menos para deshabilitar la modificación"
+
+#: modules/settings/integration.php:37
+msgid "WP 2.8"
+msgstr "WP 2.8"
+
+#: modules/settings/integration.php:40
+msgid "Descriptions"
+msgstr "Descripciones"
+
+#: modules/settings/integration.php:42
+msgid "Allow saving HTML for tag, category and term descriptions, link description and notes and user description."
+msgstr "Permitir guardar HTML para etiqueta, categoría y términos de descripciones, descripciones de enlaces y notas y descripciones de usuario."
+
+#: modules/settings/integration.php:43
+msgid "By default WordPress strips all HTML elements from these fields."
+msgstr "Por defecto WordPress elimina todos los elementos HTML de estos campos."
+
+#: modules/settings/integration.php:45
+msgid "Allow HTML in description for category, tag or custom taxonomy term."
+msgstr "Permitir HTML en descripción para categorías, etiquetas o términos taxonómicos personalizados."
+
+#: modules/settings/integration.php:47
+msgid "Allow HTML in description for links."
+msgstr "Permitir HTML en descripciones para enlaces."
+
+#: modules/settings/integration.php:49
+msgid "Allow HTML in note for links."
+msgstr "Permitir HTML en notas para enlaces."
+
+#: modules/settings/integration.php:51
+msgid "Allow HTML in biographical info for user."
+msgstr "Permitir HTML en información biográfical para el usuario."
+
+#: modules/settings/php.php:1
+msgid "Memory Limits"
+msgstr "Limites de meoria"
+
+#: modules/settings/php.php:6
+msgid "Memory allocated by PHP"
+msgstr "Memoria asignada por PHP"
+
+#: modules/settings/php.php:14
+msgid "Modifying these settings can have negative impact on your server and website performance. If you are not sure what you doing, don't change these values."
+msgstr "Modificando esas configuraciones puede tener un impacto negativo en tu servidor y rendimiento del sitio web. Si no esta seguro de lo que estas haciendo, no cambies esos valores."
+
+#: modules/settings/rss.php:1
+msgid "RSS Feeds"
+msgstr "Feeds RSS"
+
+#: modules/settings/rss.php:3
+msgid "Disable all RSS feeds."
+msgstr "Deshabilitar todos los feeds RSS."
+
+#: modules/settings/rss.php:6
+msgid "Delayed Posting"
+msgstr "Publicación retrasada"
+
+#: modules/settings/rss.php:11
+msgid "Delayed posting for RSS feeds"
+msgstr "Retrasar la publicación para las fuentes RSS"
+
+#: modules/settings/rss.php:14
+msgid "minutes"
+msgstr "minutos"
+
+#: modules/settings/rss.php:19
+msgid "With this option active, when you publish new post this post will be part of the RSS feed after number of minutes specified."
+msgstr "Con esta opción activa, cuando publiques una nueva entrada será parte de la fuente RSS después del número de minutos especificado."
+
+#: modules/settings/rss.php:20
+msgid "This will give you enought time to discover potential errors in the post."
+msgstr "Esto te dará suficiente tiempo para descubrir errores potenciales en la entrada."
+
+#: modules/settings/rss.php:23
+msgid "Expand RSS Items"
+msgstr "Expandir elementos RSS"
+
+#: modules/settings/rss.php:25
+msgid "Insert content before RSS feed item"
+msgstr "Insertar contenido antes de cada elemento del alimentador RSS"
+
+#: modules/settings/rss.php:28
+msgid "Insert content after RSS feed item"
+msgstr "Insertar contenido despues de los elementos del alimentador RSS."
+
+#: modules/settings/security.php:1
+#: gd-press-tools.php:846
+msgid "Header"
+msgstr "Encabezado"
+
+#: modules/settings/security.php:3
+msgid "Remove WordPress version."
+msgstr "Eliminar la versión de WordPress"
+
+#: modules/settings/security.php:5
+msgid "Remove Really Simple Discovery link from header."
+msgstr "Eliminar el enlace de Really Simple Discovery del encabezado."
+
+#: modules/settings/security.php:7
+msgid "Remove Windows Live Writer link from header."
+msgstr "Eliminar el enlace de Windows Live Writer del encabezado."
+
+#: modules/settings/security.php:10
+msgid "URL Request"
+msgstr "Peticiones URL"
+
+#: modules/settings/security.php:15
+msgid "Use settings bellow to limit access to admin backend also."
+msgstr "Usar configuraciones inferiores para limitar el acceso al interior de la administración también."
+
+#: modules/settings/security.php:24
+msgid "Limit access to website for URL requests containing SQL injection code."
+msgstr "Limitar el acceso al sitio web para peticiones URL que contenga código de inyección SQL."
+
+#: modules/settings/security.php:30
+msgid "Limit access to website for URL requests longer than"
+msgstr "Limitar el acceso al sitio web para peticiones URL mayores que"
+
+#: modules/settings/security.php:33
+msgid "characters"
+msgstr "caracteres"
+
+#: modules/settings/security.php:38
+msgid "Setting low value for request length can cause problems if your website has long URL due to post names and other factors. Experiment until you find best value. Filter is not used for administrators."
+msgstr "Establecer un valor bajo para la longitud de peticiones puede causar problemas si tu sitio web tiene largas URL debido a nombres de artículo y otros factores. Experimenta hasta que encuentres el mejor valor. El filtro no es usado para administradores."
+
+#: modules/settings/security.php:41
+msgid "Various"
+msgstr "Varios"
+
+#: modules/settings/security.php:43
+msgid "Remove error messages from login screen."
+msgstr "Eliminar los mensajes de error de la pantalla de entrada."
+
+#: modules/settings/security.php:45
+msgid "Prevent website access if the user is not logged in."
+msgstr "Prevenir el acceso al sitio web si el usuario no esta logueado."
+
+#: modules/settings/security.php:48
+msgid "Plugin Update"
+msgstr "Actualización del plugin"
+
+#: modules/settings/security.php:50
+msgid "Report basic usage data that will be used for statistical purposes only."
+msgstr "Informa de datos básicos de uso que serán sólo usados para propósitos estadísticos."
+
+#: modules/settings/security.php:52
+msgid "This report will include your WordPress version and website URL. Report will be sent only when plugin needs to be updated."
+msgstr "Este reporte incluirá la versión de Wordpress y la URL del sitio web. El informe será enviado solo cuando el plugin necesite ser actualizado."
+
+#: modules/settings/shorturl.php:2
+msgid "Shortening URL's"
+msgstr "Abreviando URL's"
+
+#: modules/settings/shorturl.php:4
+msgid "Activate shortening URL's service."
+msgstr "Activar servicio de abreviamiento de URL's"
+
+#: modules/settings/shorturl.php:9
+msgid "URL format"
+msgstr "Formato URL"
+
+#: modules/settings/shorturl.php:14
+msgid "Prefix for creating URL"
+msgstr "Prefijo para la creación de URL"
+
+#: modules/settings/shorturl.php:18
+msgid "only letters are allowed."
+msgstr "sólo se permiten letras."
+
+#: modules/settings/shorturl.php:19
+msgid "URL will look like this"
+msgstr "URL parecidas a esto"
+
+#: modules/settings/shorturl.php:6
+msgid "For this to work, you must use permalinks feature build in the Wordpress."
+msgstr "Para que esto trabaje, debe usar la característica de enlaces permanentes integrada en Wordpress."
+
+#: modules/settings/tracking.php:1
+msgid "Posts &amp; Pages Views"
+msgstr "Vistas de p&aacute;ginas y entradas"
+
+#: modules/settings/tracking.php:3
+msgid "Posts and Pages view tracking active."
+msgstr "Seguimiento de vistas de entradas y páginas activo."
+
+#: modules/settings/tracking.php:8
+#: modules/settings/tracking.php:47
+msgid "Track posts."
+msgstr "Seguir entradas."
+
+#: modules/settings/tracking.php:12
+#: modules/settings/tracking.php:51
+msgid "Track pages."
+msgstr "Seguir páginas."
+
+#: modules/settings/tracking.php:17
+msgid "Track registered users."
+msgstr "Seguir usuarios registrados."
+
+#: modules/settings/tracking.php:21
+msgid "Track visitors."
+msgstr "Seguir visitantes."
+
+#: modules/settings/tracking.php:29
+#: modules/settings/tracking.php:59
+msgid "Ignore Users"
+msgstr "Ignorar usuarios"
+
+#: modules/settings/tracking.php:34
+#: modules/settings/tracking.php:64
+msgid "list comma separated users id's"
+msgstr "Listar id de usuarios separados por coma"
+
+#: modules/settings/tracking.php:40
+msgid "Users Browsing"
+msgstr "Navegación de usuarios"
+
+#: modules/settings/tracking.php:42
+msgid "Track posts and pages registered users are visiting."
+msgstr "Seguir entradas y páginas que visitan los usuarios registrados."
+
+#: modules/settings/widgets.php:1
+msgid "Dashboard"
+msgstr "Panel principal"
+
+#: modules/settings/widgets.php:5
+msgid "Widget with some additional statistical info."
+msgstr "Widget con alguna información estadística adicional."
+
+#: modules/settings/widgets.php:10
+msgid "Set minimal user level to see the widget for each widget individually."
+msgstr "Establecer el mínimo nivel de usuario para ver el widget para cada widget individualmente"
+
+#: modules/settings/widgets.php:13
+msgid "Post Editor"
+msgstr "Editor de entradas"
+
+#: modules/settings/widgets.php:15
+msgid "Add options widget to post and page edit panel."
+msgstr "Añadir opciones de widget en la entrada y página  en el panel de edición."
+
+#: modules/widgets/dashboard.php:15
+msgid "Additional Statistics Info"
+msgstr "Información estadística adicional"
+
+#: modules/widgets/dashboard.php:26
+msgid "Revisions for all published posts"
+msgstr "Revisiones para todas las entradas publicadas"
+
+#: modules/widgets/dashboard.php:29
+#: modules/widgets/dashboard.php:38
+msgid "delete"
+msgstr "borrar"
+
+#: modules/widgets/dashboard.php:35
+msgid "Spam comments"
+msgstr "Comentarios basura"
+
+#: modules/widgets/dashboard.php:44
+msgid "Overhead for all database tables"
+msgstr "Residuo para todas las tablas de la base de datos"
+
+#: modules/widgets/dashboard.php:47
+msgid "cleanup"
+msgstr "Limpieza"
+
+#: modules/widgets/dashboard.php:55
+msgid "Press Tools Quick Access"
+msgstr "Press Tools acceso rápido"
+
+#: modules/widgets/dashboard.php:61
+msgid "all additional WordPress settings"
+msgstr "todas las configuraciones adicionales de WordPress"
+
+#: modules/widgets/dashboard.php:62
+#: modules/widgets/dashboard.php:67
+#: modules/widgets/dashboard.php:72
+#: modules/widgets/dashboard.php:3
+msgid "show"
+msgstr "mostrar"
+
+#: modules/widgets/dashboard.php:65
+msgid "Enviroment"
+msgstr "Entorno"
+
+#: modules/widgets/dashboard.php:66
+msgid "panel with PHP and mySQL information"
+msgstr "panel con información PHP y mySQL"
+
+#: modules/widgets/dashboard.php:70
+msgid "Scheduler"
+msgstr "Planificador"
+
+#: modules/widgets/dashboard.php:71
+msgid "all scheduled cron jobs"
+msgstr "todos los trabajos cron planificados"
+
+#: modules/widgets/dashboard.php:4
+msgid "hide"
+msgstr "esconder"
+
+#: modules/admin.php:7
+#: modules/settings.php:11
+#: gd-press-tools.php:763
+msgid "Administration"
+msgstr "Administración"
+
+#: modules/admin.php:10
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: modules/admin.php:13
+msgid "Change the username for your account. If the change is successful, you will be logged out and you need to login back using new username."
+msgstr "Cambiar el nombre de usuario de tu cuenta. Si el cambio es exitoso, seras deslogueado y necesitaras entrar de nuevo usando el nuevo nombre de usuario."
+
+#: modules/admin.php:15
+msgid "Change"
+msgstr "Cambiar"
+
+#: modules/admin.php:17
+msgid "Plugin will change username value in following tables"
+msgstr "El plugin cambiara el valor de nombre de usario en las siguientes tablas"
+
+#: modules/admin.php:18
+msgid "and"
+msgstr "y"
+
+#: modules/admin.php:22
+msgid "Cached RSS Feeds"
+msgstr "Cache RSS de feeds"
+
+#: modules/admin.php:25
+msgid "Delete all RSS cached content."
+msgstr "Borrar toda la cache de contenidos del RSS."
+
+#: modules/admin.php:28
+msgid "RSS feeds are stored into options database table. Number of feeds and their data can grow out of control, so it's safe to clean it from time to time."
+msgstr "Los feeds RSS son almacenados en las opciones de la tabla de base de datos. El número de feeds y sus datos pueden crecer fuera de control, así que es seguro limpiarlo de vez en cuando."
+
+#: modules/admin.php:32
+msgid "Reset Widgets"
+msgstr "Resetear widgets"
+
+#: modules/admin.php:35
+msgid "Reset all sidebars, and remove all widgets from them."
+msgstr "Resetear todos los paneles laterales y eliminar todos los widgets de ellos."
+
+#: modules/admin.php:36
+msgid "Reset"
+msgstr "Resetear"
+
+#: modules/admin.php:38
+msgid "Use this if you change themes with different number of sidebars and single instance widgets."
+msgstr "Usa esto si cambias temas con diferente numero de barras laterales y una sola instancia de widgets."
+
+#: modules/admin.php:42
+msgid "Folder Protection"
+msgstr "Protección de directorio"
+
+#: modules/admin.php:47
+msgid "Protect"
+msgstr "Proteger"
+
+#: modules/admin.php:49
+msgid "For this to work all these folders must be writable so the plugin can create new files."
+msgstr "Para este trabajo todos esos directorios deben ser escribibles para que el plugin pueda crear nuevos archivos."
+
+#: modules/admin.php:53
+msgid "Rescan Avatars"
+msgstr "Reescaneo de avatares"
+
+#: modules/admin.php:56
+msgid "Scan avatars folder to find new images."
+msgstr "Escanear el directorio de avatares para encontrar nuevas imágenes."
+
+#: modules/admin.php:57
+msgid "Avatars folder:"
+msgstr "Directorio de avatares:"
+
+#: modules/admin.php:58
+msgid "Rescan"
+msgstr "Reescanear"
+
+#: modules/admin.php:60
+msgid "Use this if you added new avatar images. Plugin is performing auto scan when new version is installed."
+msgstr "Usa esto si añadiste imágenes de avatares nuevas. El plugin llevará a cabo un escaneo cuando se instale una nueva versión."
+
+#: modules/admin.php:45
+msgid "Add %s file with redirection to a home page as a mean of protection agains direct access to some folders. File will be added to following folders if needed:"
+msgstr "Añadir el archivo %s con redirección a la página principal como medio de protección contra el acceso directo a algunas carpetas. El archivo se añade a las siguientes carpetas si es necesario:"
+
+#: modules/cron.php:2
+msgid "Are you sure that you want to do this?"
+msgstr "¿Estas seguro que quieres hacer esto?"
+
+#: modules/cron.php:9
+msgid "Jobs"
+msgstr "Trabajos"
+
+#: modules/cron.php:14
+msgid "Time"
+msgstr "Tiempo"
+
+#: modules/cron.php:15
+#: modules/wp_hooks.php:33
+msgid "Function"
+msgstr "Función"
+
+#: modules/cron.php:16
+msgid "Schedule"
+msgstr "Planificado"
+
+#: modules/cron.php:17
+msgid "Interval"
+msgstr "Intevalo"
+
+#: modules/cron.php:50
+msgid "Deleting cron jobs is not reccomended if you are not sure what exactly are these jobs used for. Usually, job removal is not reversible."
+msgstr "Borrar trabajos cron no esta recomendado si no estas seguro de que están usando exactamente esos trabajos. Normalmente, la eliminación de un trabajo cron no es reversible."
+
+#: modules/cron.php:51
+msgid "In some cases plugins can leave cron jobs after plugin removal, and these jobs are safe to remove."
+msgstr "En algunos casos los plugins puede dejar trabajos cron despues del la eliminación del plugin, y esos trabajos son seguros de eliminar."
+
+#: modules/cron.php:35
+msgid "unschedule"
+msgstr "Desplanificar"
+
+#: modules/cron.php:36
+msgid "run now"
+msgstr "ejecutar ahora"
+
+#: modules/db.php:17
+msgid "Are you sure that you want to DROP this table? Operation is not reversible."
+msgstr "¿Estas seguro que quieres BORRAR esta tabla? La operación no es reversible."
+
+#: modules/db.php:21
+msgid "Are you sure taht you want to EMPTY this table? Operation is not reversible."
+msgstr "¿Estas seguro que quieres VACIAR esta tabla? La operación no es reversible."
+
+#: modules/db.php:42
+msgid "For backup to work, plugin must be able to access backup folder. Plugin has tried to create folders needed and failed. Until you resolved this issue backup will not work."
+msgstr "Para que el respaldo funcione, el plugin debe poder acceder al directorio de respaldo. El plugin ha intentado crear los directorios necesarios y falló. Hasta que tu resuelvas este asunto los respaldos no funcionarán."
+
+#: modules/db.php:43
+msgid "Either make <strong>wp-content</strong> folder writeable or create <strong>gdbackup</strong> folder in <strong>wp-content</strong> and make it writeable. Use 0755 chmod setting."
+msgstr "O bien hacer el directorio <strong>wp-content</strong> escribible o crear un directorio <strong>gdbackup</strong> en <strong>wp-content</strong> y hacerlo escribible. Usar la configuración 0755 de chmod."
+
+#: modules/db.php:53
+msgid "Tables"
+msgstr "Tablas"
+
+#: modules/db.php:55
+msgid "Tools"
+msgstr "Herramientas"
+
+#: modules/front.php:8
+msgid "a wordpress administration addon"
+msgstr "un añadido a la administración de wordpress"
+
+#: modules/global.php:1
+#: modules/settings.php:1
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+#: modules/global.php:6
+#: gd-press-tools.php:755
+msgid "Global Settings"
+msgstr "Configuraciones globales"
+
+#: modules/global.php:10
+msgid "Plugin Panels"
+msgstr "Paneles del plugin"
+
+#: modules/meta.php:1
+msgid "Meta tags settings are saved."
+msgstr "Configuraciónes de metaetiquetas guardadas."
+
+#: modules/meta.php:5
+#: gd-press-tools.php:766
+msgid "Meta Tags"
+msgstr "Meta etiquetas"
+
+#: modules/meta.php:9
+msgid "General"
+msgstr "General"
+
+#: modules/meta.php:10
+msgid "Robots"
+msgstr "Robots"
+
+#: modules/posts.php:5
+#: gd-press-tools.php:764
+msgid "Posts"
+msgstr "Entradas"
+
+#: modules/posts.php:8
+#: gd-press-tools.php:1177
+msgid "Comments"
+msgstr "Comentarios"
+
+#: modules/posts.php:11
+msgid "Close comments and/or pings on posts older than selected date."
+msgstr "Cerrar comentarios y/o pings en entradas más antiguas que la fecha seleccionada."
+
+#: modules/posts.php:12
+msgid "Close comments."
+msgstr "Cerrar comentarios."
+
+#: modules/posts.php:14
+msgid "Close pings."
+msgstr "Cerrar pings."
+
+#: modules/posts.php:17
+msgid "For posts published before"
+msgstr "Para entradas publicadas antes"
+
+#: modules/posts.php:21
+msgid "Close"
+msgstr "Cerrar"
+
+#: modules/posts.php:28
+msgid "Remove all revision for published posts and pages."
+msgstr "Eliminar todas las revisiones de entradas publicadas y páginas."
+
+#: modules/posts.php:29
+msgid "Total number of revisions found"
+msgstr "Número total de revisiones encontradas"
+
+#: modules/posts.php:32
+msgid "Last revisions removal"
+msgstr "Última eliminación de revisiones"
+
+#: modules/posts.php:36
+msgid "Delete Posts"
+msgstr "Borrar entradas"
+
+#: modules/posts.php:39
+msgid "Delete all posts older than selected date. This will delete posts, post terms relationships, post meta data, comments for those posts and revisions."
+msgstr "Borrar todas las entradas anteriores a la fecha seleccionada. Esto borrara las entradas, relaciones entre términos de entrada, metadatos de entrada y comentarios para esas entradas y revisiones."
+
+#: modules/posts.php:42
+msgid "Delete posts published before"
+msgstr "Borrar entradas publicadas antes"
+
+#: modules/posts.php:48
+msgid "Operation is not reversible. Backup your data before proceeding."
+msgstr "La operación no es reversible. Respalda tus datos antes de proceder."
+
+#: modules/server.php:1
+msgid "Full Server Info"
+msgstr "Información completa del servidor"
+
+#: modules/server.php:5
+msgid "PHP Info"
+msgstr "Información PHP"
+
+#: modules/server.php:6
+msgid "PHP Constants"
+msgstr "Constantes PHP"
+
+#: modules/server.php:7
+msgid "mySQL Info"
+msgstr "Información mySQL"
+
+#: modules/settings.php:10
+msgid "Integration"
+msgstr "Integración"
+
+#: modules/settings.php:12
+msgid "Security"
+msgstr "Seguridad"
+
+#: modules/settings.php:13
+msgid "Tracking"
+msgstr "Seguimiento"
+
+#: modules/settings.php:14
+msgid "Debug"
+msgstr "Depuración"
+
+#: modules/settings.php:15
+msgid "Widgets"
+msgstr "Widgets"
+
+#: modules/settings.php:16
+msgid "RSS"
+msgstr "RSS"
+
+#: modules/settings.php:17
+msgid "PHP"
+msgstr "PHP"
+
+#: modules/tagger.php:1
+#: gd-press-tools.php:765
+msgid "Auto Tagger"
+msgstr "Auto etiquetador"
+
+#: modules/tagger.php:4
+msgid "Tagger"
+msgstr "Etiquetador"
+
+#: modules/tagger.php:7
+msgid "Parse posts and/or pages and search for new tags using Yahoo Term Extraction API."
+msgstr "Parsear entradas y/0 páginas y buscar nuevas etiquetas usando la API de términos de extracción de Yahoo."
+
+#: modules/tagger.php:8
+msgid "Operation will run as a scheduled job in the background because it will take a lot of time depending on the number of posts."
+msgstr "La operación se ejecutará como trabajo programado de fondo porque ello llevará mucho tiempo dependiendo del número de entradas."
+
+#: modules/tagger.php:9
+msgid "After you start the process you don't need to be on this page, you can check back from time to time for the status."
+msgstr "Después de que inicies el proceso no necesitaras estar en esta página, puedes volver a comprobar de vez en cuando para el estado."
+
+#: modules/tagger.php:13
+msgid "Search and tag posts."
+msgstr "Buscar y etiquetar entradas."
+
+#: modules/tagger.php:14
+msgid "Search and tag pages."
+msgstr "Buscar y etiquetar páginas."
+
+#: modules/tagger.php:17
+msgid "Maximum number of tags to add"
+msgstr "Máximo número de etiquetas para añadir"
+
+#: modules/tagger.php:21
+msgid "Post ID range to process"
+msgstr "Rango de ID de entrada a procesar"
+
+#: modules/tagger.php:24
+msgid "to"
+msgstr "a"
+
+#: modules/tagger.php:30
+msgid "Leave 0 to ignore range"
+msgstr "Dejar 0 para ignorar el rango"
+
+#: modules/tagger.php:37
+msgid "Due to the complexity of the requests for results, this tool requires cURL."
+msgstr "Debido a la complejidad de la solicitud para los resultados, esta herramienta requiere cURL."
+
+#: modules/tagger.php:46
+msgid "Auto tagger is currently inactive and not scheduled."
+msgstr "El auto etiquetador esta actualmente inactivo y no programado."
+
+#: modules/tagger.php:49
+msgid "Last tagging started at"
+msgstr "Último etiquetamiento iniciado el"
+
+#: modules/tagger.php:51
+msgid "Last tagging ended at"
+msgstr "Último etiquetamiento terminado el"
+
+#: modules/tagger.php:53
+#: modules/tagger.php:75
+msgid "Last post ID processed"
+msgstr "Último ID de entrada procesado"
+
+#: modules/tagger.php:58
+msgid "Auto tagger is scheduled to run. Process will start in 30 seconds."
+msgstr "El auto etiquetador esta programado para ejecutarse. El proceso empezará en 30 segundos."
+
+#: modules/tagger.php:60
+msgid "You can safely leave this page, process will run in the background. If you want to check the status later, open this page again."
+msgstr "Puede dejar seguramente esta página, el proceso se ejecutará en segundo plano. Si quieres comprobar el estado después, abre esta página de nuevo."
+
+#: modules/tagger.php:63
+msgid "Auto tagger is currently running in the background."
+msgstr "El auto etiquetador esta actualmente ejecutándose en segundo plano."
+
+#: modules/tagger.php:65
+msgid "Data displayed bellow are not current. To get latest status of the process, refresh this page."
+msgstr "Los datos mostrados abajo no son actuales. Para recibir los últimos estados del proceso, volver a cargar esta página."
+
+#: modules/tagger.php:67
+msgid "Maximum tags to add per post"
+msgstr "Máximo de etiquetas para añadir por entrada"
+
+#: modules/tagger.php:69
+msgid "Operation started at"
+msgstr "Operación empezada el"
+
+#: modules/tagger.php:71
+msgid "Total posts to process"
+msgstr "Total de entradas para procesar"
+
+#: modules/tagger.php:73
+msgid "Processed posts so far"
+msgstr "Entradas procesadas hasta ahora"
+
+#: modules/tagger.php:77
+msgid "Last post processed at"
+msgstr "Último entrada procesada en"
+
+#: modules/tagger.php:79
+msgid "Number of tags retrieved"
+msgstr "Número de etiquetas recibidas"
+
+#: modules/tagger.php:83
+msgid "Abort"
+msgstr "Abortar"
+
+#: modules/tagger.php:91
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+#: modules/tagger.php:93
+msgid "In some rare cases, tagger cron job can be stuck during execution, preventing you to run another one."
+msgstr "En algunos casos extraños, la tarea cron etiquetadora estará pillada durante la ejecución, previniéndote de ejecutar otra."
+
+#: modules/tagger.php:94
+msgid "In that case you can use this forced cleanup option, but only if the current process is stuck for longer than few hours."
+msgstr "En ese caso puedes usar esta opción de forzar limpieza, pero sólo si el actual proceso esta pillado durante más de unas pocas horas."
+
+#: modules/tagger.php:97
+msgid "Force Cleanup"
+msgstr "Forzar limpieza"
+
+#: modules/tagger.php:35
+msgid "Running..."
+msgstr "Ejecutando..."
+
+#: modules/tagger.php:35
+msgid "Run"
+msgstr "Ejecutar"
+
+#: modules/wp_hooks.php:1
+msgid "WordPress Hooks"
+msgstr "Enganches WordPress"
+
+#: modules/wp_hooks.php:31
+msgid "Hook"
+msgstr "Enganchar"
+
+#: modules/wp_hooks.php:32
+msgid "Object"
+msgstr "Objeto"
+
+#: modules/wp_hooks.php:34
+msgid "Priority"
+msgstr "Prioridad"
+
+#: modules/wp_hooks.php:35
+msgid "Arguments"
+msgstr "Argumentos"
+
+#: gd-press-tools.php:400
+msgid "Thank you for using this plugin. Please, take a few minutes and check out the Pro version of this plugin and many new and improved features, including premium support."
+msgstr "Gracias por usar este plugin. Por favor, toma unos pocos minutos y comproba la versión Pro de este plugin y muchas nuevas y mejoradas características, incluyendo soporte premium."
+
+#: gd-press-tools.php:852
+#: gd-press-tools.php:909
+msgid "Thank you for using"
+msgstr "Gracias por usarlo"
+
+#: gd-press-tools.php:854
+#: gd-press-tools.php:911
+msgid "administration addon plugin"
+msgstr "plugin de añadido de administración"
+
+#: gd-press-tools.php:321
+#: gd-press-tools.php:1238
+msgid "Duplicate"
+msgstr "Duplicado"
+
+#: gd-press-tools.php:323
+#: gd-press-tools.php:1239
+msgid "Are you sure that you want to delete revisions for this post?"
+msgstr "¿Estas seguro que quieres borrar todas las revisiones para esta entrada?"
+
+#: gd-press-tools.php:323
+#: gd-press-tools.php:1239
+msgid "Delete Revisions"
+msgstr "Borrar revisiones"
+
+#: gd-press-tools.php:401
+msgid "GD Press Tools Pro plugin Editions"
+msgstr "Ediciones del plugin GD Press Tools Pro"
+
+#: gd-press-tools.php:402
+msgid "Don't display this message anymore"
+msgstr "No mostrar este mensaje nunca más"
+
+#: gd-press-tools.php:700
+msgid "You do not have permission to access this page."
+msgstr "No tienes permiso para acceder a esta página."
+
+#: gd-press-tools.php:842
+msgid "Executed Queries"
+msgstr "Consultas ejecutadas"
+
+#: gd-press-tools.php:844
+msgid "Used memory"
+msgstr "Memoria usada"
+
+#: gd-press-tools.php:845
+msgid "Init"
+msgstr "Iniciar"
+
+#: gd-press-tools.php:847
+msgid "Footer"
+msgstr "Pie de página"
+
+#: gd-press-tools.php:848
+#: gd-press-tools.php:914
+msgid "Page generated in"
+msgstr "Página generada en"
+
+#: gd-press-tools.php:849
+#: gd-press-tools.php:914
+msgid "seconds."
+msgstr "segundos."
+
+#: gd-press-tools.php:897
+msgid "Call originated from"
+msgstr "Llamada originada desde"
+
+#: gd-press-tools.php:898
+msgid "Execution time"
+msgstr "Tiempo de ejecución"
+
+#: gd-press-tools.php:915
+msgid "Total memory used"
+msgstr "Total de memoria usada"
+
+#: gd-press-tools.php:916
+msgid "Total number of queries"
+msgstr "Número total de consultas"
+
+#: gd-press-tools.php:917
+msgid "Total execution time"
+msgstr "Tiempo total de ejecución"
+
+#: gd-press-tools.php:917
+msgid "seconds"
+msgstr "segundos"
+
+#: gd-press-tools.php:931
+#: gd-press-tools.php:936
+msgid "Additional Options"
+msgstr "Opciones adicionales"
+
+#: gd-press-tools.php:1062
+msgid "Database Tools"
+msgstr "Herramientas de base de datos"
+
+#: gd-press-tools.php:1063
+msgid "Upgrade to PRO"
+msgstr "Actualizar a PRO"
+
+#: gd-press-tools.php:1178
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#: gd-press-tools.php:1194
+msgid "Sticky"
+msgstr "Adhesivo"
+
+#: gd-press-tools.php:1195
+msgid "Views"
+msgstr "Vistas"
+
+#: gd-press-tools.php:1221
+msgid "Yes"
+msgstr "Si"
+
+#: gd-press-tools.php:1231
+msgid "total"
+msgstr "total"
+
+#: gd-press-tools.php:1232
+msgid "users"
+msgstr "usuarios"
+
+#: gd-press-tools.php:1233
+msgid "visitors"
+msgstr "visitantes"
+
+#: gd-press-tools.php:1608
+msgid "Deleted %s posts and %s comments."
+msgstr "Borradas %s entradas y %s comentarios."
+
+#~ msgid "Login"
+#~ msgstr "Entrada"
+#~ msgid "Authorization"
+#~ msgstr "Autorización"
+#~ msgid "official plugin page"
+#~ msgstr "página del plugin oficial"
+#~ msgid "Donate"
+#~ msgstr "Donar"
+#~ msgid "help further development"
+#~ msgstr "ayuda añadida al desarrollo"
+#~ msgid "soon"
+#~ msgstr "pronto"
+#~ msgid "Misc"
+#~ msgstr "Misceláneo"
+#~ msgid "Posts &amp; Pages Tracking"
+#~ msgstr "Seguimiento de entradas y p&aacute;ginas"
+#~ msgid "tracking posts and pages"
+#~ msgstr "seguimiento de entradas y páginas"
+#~ msgid "ON"
+#~ msgstr "Encendido"
+#~ msgid "OFF"
+#~ msgstr "Apagado"
+#~ msgid "tracking users website browsing"
+#~ msgstr "Seguimiento de la navegación de usuarios en el sitio web"
+#~ msgid "Auto tagger is running."
+#~ msgstr "Auto etiquetador esta ejecutandose."
+#~ msgid "Load"
+#~ msgstr "Cargar"
+#~ msgid "edit"
+#~ msgstr "editar"
+#~ msgid "view"
+#~ msgstr "vistas"
+#~ msgid "duplicate"
+#~ msgstr "duplicado"
+#~ msgid "unpin"
+#~ msgstr "descubrir (unpin)"
+#~ msgid "Nothing pinned yet."
+#~ msgstr "Ningún pin todavía."
+#~ msgid "Post Custom Fields"
+#~ msgstr "Campos de entrada personalizados"
+#~ msgid "User Custom Fields"
+#~ msgstr "Campos de usuario personalizados"
+#~ msgid "development home with svn"
+#~ msgstr "sitio de desarrollo con svn"
+#~ msgid "Extras"
+#~ msgstr "Extras"
+#~ msgid "PHP Settings"
+#~ msgstr "Configuraciones PHP"
+#~ msgid "Add revisions column on the post and page edit panel table."
+#~ msgstr ""
+#~ "Añadir columna de revisión en la entrada y página de edición en la tabla "
+#~ "del panel."
+#~ msgid "basic plugin class and wizard"
+#~ msgstr "clase de plugin básico y asistente"
+#~ msgid "cleanup database"
+#~ msgstr "limpieza de base de datos"
+#~ msgid "open panel"
+#~ msgstr "abrir panel"
+#~ msgid "Plugin Info"
+#~ msgstr "Información del plugin"
+#~ msgid "Editor Grids"
+#~ msgstr "Editor de cuadriculas"
+
